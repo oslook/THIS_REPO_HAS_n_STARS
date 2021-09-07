@@ -199,5 +199,5 @@ if __name__ == "__main__":
         print(repo_info)
         stars = get_stars(login, repo_info)
         print("stars", [i['login'] for i in stars])
-        update(repo_info['id'], repo_info['name'])
+        update(repo_info['id'], "THIS_REPO_HAS_%d_STARS" % len(stars))
         readme(stars)
