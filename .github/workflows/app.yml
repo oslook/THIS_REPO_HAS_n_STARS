@@ -21,13 +21,12 @@ jobs:
     - id: star
       run: |
         python main.py ${{ secrets.PAT }} $GITHUB_REPOSITORY
-        echo "::set-output name=name::$(cat /tmp/user.txt | awk -f '{print $1}')"
-        echo "::set-output name=email::$(cat /tmp/user.txt | awk -f '{print $2}')"
-        echo "::set-output name=count::$(cat /tmp/user.txt | awk -f '{print $3}')"
+        echo "::set-output name=name::$(awk -f '{print $1}' /tmp/user.txt)"
+        echo "::set-output name=count::$(awk -f '{print $2}' /tmp/user.txt)"
     - run: |
         echo ${{ steps.star.outputs.email }} ${{ steps.star.outputs.name }} ${{ steps.star.outputs.count }}
-        git config --local user.email "${{ steps.star.outputs.email }}"
-        git config --local user.name "${{ steps.meizu.outputs.name }}"
+        git config --local user.email "${{ github.actor }}@users.noreply.github.com"
+        git config --local user.name "${{ github.actor }}"
         git add .
-        git commit -m "${{ steps.meizu.outputs.count }} 🌟" -a
+        git commit -m "${{ steps.star.outputs.count }} 🌟" -a
         git push
