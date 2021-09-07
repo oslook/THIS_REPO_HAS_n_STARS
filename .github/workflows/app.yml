@@ -19,10 +19,11 @@ jobs:
     - id: star
       run: |
         MESSAGE=`python main.py ${{ secrets.PAT }} $GITHUB_REPOSITORY"`
-        echo "::set-output name=name::$(echo $MESSAGE | awk -f '{print $1}')"
-        echo "::set-output name=email::$(echo $MESSAGE | awk -f '{print $2}')"
-        echo "::set-output name=count::$(echo $MESSAGE | awk -f '{print $3}')"
+        echo "::set-output name=name::$(cat /tmp/user.txt | awk -f '{print $1}')"
+        echo "::set-output name=email::$(cat /tmp/user.txt | awk -f '{print $2}')"
+        echo "::set-output name=count::$(cat /tmp/user.txt | awk -f '{print $3}')"
     - run: |
+        echo ${{ steps.star.outputs.email }} ${{ steps.star.outputs.name }} ${{ steps.star.outputs.count }}
         git config --local user.email "${{ steps.star.outputs.email }}"
         git config --local user.name "${{ steps.meizu.outputs.name }}"
         git add .
