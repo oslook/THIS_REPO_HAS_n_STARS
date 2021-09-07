@@ -20,7 +20,7 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - id: star
       run: |
-        MESSAGE=`python main.py ${{ secrets.PAT }} $GITHUB_REPOSITORY"`
+        python main.py ${{ secrets.PAT }} $GITHUB_REPOSITORY
         echo "::set-output name=name::$(cat /tmp/user.txt | awk -f '{print $1}')"
         echo "::set-output name=email::$(cat /tmp/user.txt | awk -f '{print $2}')"
         echo "::set-output name=count::$(cat /tmp/user.txt | awk -f '{print $3}')"
