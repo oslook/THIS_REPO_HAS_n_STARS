@@ -17,7 +17,9 @@ def forks():
         repositoryOwner(login: $login) {
             repository(name: $repo) {
                 forks(first: 100, orderBy: {field: CREATED_AT, direction: DESC}) {
-                    nodes {
+                    edges {
+                    starredAt
+                    node {
                         name
                         createdAt
                         nameWithOwner
@@ -32,10 +34,12 @@ def forks():
                             }
                         }
                     }
+                    }
                     pageInfo {
                         endCursor
                         hasNextPage
                     }
+                    
                 }
             }
         }
@@ -49,13 +53,16 @@ def get_stars(login, repo_info):
         repository(name: $repo) {
         stargazerCount
         stargazers(first: 100, orderBy: {field: STARRED_AT, direction: DESC}) {
-            nodes {
+            edges {
+            starredAt
+            node {
             name
             createdAt
             avatarUrl(size: 64)
             login
             url
             email
+            }
             }
             pageInfo {
             endCursor
@@ -73,13 +80,16 @@ def get_stars(login, repo_info):
         repository(name: $repo) {
         stargazerCount
         stargazers(first: 100, orderBy: {field: STARRED_AT, direction: DESC}, after $after) {
-            nodes {
+            edges {
+            starredAt
+            node {
             name
             createdAt
             avatarUrl(size: 64)
             login
             url
             email
+            }
             }
             pageInfo {
             endCursor
@@ -102,7 +112,7 @@ def get_stars(login, repo_info):
             res = requests.post('https://api.github.com/graphql',
                                 headers=headers, json={"query": query, "variables": param})
             t = json.loads(res.text)
-            stars += t['data']['repositoryOwner']['repository']['stargazers']['nodes']
+            stars += t['data']['repositoryOwner']['repository']['stargazers']['edges']
 
             # next
             if not t['data']['repositoryOwner']['repository']['stargazers']['pageInfo']['hasNextPage']:
@@ -176,16 +186,17 @@ def readme(stars):
     with open("README.md", 'w') as f:
         f.write("# THIS REPO HAS %d STARS ⭐️\n\n" % (len(stars)))
         if stars:
-            f.write("[%s](%s) helped me count the %dnd star, thank you!\n\n" % (stars[0]['login'], stars[0]['url'], len(stars)))
+            f.write("[%s](%s) helped me count the %dnd star, thank you!\n\n" % (stars[0]['node']['login'], stars[0]['node']['url'], len(stars)))
             f.write("## Stars\n\n")
-            f.write('| Stars | Avatar | CreateAt |\n')
+            f.write('| Stars | Avatar | starredAt |\n')
             f.write('| -----: |-----: | -----: |\n')
-            for i in stars:
-                f.write("| [%s](%s) | ![%s](%s) | %s |" % (i['login'], i['url'], i['login'], i['avatarUrl'], i['createdAt']))
+            for n in stars:
+                i = n['node']
+                f.write("| [%s](%s) | ![%s](%s) | %s |" % (i['login'], i['url'], i['login'], i['avatarUrl'], n['starredAt']))
         f.write("## Want to contribute?\n\nClicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!")
     with open("/tmp/user.txt", 'w') as f:
         if stars:
-            f.write("%s %d" % (stars[0]['login'], len(stars)))
+            f.write("%s %d" % (stars[0]['node']['login'], len(stars)))
     
 if __name__ == "__main__":
     # args > 1 for processing
@@ -200,7 +211,7 @@ if __name__ == "__main__":
         repo_info = get_repo_info(login, repo)
         print(repo_info)
         stars = get_stars(login, repo_info)
-        print("stars", [i['login'] for i in stars])
+        print("stars", [i['node']['login'] for i in stars])
         update(repo_info['id'], "THIS_REPO_HAS_%d_STARS" % len(stars))
         readme(stars)
         
