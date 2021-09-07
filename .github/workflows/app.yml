@@ -1,6 +1,8 @@
 name: commit
 
 on:
+  watch:
+    types: [started]
   workflow_dispatch:
   
 jobs:
