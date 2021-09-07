@@ -111,7 +111,7 @@ def get_stars(login, repo_info):
             param['after']=t['data']['repositoryOwner']['repository']['stargazers']['pageInfo']['endCursor']
             print(param)
     except Exception as e:
-        #print("get stars", e)
+        print("get stars", e)
         # {'data': None, 'errors': [{'message': 'Something went wrong while executing your query. This may be the result of a timeout, or it could be a GitHub bug. Please include `A192:7CFA:EB2D34:1B4927F:611B5598` when reporting this issue.'}]}
     return stars
 
