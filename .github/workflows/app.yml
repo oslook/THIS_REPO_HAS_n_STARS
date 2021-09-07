@@ -25,16 +25,10 @@ jobs:
         echo "::set-output name=count::$(awk -f '{print $2}' /tmp/user.txt)"
         
     - run: |
-        if [[ -n $(git diff --stat) ]]
-        then
-          echo 'dirty'
-          echo ${{ steps.star.outputs.email }} ${{ steps.star.outputs.name }} ${{ steps.star.outputs.count }}
-          git config --local user.email "${{ github.actor }}@users.noreply.github.com"
-          git config --local user.name "${{ github.actor }}"
-          git add .
-          git commit -m "${{ steps.star.outputs.count }} 🌟" -a
-          git push
-        else
-          echo 'clean'
-        fi
+        echo ${{ steps.star.outputs.email }} ${{ steps.star.outputs.name }} ${{ steps.star.outputs.count }}
+        git config --local user.email "${{ github.actor }}@users.noreply.github.com"
+        git config --local user.name "${{ github.actor }}"
+        git add .
+        git commit -m "${{ steps.star.outputs.count }} 🌟" -a --allow-empty
+        git push
        
