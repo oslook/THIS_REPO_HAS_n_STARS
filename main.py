@@ -182,9 +182,10 @@ def readme(stars):
             f.write('| -----: |-----: | -----: |\n')
             for i in stars:
                 f.write("| [%s](%s) | ![%s](%s) | %s |" % (i['login'], i['url'], i['login'], i['avatarUrl'], i['createdAt']))
-            with open("/tmp/user.txt", 'w') as ff:
-                ff.write("%s %s %d" % (stars[0]['login'], stars[0]['email'], len(stars))
         f.write("## Want to contribute?\n\nClicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!")
+    with open("/tmp/user.txt", 'w') as f:
+        if stars:
+            ff.write("%s %s %d" % (stars[0]['login'], stars[0]['email'], len(stars)))
     
 if __name__ == "__main__":
     # args > 1 for processing
