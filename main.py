@@ -187,10 +187,10 @@ def readme(stars):
 
 if __name__ == "__main__":
     # args > 1 for processing
-    if len(sys.argv) > 3:
+    if len(sys.argv) > 2:
         token = sys.argv[1]
-        login = sys.argv[2]
-        repo = sys.argv[3]
+        login = sys.argv[2].split("/")[0]
+        repo = sys.argv[2].split("/")[1]
         if token:
             headers['Authorization'] = 'token ' + token
 
