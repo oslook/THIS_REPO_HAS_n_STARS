@@ -1,0 +1,30 @@
+name: commit
+
+on:
+  workflow_dispatch:
+  
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.9
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.9
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+    - id: star
+      run: |
+        MESSAGE=`python main.py ${{ secrets.PAT }} $GITHUB_REPOSITORY"`
+        echo "::set-output name=name::$(echo $MESSAGE | awk -f '{print $1}')"
+        echo "::set-output name=email::$(echo $MESSAGE | awk -f '{print $2}')"
+        echo "::set-output name=count::$(echo $MESSAGE | awk -f '{print $3}')"
+    - run: |
+        git config --local user.email "${{ steps.star.outputs.email }}"
+        git config --local user.name "${{ steps.meizu.outputs.name }}"
+        git add .
+        git commit -m "${{ steps.meizu.outputs.count }} 🌟" -a
+        git push
