@@ -212,7 +212,7 @@ if __name__ == "__main__":
         print(repo_info)
         if len(sys.argv) > 3:
             count = sys.argv[3]
-            update(repo_info['id'], "THIS_REPO_HAS_%d_STARS" % count)
+            update(repo_info['id'], "THIS_REPO_HAS_%s_STARS" % count)
         else:
             stars = get_stars(login, repo_info)
             print("stars", [i['node']['login'] for i in stars])
