@@ -207,11 +207,14 @@ if __name__ == "__main__":
         if token:
             headers['Authorization'] = 'token ' + token
 
-        start_time = time.time()
+        start_time = time.time()      
         repo_info = get_repo_info(login, repo)
         print(repo_info)
-        stars = get_stars(login, repo_info)
-        print("stars", [i['node']['login'] for i in stars])
-        update(repo_info['id'], "THIS_REPO_HAS_%d_STARS" % len(stars))
-        readme(stars)
-        
+        if len(sys.argv) > 3:
+            count = sys.argv[3]
+            update(repo_info['id'], "THIS_REPO_HAS_%d_STARS" % count)
+        else:
+            stars = get_stars(login, repo_info)
+            print("stars", [i['node']['login'] for i in stars])
+            readme(stars)
+
