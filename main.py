@@ -112,6 +112,7 @@ def get_stars(login, repo_info):
             res = requests.post('https://api.github.com/graphql',
                                 headers=headers, json={"query": query, "variables": param})
             t = json.loads(res.text)
+            print("get stars res:", t)
             stars += t['data']['repositoryOwner']['repository']['stargazers']['edges']
 
             # next
