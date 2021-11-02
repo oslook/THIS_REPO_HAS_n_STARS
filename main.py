@@ -177,7 +177,6 @@ query ($login: String! $repo: String!) {
         t = json.loads(res.text)
         if "errors" in t:
             print("get_repo_info errors:", t)
-            break
         print(t)
         return t['data']['repository']
     except Exception as e:
