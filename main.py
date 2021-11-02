@@ -109,7 +109,9 @@ def get_stars(login, repo_info):
             res = requests.post('https://api.github.com/graphql',
                                 headers=headers, json={"query": query, "variables": param})
             t = json.loads(res.text)
-            print("get stars res:", t)
+            if "errors" in t:
+                print("get stars errors:", t)
+                break
             stars += t['data']['repositoryOwner']['repository']['stargazers']['edges']
 
             # next
@@ -173,6 +175,9 @@ query ($login: String! $repo: String!) {
         res = requests.post('https://api.github.com/graphql',
                             headers=headers, json={"query": query, "variables": param})
         t = json.loads(res.text)
+        if "errors" in t:
+            print("get_repo_info errors:", t)
+            break
         print(t)
         return t['data']['repository']
     except Exception as e:
