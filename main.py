@@ -30,7 +30,6 @@ def forks():
                             avatarUrl(size: 64)
                             login
                             url
-                            email
                             }
                         }
                     }
@@ -61,7 +60,6 @@ def get_stars(login, repo_info):
             avatarUrl(size: 64)
             login
             url
-            email
             }
             }
             pageInfo {
@@ -88,7 +86,6 @@ def get_stars(login, repo_info):
             avatarUrl(size: 64)
             login
             url
-            email
             }
             }
             pageInfo {
