@@ -1,12 +1,12 @@
 # THIS REPO HAS 6 STARS ⭐️
 
-[sherlockia2](https://github.com/sherlockia2) helped me count the 6nd star, thank you!
+[weeklyd3](https://github.com/weeklyd3) helped me count the 6nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
-| [sherlockia2](https://github.com/sherlockia2) | ![sherlockia2](https://avatars.githubusercontent.com/u/74177321?s=64&u=c5b14ea0ac8b36891aaee450c625b7170000f567&v=4) | 2022-02-22T14:48:02Z |
+| [weeklyd3](https://github.com/weeklyd3) | ![weeklyd3](https://avatars.githubusercontent.com/u/79176077?s=64&v=4) | 2022-05-05T03:52:24Z |
 | [reaitten](https://github.com/reaitten) | ![reaitten](https://avatars.githubusercontent.com/u/52531973?s=64&u=445d54c7be2043f1fa0b621d416f81375e1ae07d&v=4) | 2022-02-20T19:50:28Z |
 | [pen960223](https://github.com/pen960223) | ![pen960223](https://avatars.githubusercontent.com/u/22234922?s=64&v=4) | 2022-01-27T13:39:04Z |
 | [whoway](https://github.com/whoway) | ![whoway](https://avatars.githubusercontent.com/u/48819015?s=64&u=cb511bebe4c7334d607bb3a33597fccfbd445ce7&v=4) | 2021-12-27T10:08:26Z |
