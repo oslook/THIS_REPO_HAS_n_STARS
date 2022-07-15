@@ -1,4 +1,4 @@
-# 这个仓库有 6 星标 ⭐️[English](./README.md) [中文](./README_cn.md)
+# 这个仓库有 6个 星标 ⭐️[【English】](./README.md) [【中文】](./README_cn.md)
 
 感谢 [oslook](https://github.com/oslook) 帮我做了第 6 个星标!
 
@@ -6,7 +6,7 @@
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
-| [oslook](https://github.com/oslook) | ![oslook](https://avatars.githubusercontent.com/u/6346865?s=64&u=5875914334b380ad5aa06af10d5692c4046ee5ee&v=4) | 2022-07-15T17:14:00Z |
+| [oslook](https://github.com/oslook) | ![oslook](https://avatars.githubusercontent.com/u/6346865?s=64&u=5875914334b380ad5aa06af10d5692c4046ee5ee&v=4) | 2022-07-15T17:18:00Z |
 | [weeklyd3](https://github.com/weeklyd3) | ![weeklyd3](https://avatars.githubusercontent.com/u/79176077?s=64&v=4) | 2022-05-05T03:52:24Z |
 | [reaitten](https://github.com/reaitten) | ![reaitten](https://avatars.githubusercontent.com/u/52531973?s=64&u=445d54c7be2043f1fa0b621d416f81375e1ae07d&v=4) | 2022-02-20T19:50:28Z |
 | [pen960223](https://github.com/pen960223) | ![pen960223](https://avatars.githubusercontent.com/u/22234922?s=64&v=4) | 2022-01-27T13:39:04Z |
