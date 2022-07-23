@@ -186,7 +186,7 @@ query ($login: String! $repo: String!) {
 
 def readme(stars):
     with open("README.md", 'w') as f:
-        f.write("# THIS REPO HAS %d STARS ⭐️[【English】](./README.md) [【中文】](./README_cn.md)\n\n" % (len(stars)))
+        f.write("# THIS REPO HAS %d STARS ⭐️\n\n[【English】](./README.md) [【中文】](./README.md)\n\n" % (len(stars)))
         if stars:
             f.write("[%s](%s) helped me count the %dnd star, thank you!\n\n" % (stars[0]['node']['login'], stars[0]['node']['url'], len(stars)))
             f.write("## Stars\n\n")
@@ -197,7 +197,7 @@ def readme(stars):
                 f.write("| [%s](%s) | <img src=\"%s\" alt=\"drawing\" width=\"64\"/> | %s |\n" % (i['login'], i['url'], i['avatarUrl'], n['starredAt']))
         f.write("## Want to contribute?\n\nClicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!")
     with open("README_cn.md", 'w') as f:
-        f.write("# 这个仓库有 %d个 星标 ⭐️[【English】](./README.md) [【中文】](./README_cn.md)\n\n" % (len(stars)))
+        f.write("# 这个仓库有 %d个 星标 ⭐️\n\n[【English】](./README.md) [【中文】](./README_cn.md)\n\n" % (len(stars)))
         if stars:
             f.write("感谢 [%s](%s) 帮我做了第 %d 个星标!\n\n" % (stars[0]['node']['login'], stars[0]['node']['url'], len(stars)))
             f.write("## Stars\n\n")
