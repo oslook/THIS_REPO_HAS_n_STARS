@@ -194,7 +194,7 @@ def readme(stars):
             f.write('| -----: |-----: | -----: |\n')
             for n in stars:
                 i = n['node']
-                f.write("| [%s](%s) | ![%s](%s) | %s |\n" % (i['login'], i['url'], i['login'], i['avatarUrl'], n['starredAt']))
+                f.write("| [%s](%s) | <img src="%s" alt="drawing" width="64"/> | %s |\n" % (i['login'], i['url'], i['avatarUrl'], n['starredAt']))
         f.write("## Want to contribute?\n\nClicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!")
     with open("README_cn.md", 'w') as f:
         f.write("# 这个仓库有 %d个 星标 ⭐️[【English】](./README.md) [【中文】](./README_cn.md)\n\n" % (len(stars)))
@@ -205,7 +205,7 @@ def readme(stars):
             f.write('| -----: |-----: | -----: |\n')
             for n in stars:
                 i = n['node']
-                f.write("| [%s](%s) | ![%s](%s) | %s |\n" % (i['login'], i['url'], i['login'], i['avatarUrl'], n['starredAt']))
+                f.write("| [%s](%s) | <img src="%s" alt="drawing" width="64"/> | %s |\n" % (i['login'], i['url'], i['avatarUrl'], n['starredAt']))
         f.write("## 你想试试吗?\n\n. 请点击上面的 star 按钮!")
     with open("/tmp/user.txt", 'w') as f:
         if stars:
