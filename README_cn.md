@@ -1,11 +1,14 @@
-# 这个仓库有 6个 星标 ⭐️[【English】](./README.md) [【中文】](./README_cn.md)
+# 这个仓库有 7个 星标 ⭐️
 
-感谢 [oslook](https://github.com/oslook) 帮我做了第 6 个星标!
+[【English】](./README.md) [【中文】](./README_cn.md)
+
+感谢 [HRxiaohu](https://github.com/HRxiaohu) 帮我做了第 7 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
+| [HRxiaohu](https://github.com/HRxiaohu) | <img src="https://avatars.githubusercontent.com/u/63327671?s=64&u=d5b5bb03d37fbcdf64bb4094fff51ae4a10b53ba&v=4" alt="drawing" width="64"/> | 2022-07-23T10:33:21Z |
 | [oslook](https://github.com/oslook) | <img src="https://avatars.githubusercontent.com/u/6346865?s=64&u=5875914334b380ad5aa06af10d5692c4046ee5ee&v=4" alt="drawing" width="64"/> | 2022-07-23T08:41:52Z |
 | [weeklyd3](https://github.com/weeklyd3) | <img src="https://avatars.githubusercontent.com/u/79176077?s=64&v=4" alt="drawing" width="64"/> | 2022-05-05T03:52:24Z |
 | [reaitten](https://github.com/reaitten) | <img src="https://avatars.githubusercontent.com/u/52531973?s=64&u=445d54c7be2043f1fa0b621d416f81375e1ae07d&v=4" alt="drawing" width="64"/> | 2022-02-20T19:50:28Z |
