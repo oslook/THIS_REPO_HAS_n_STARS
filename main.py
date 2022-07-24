@@ -128,7 +128,7 @@ def get_stars(login, repo_info):
 
 def update(id, name):
     query = '''
-    mutation ($repositoryId: String!, $repoName: String!) {
+    mutation ($repositoryId: ID!, $repoName: String!) {
     __typename
     updateRepository(input: {repositoryId: $repositoryId, name: $repoName}) {
         repository {
