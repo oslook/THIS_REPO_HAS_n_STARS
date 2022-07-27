@@ -2,13 +2,13 @@
 
 [【English】](./README.md) [【中文】](./README_cn.md)
 
-感谢 [ConquerorWolverine](https://github.com/ConquerorWolverine) 帮我做了第 8 个星标!
+感谢 [chunyukanhai](https://github.com/chunyukanhai) 帮我做了第 8 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
-| [ConquerorWolverine](https://github.com/ConquerorWolverine) | <img src="https://avatars.githubusercontent.com/u/49480249?s=64&u=c4e11bae6e74218624561d08d868139fc3e87d83&v=4" alt="drawing" width="64"/> | 2022-07-26T14:32:05Z |
+| [chunyukanhai](https://github.com/chunyukanhai) | <img src="https://avatars.githubusercontent.com/u/107802434?s=64&v=4" alt="drawing" width="64"/> | 2022-07-27T13:02:13Z |
 | [oslook](https://github.com/oslook) | <img src="https://avatars.githubusercontent.com/u/6346865?s=64&u=5875914334b380ad5aa06af10d5692c4046ee5ee&v=4" alt="drawing" width="64"/> | 2022-07-24T14:53:52Z |
 | [nenevva](https://github.com/nenevva) | <img src="https://avatars.githubusercontent.com/u/62131038?s=64&u=cff43fa379958b8a714e651cea8489c649b88ec0&v=4" alt="drawing" width="64"/> | 2022-07-23T16:29:14Z |
 | [weeklyd3](https://github.com/weeklyd3) | <img src="https://avatars.githubusercontent.com/u/79176077?s=64&v=4" alt="drawing" width="64"/> | 2022-05-05T03:52:24Z |
