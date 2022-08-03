@@ -1,13 +1,14 @@
-# THIS REPO HAS 10 STARS ⭐️
+# THIS REPO HAS 11 STARS ⭐️
 
 [【English】](./README.md) [【中文】](./README.md)
 
-[zhangyu9854](https://github.com/zhangyu9854) helped me count the 10nd star, thank you!
+[mdcgqq](https://github.com/mdcgqq) helped me count the 11nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
+| [mdcgqq](https://github.com/mdcgqq) | <img src="https://avatars.githubusercontent.com/u/82955884?s=64&u=e39b315842f91bdc89637bf87e6d507abea14a89&v=4" alt="drawing" width="64"/> | 2022-08-03T15:26:21Z |
 | [zhangyu9854](https://github.com/zhangyu9854) | <img src="https://avatars.githubusercontent.com/u/82883543?s=64&v=4" alt="drawing" width="64"/> | 2022-08-02T15:53:28Z |
 | [BetterLuke](https://github.com/BetterLuke) | <img src="https://avatars.githubusercontent.com/u/12392903?s=64&u=42a63277dee43de4af20b3357f3a4716349e16e9&v=4" alt="drawing" width="64"/> | 2022-08-02T02:18:24Z |
 | [zrhsgyx](https://github.com/zrhsgyx) | <img src="https://avatars.githubusercontent.com/u/104632178?s=64&v=4" alt="drawing" width="64"/> | 2022-07-29T02:55:00Z |
