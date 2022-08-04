@@ -1,12 +1,12 @@
-# 这个仓库有 12个 星标 ⭐️
+# THIS REPO HAS 12 STARS ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [zsh0805](https://github.com/zsh0805) 帮我做了第 12 个星标!
+[zsh0805](https://github.com/zsh0805) helped me count the 12nd star, thank you!
 
 ## Stars
 
-| 用户 | 头像 | 星标时间 |
+| Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
 | [zsh0805](https://github.com/zsh0805) | <img src="https://avatars.githubusercontent.com/u/74940585?s=64&v=4" alt="drawing" width="64"/> | 2022-08-04T09:17:52Z |
 | [mdcgqq](https://github.com/mdcgqq) | <img src="https://avatars.githubusercontent.com/u/82955884?s=64&u=e39b315842f91bdc89637bf87e6d507abea14a89&v=4" alt="drawing" width="64"/> | 2022-08-03T15:26:21Z |
@@ -20,6 +20,6 @@
 | [pen960223](https://github.com/pen960223) | <img src="https://avatars.githubusercontent.com/u/22234922?s=64&v=4" alt="drawing" width="64"/> | 2022-01-27T13:39:04Z |
 | [whoway](https://github.com/whoway) | <img src="https://avatars.githubusercontent.com/u/48819015?s=64&u=cb511bebe4c7334d607bb3a33597fccfbd445ce7&v=4" alt="drawing" width="64"/> | 2021-12-27T10:08:26Z |
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
-## 你想试试吗?
+## Want to contribute?
 
-. 请点击上面的 star 按钮!
+Clicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!
