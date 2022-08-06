@@ -1,13 +1,14 @@
-# THIS REPO HAS 14 STARS ⭐️
+# THIS REPO HAS 15 STARS ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[m-initiator](https://github.com/m-initiator) helped me count the 14nd star, thank you!
+[a1ex0120](https://github.com/a1ex0120) helped me count the 15nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
+| [a1ex0120](https://github.com/a1ex0120) | <img src="https://avatars.githubusercontent.com/u/109487381?s=64&v=4" alt="drawing" width="64"/> | 2022-08-06T15:34:29Z |
 | [m-initiator](https://github.com/m-initiator) | <img src="https://avatars.githubusercontent.com/u/30044176?s=64&u=783a5dbba2378db673f7a93b0c9104865ea69672&v=4" alt="drawing" width="64"/> | 2022-08-05T09:14:30Z |
 | [nyancat794](https://github.com/nyancat794) | <img src="https://avatars.githubusercontent.com/u/68503183?s=64&v=4" alt="drawing" width="64"/> | 2022-08-05T03:11:29Z |
 | [zsh0805](https://github.com/zsh0805) | <img src="https://avatars.githubusercontent.com/u/74940585?s=64&v=4" alt="drawing" width="64"/> | 2022-08-04T09:17:52Z |
