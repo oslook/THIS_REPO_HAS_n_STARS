@@ -1,13 +1,14 @@
-# 这个仓库有 15个 星标 ⭐️
+# 这个仓库有 16个 星标 ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [a1ex0120](https://github.com/a1ex0120) 帮我做了第 15 个星标!
+感谢 [guaitai057](https://github.com/guaitai057) 帮我做了第 16 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
+| [guaitai057](https://github.com/guaitai057) | <img src="https://avatars.githubusercontent.com/u/104347118?s=64&v=4" alt="drawing" width="64"/> | 2022-08-08T03:46:34Z |
 | [a1ex0120](https://github.com/a1ex0120) | <img src="https://avatars.githubusercontent.com/u/109487381?s=64&v=4" alt="drawing" width="64"/> | 2022-08-06T15:34:29Z |
 | [m-initiator](https://github.com/m-initiator) | <img src="https://avatars.githubusercontent.com/u/30044176?s=64&u=783a5dbba2378db673f7a93b0c9104865ea69672&v=4" alt="drawing" width="64"/> | 2022-08-05T09:14:30Z |
 | [nyancat794](https://github.com/nyancat794) | <img src="https://avatars.githubusercontent.com/u/68503183?s=64&v=4" alt="drawing" width="64"/> | 2022-08-05T03:11:29Z |
