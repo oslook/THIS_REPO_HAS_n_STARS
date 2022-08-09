@@ -195,6 +195,7 @@ def readme(stars):
             for n in stars:
                 i = n['node']
                 f.write("| [%s](%s) | <img src=\"%s\" alt=\"drawing\" width=\"64\"/> | %s |\n" % (i['login'], i['url'], i['avatarUrl'], n['starredAt']))
+        f.write('<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_%d_STARS"/> </a>' % (len(stars)))
         f.write("## Want to contribute?\n\nClicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!")
     with open("README.md", 'w') as f:
         f.write("# 这个仓库有 %d个 星标 ⭐️\n\n[【English】](./README_en.md) [【中文】](./README.md)\n\n" % (len(stars)))
@@ -206,6 +207,7 @@ def readme(stars):
             for n in stars:
                 i = n['node']
                 f.write("| [%s](%s) | <img src=\"%s\" alt=\"drawing\" width=\"64\"/> | %s |\n" % (i['login'], i['url'], i['avatarUrl'], n['starredAt']))
+        f.write('<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_%d_STARS"/> </a>' % (len(stars)))
         f.write("## 你想试试吗?\n\n. 请点击上面的 star 按钮!")
     with open("/tmp/user.txt", 'w') as f:
         if stars:
