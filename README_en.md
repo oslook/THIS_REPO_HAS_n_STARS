@@ -1,13 +1,14 @@
-# THIS REPO HAS 18 STARS ⭐️
+# THIS REPO HAS 19 STARS ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[iuunet](https://github.com/iuunet) helped me count the 18nd star, thank you!
+[originalcore](https://github.com/originalcore) helped me count the 19nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
+| [originalcore](https://github.com/originalcore) | <img src="https://avatars.githubusercontent.com/u/16890495?s=64&u=aa1ba2fa090c148339865fb1242aab4a4a3c5dbc&v=4" alt="drawing" width="64"/> | 2022-08-11T04:23:04Z |
 | [iuunet](https://github.com/iuunet) | <img src="https://avatars.githubusercontent.com/u/8832770?s=64&u=aa8025f0715ac76247f0491b47e3a055170fc307&v=4" alt="drawing" width="64"/> | 2022-08-10T01:55:53Z |
 | [zszleo](https://github.com/zszleo) | <img src="https://avatars.githubusercontent.com/u/47414220?s=64&v=4" alt="drawing" width="64"/> | 2022-08-09T16:16:41Z |
 | [guaitai057](https://github.com/guaitai057) | <img src="https://avatars.githubusercontent.com/u/104347118?s=64&v=4" alt="drawing" width="64"/> | 2022-08-08T03:46:34Z |
@@ -26,6 +27,6 @@
 | [pen960223](https://github.com/pen960223) | <img src="https://avatars.githubusercontent.com/u/22234922?s=64&v=4" alt="drawing" width="64"/> | 2022-01-27T13:39:04Z |
 | [whoway](https://github.com/whoway) | <img src="https://avatars.githubusercontent.com/u/48819015?s=64&u=cb511bebe4c7334d607bb3a33597fccfbd445ce7&v=4" alt="drawing" width="64"/> | 2021-12-27T10:08:26Z |
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_18_STARS"/> </a>## Want to contribute?
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_19_STARS"/> </a>## Want to contribute?
 
 Clicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!
