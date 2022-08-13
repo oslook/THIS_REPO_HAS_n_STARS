@@ -1,14 +1,13 @@
-# 这个仓库有 20个 星标 ⭐️
+# 这个仓库有 19个 星标 ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [D-prophet-L](https://github.com/D-prophet-L) 帮我做了第 20 个星标!
+感谢 [originalcore](https://github.com/originalcore) 帮我做了第 19 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
-| [D-prophet-L](https://github.com/D-prophet-L) | <img src="https://avatars.githubusercontent.com/u/67895220?s=64&u=c2b4868d36ce4eaed06110dd8d028c995315a724&v=4" alt="drawing" width="64"/> | 2022-08-12T01:36:37Z |
 | [originalcore](https://github.com/originalcore) | <img src="https://avatars.githubusercontent.com/u/16890495?s=64&u=aa1ba2fa090c148339865fb1242aab4a4a3c5dbc&v=4" alt="drawing" width="64"/> | 2022-08-11T04:23:04Z |
 | [iuunet](https://github.com/iuunet) | <img src="https://avatars.githubusercontent.com/u/8832770?s=64&u=aa8025f0715ac76247f0491b47e3a055170fc307&v=4" alt="drawing" width="64"/> | 2022-08-10T01:55:53Z |
 | [zszleo](https://github.com/zszleo) | <img src="https://avatars.githubusercontent.com/u/47414220?s=64&v=4" alt="drawing" width="64"/> | 2022-08-09T16:16:41Z |
@@ -28,6 +27,6 @@
 | [pen960223](https://github.com/pen960223) | <img src="https://avatars.githubusercontent.com/u/22234922?s=64&v=4" alt="drawing" width="64"/> | 2022-01-27T13:39:04Z |
 | [whoway](https://github.com/whoway) | <img src="https://avatars.githubusercontent.com/u/48819015?s=64&u=cb511bebe4c7334d607bb3a33597fccfbd445ce7&v=4" alt="drawing" width="64"/> | 2021-12-27T10:08:26Z |
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_20_STARS"/> </a>## 你想试试吗?
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_19_STARS"/> </a>## 你想试试吗?
 
 . 请点击上面的 star 按钮!
