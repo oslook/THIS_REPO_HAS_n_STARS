@@ -1,13 +1,14 @@
-# THIS REPO HAS 21 STARS ⭐️
+# THIS REPO HAS 22 STARS ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[kylin-ink](https://github.com/kylin-ink) helped me count the 21nd star, thank you!
+[Hoha2333](https://github.com/Hoha2333) helped me count the 22nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
+| [Hoha2333](https://github.com/Hoha2333) | <img src="https://avatars.githubusercontent.com/u/61763722?s=64&u=45db9b2f0a5214cf60a7be4861bd22051cb2f1df&v=4" alt="drawing" width="64"/> | 2022-08-15T05:43:40Z |
 | [kylin-ink](https://github.com/kylin-ink) | <img src="https://avatars.githubusercontent.com/u/37763338?s=64&v=4" alt="drawing" width="64"/> | 2022-08-14T04:22:17Z |
 | [fafa-junhe](https://github.com/fafa-junhe) | <img src="https://avatars.githubusercontent.com/u/22996240?s=64&v=4" alt="drawing" width="64"/> | 2022-08-13T16:27:26Z |
 | [originalcore](https://github.com/originalcore) | <img src="https://avatars.githubusercontent.com/u/16890495?s=64&u=aa1ba2fa090c148339865fb1242aab4a4a3c5dbc&v=4" alt="drawing" width="64"/> | 2022-08-11T04:23:04Z |
@@ -29,6 +30,6 @@
 | [pen960223](https://github.com/pen960223) | <img src="https://avatars.githubusercontent.com/u/22234922?s=64&v=4" alt="drawing" width="64"/> | 2022-01-27T13:39:04Z |
 | [whoway](https://github.com/whoway) | <img src="https://avatars.githubusercontent.com/u/48819015?s=64&u=cb511bebe4c7334d607bb3a33597fccfbd445ce7&v=4" alt="drawing" width="64"/> | 2021-12-27T10:08:26Z |
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_21_STARS"/> </a>## Want to contribute?
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_22_STARS"/> </a>## Want to contribute?
 
 Clicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!
