@@ -1,13 +1,14 @@
-# 这个仓库有 32个 星标 ⭐️
+# 这个仓库有 33个 星标 ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [meiruitesi](https://github.com/meiruitesi) 帮我做了第 32 个星标!
+感谢 [emptybottIe](https://github.com/emptybottIe) 帮我做了第 33 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
+| [emptybottIe](https://github.com/emptybottIe) | <img src="https://avatars.githubusercontent.com/u/67040836?s=64&v=4" alt="drawing" width="64"/> | 2022-08-21T07:35:32Z |
 | [meiruitesi](https://github.com/meiruitesi) | <img src="https://avatars.githubusercontent.com/u/84609642?s=64&u=e432aeacaa6d0ed4829207a05288c2bd735869ca&v=4" alt="drawing" width="64"/> | 2022-08-21T01:45:20Z |
 | [473222027](https://github.com/473222027) | <img src="https://avatars.githubusercontent.com/u/80612561?s=64&v=4" alt="drawing" width="64"/> | 2022-08-20T14:52:29Z |
 | [cloudhzc](https://github.com/cloudhzc) | <img src="https://avatars.githubusercontent.com/u/71585442?s=64&u=3db7eed020e6eeb6595b920a4d08a30357360e5a&v=4" alt="drawing" width="64"/> | 2022-08-20T07:43:27Z |
@@ -42,7 +43,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## 贡献者
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_32_STARS&max=1000&columns=16" width="720"/> </a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_33_STARS&max=1000&columns=16" width="720"/> </a>
 ## 你想试试吗?
 
 . 请点击上面的 star 按钮!
