@@ -2,13 +2,13 @@
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[MissChouYao](https://github.com/MissChouYao) helped me count the 41nd star, thank you!
+[Awkee](https://github.com/Awkee) helped me count the 41nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
-| [MissChouYao](https://github.com/MissChouYao) | <img src="https://avatars.githubusercontent.com/u/112058626?s=64&v=4" alt="drawing" width="64"/> | 2022-08-27T03:37:52Z |
+| [Awkee](https://github.com/Awkee) | <img src="https://avatars.githubusercontent.com/u/12369792?s=64&u=29a385670e17227b21d094bbe45b079286c1603b&v=4" alt="drawing" width="64"/> | 2022-08-27T04:10:09Z |
 | [Oliver221](https://github.com/Oliver221) | <img src="https://avatars.githubusercontent.com/u/41995241?s=64&u=f77e3a71dd268e1e376887303740604d509b22b4&v=4" alt="drawing" width="64"/> | 2022-08-26T04:29:39Z |
 | [F1Justin](https://github.com/F1Justin) | <img src="https://avatars.githubusercontent.com/u/30348215?s=64&u=8664c9dee68cc34786293a4ddd7f9a44db89cc71&v=4" alt="drawing" width="64"/> | 2022-08-26T02:18:21Z |
 | [zz5052376](https://github.com/zz5052376) | <img src="https://avatars.githubusercontent.com/u/37150927?s=64&v=4" alt="drawing" width="64"/> | 2022-08-24T15:07:53Z |
