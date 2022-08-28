@@ -1,13 +1,14 @@
-# 这个仓库有 42个 星标 ⭐️
+# 这个仓库有 43个 星标 ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [xuanweixuanwei](https://github.com/xuanweixuanwei) 帮我做了第 42 个星标!
+感谢 [QCXES](https://github.com/QCXES) 帮我做了第 43 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
+| [QCXES](https://github.com/QCXES) | <img src="https://avatars.githubusercontent.com/u/87409469?s=64&u=2dfb968e96e7d28c6ed59e6e7841a642aaf39264&v=4" alt="drawing" width="64"/> | 2022-08-28T06:02:24Z |
 | [xuanweixuanwei](https://github.com/xuanweixuanwei) | <img src="https://avatars.githubusercontent.com/u/109053337?s=64&v=4" alt="drawing" width="64"/> | 2022-08-27T10:16:37Z |
 | [Awkee](https://github.com/Awkee) | <img src="https://avatars.githubusercontent.com/u/12369792?s=64&u=29a385670e17227b21d094bbe45b079286c1603b&v=4" alt="drawing" width="64"/> | 2022-08-27T04:10:09Z |
 | [Oliver221](https://github.com/Oliver221) | <img src="https://avatars.githubusercontent.com/u/41995241?s=64&u=f77e3a71dd268e1e376887303740604d509b22b4&v=4" alt="drawing" width="64"/> | 2022-08-26T04:29:39Z |
@@ -52,7 +53,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## 贡献者
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_42_STARS&max=1000&columns=16" width="720"/> </a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_43_STARS&max=1000&columns=16" width="720"/> </a>
 ## 你想试试吗?
 
 . 请点击上面的 star 按钮!
