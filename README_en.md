@@ -1,13 +1,14 @@
-# THIS REPO HAS 46 STARS ⭐️
+# THIS REPO HAS 47 STARS ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[Christon-Feng](https://github.com/Christon-Feng) helped me count the 46nd star, thank you!
+[BianYucheng](https://github.com/BianYucheng) helped me count the 47nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
+| [BianYucheng](https://github.com/BianYucheng) | <img src="https://avatars.githubusercontent.com/u/80136960?s=64&v=4" alt="drawing" width="64"/> | 2022-08-31T09:20:30Z |
 | [Christon-Feng](https://github.com/Christon-Feng) | <img src="https://avatars.githubusercontent.com/u/105561024?s=64&v=4" alt="drawing" width="64"/> | 2022-08-30T07:46:57Z |
 | [yaosiqian](https://github.com/yaosiqian) | <img src="https://avatars.githubusercontent.com/u/29835749?s=64&v=4" alt="drawing" width="64"/> | 2022-08-29T13:05:01Z |
 | [zhuifengshaonian1258361204](https://github.com/zhuifengshaonian1258361204) | <img src="https://avatars.githubusercontent.com/u/50539696?s=64&v=4" alt="drawing" width="64"/> | 2022-08-28T15:37:14Z |
@@ -56,7 +57,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## Contribs 
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_46_STARS&max=1000&columns=16" width="720"/></a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_47_STARS&max=1000&columns=16" width="720"/></a>
 ## Want to contribute?
 
 Clicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!
