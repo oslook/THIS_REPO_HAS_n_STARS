@@ -1,13 +1,14 @@
-# 这个仓库有 47个 星标 ⭐️
+# 这个仓库有 48个 星标 ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [BianYucheng](https://github.com/BianYucheng) 帮我做了第 47 个星标!
+感谢 [xiaozhiwuming](https://github.com/xiaozhiwuming) 帮我做了第 48 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
+| [xiaozhiwuming](https://github.com/xiaozhiwuming) | <img src="https://avatars.githubusercontent.com/u/37413166?s=64&v=4" alt="drawing" width="64"/> | 2022-08-31T18:11:04Z |
 | [BianYucheng](https://github.com/BianYucheng) | <img src="https://avatars.githubusercontent.com/u/80136960?s=64&v=4" alt="drawing" width="64"/> | 2022-08-31T09:20:30Z |
 | [Christon-Feng](https://github.com/Christon-Feng) | <img src="https://avatars.githubusercontent.com/u/105561024?s=64&v=4" alt="drawing" width="64"/> | 2022-08-30T07:46:57Z |
 | [yaosiqian](https://github.com/yaosiqian) | <img src="https://avatars.githubusercontent.com/u/29835749?s=64&v=4" alt="drawing" width="64"/> | 2022-08-29T13:05:01Z |
@@ -57,7 +58,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## 贡献者
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_47_STARS&max=1000&columns=16" width="720"/> </a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_48_STARS&max=1000&columns=16" width="720"/> </a>
 ## 你想试试吗?
 
 . 请点击上面的 star 按钮!
