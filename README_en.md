@@ -1,13 +1,14 @@
-# THIS REPO HAS 50 STARS ⭐️
+# THIS REPO HAS 51 STARS ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[jajajaga1207](https://github.com/jajajaga1207) helped me count the 50nd star, thank you!
+[hibmm](https://github.com/hibmm) helped me count the 51nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
+| [hibmm](https://github.com/hibmm) | <img src="https://avatars.githubusercontent.com/u/44130118?s=64&v=4" alt="drawing" width="64"/> | 2022-09-05T04:49:14Z |
 | [jajajaga1207](https://github.com/jajajaga1207) | <img src="https://avatars.githubusercontent.com/u/50943724?s=64&v=4" alt="drawing" width="64"/> | 2022-09-02T15:03:05Z |
 | [CurbOde](https://github.com/CurbOde) | <img src="https://avatars.githubusercontent.com/u/100689271?s=64&v=4" alt="drawing" width="64"/> | 2022-09-02T06:43:58Z |
 | [a1bed000](https://github.com/a1bed000) | <img src="https://avatars.githubusercontent.com/u/14906566?s=64&v=4" alt="drawing" width="64"/> | 2022-09-01T12:23:52Z |
@@ -60,7 +61,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## Contribs 
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_50_STARS&max=1000&columns=16" width="720"/></a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_51_STARS&max=1000&columns=16" width="720"/></a>
 ## Want to contribute?
 
 Clicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!
