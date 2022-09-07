@@ -1,13 +1,14 @@
-# THIS REPO HAS 52 STARS ⭐️
+# THIS REPO HAS 53 STARS ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[luoy-oss](https://github.com/luoy-oss) helped me count the 52nd star, thank you!
+[BurningC4](https://github.com/BurningC4) helped me count the 53nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
+| [BurningC4](https://github.com/BurningC4) | <img src="https://avatars.githubusercontent.com/u/30040912?s=64&v=4" alt="drawing" width="64"/> | 2022-09-07T08:09:58Z |
 | [luoy-oss](https://github.com/luoy-oss) | <img src="https://avatars.githubusercontent.com/u/71601181?s=64&u=5941c5c872c3fc6f13545cb851944883650baa93&v=4" alt="drawing" width="64"/> | 2022-09-06T00:31:42Z |
 | [hibmm](https://github.com/hibmm) | <img src="https://avatars.githubusercontent.com/u/44130118?s=64&v=4" alt="drawing" width="64"/> | 2022-09-05T04:49:14Z |
 | [jajajaga1207](https://github.com/jajajaga1207) | <img src="https://avatars.githubusercontent.com/u/50943724?s=64&v=4" alt="drawing" width="64"/> | 2022-09-02T15:03:05Z |
@@ -62,7 +63,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## Contribs 
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_52_STARS&max=1000&columns=16" width="720"/></a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_53_STARS&max=1000&columns=16" width="720"/></a>
 ## Want to contribute?
 
 Clicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!
