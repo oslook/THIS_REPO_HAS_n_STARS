@@ -1,13 +1,14 @@
-# THIS REPO HAS 54 STARS ⭐️
+# THIS REPO HAS 55 STARS ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[eazywuu](https://github.com/eazywuu) helped me count the 54nd star, thank you!
+[10086e](https://github.com/10086e) helped me count the 55nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
+| [10086e](https://github.com/10086e) | <img src="https://avatars.githubusercontent.com/u/111575997?s=64&v=4" alt="drawing" width="64"/> | 2022-09-10T15:21:19Z |
 | [eazywuu](https://github.com/eazywuu) | <img src="https://avatars.githubusercontent.com/u/90880630?s=64&u=1d8182180eff144cb0aea802b153e2e9a8668208&v=4" alt="drawing" width="64"/> | 2022-09-10T08:44:54Z |
 | [sha7dowXX](https://github.com/sha7dowXX) | <img src="https://avatars.githubusercontent.com/u/53045584?s=64&u=8b234b4fcc85694b0fabd05b85d907dee5e80a12&v=4" alt="drawing" width="64"/> | 2022-09-10T08:10:25Z |
 | [BurningC4](https://github.com/BurningC4) | <img src="https://avatars.githubusercontent.com/u/30040912?s=64&v=4" alt="drawing" width="64"/> | 2022-09-07T08:09:58Z |
@@ -64,7 +65,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## Contribs 
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_54_STARS&max=1000&columns=16" width="720"/></a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_55_STARS&max=1000&columns=16" width="720"/></a>
 ## Want to contribute?
 
 Clicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!
