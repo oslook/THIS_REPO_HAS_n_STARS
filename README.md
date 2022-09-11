@@ -1,14 +1,13 @@
-# 这个仓库有 56个 星标 ⭐️
+# 这个仓库有 55个 星标 ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [Nigh](https://github.com/Nigh) 帮我做了第 56 个星标!
+感谢 [GH2019](https://github.com/GH2019) 帮我做了第 55 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
-| [Nigh](https://github.com/Nigh) | <img src="https://avatars.githubusercontent.com/u/1407471?s=64&u=34885f68a1073470a4ce486b7c6da7700fe07720&v=4" alt="drawing" width="64"/> | 2022-09-11T20:10:11Z |
 | [GH2019](https://github.com/GH2019) | <img src="https://avatars.githubusercontent.com/u/45938868?s=64&v=4" alt="drawing" width="64"/> | 2022-09-11T05:33:54Z |
 | [eazywuu](https://github.com/eazywuu) | <img src="https://avatars.githubusercontent.com/u/90880630?s=64&u=1d8182180eff144cb0aea802b153e2e9a8668208&v=4" alt="drawing" width="64"/> | 2022-09-10T08:44:54Z |
 | [sha7dowXX](https://github.com/sha7dowXX) | <img src="https://avatars.githubusercontent.com/u/53045584?s=64&u=8b234b4fcc85694b0fabd05b85d907dee5e80a12&v=4" alt="drawing" width="64"/> | 2022-09-10T08:10:25Z |
@@ -66,7 +65,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## 贡献者
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_56_STARS&max=1000&columns=16" width="720"/> </a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_55_STARS&max=1000&columns=16" width="720"/> </a>
 ## 你想试试吗?
 
 . 请点击上面的 star 按钮!
