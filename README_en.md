@@ -1,15 +1,14 @@
-# THIS REPO HAS 58 STARS ⭐️
+# THIS REPO HAS 57 STARS ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[yyqww](https://github.com/yyqww) helped me count the 58nd star, thank you!
+[HsingyouZhou](https://github.com/HsingyouZhou) helped me count the 57nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
-| [yyqww](https://github.com/yyqww) | <img src="https://avatars.githubusercontent.com/u/110717299?s=64&v=4" alt="drawing" width="64"/> | 2022-09-13T01:39:33Z |
-| [Nigh](https://github.com/Nigh) | <img src="https://avatars.githubusercontent.com/u/1407471?s=64&u=34885f68a1073470a4ce486b7c6da7700fe07720&v=4" alt="drawing" width="64"/> | 2022-09-12T08:56:48Z |
+| [HsingyouZhou](https://github.com/HsingyouZhou) | <img src="https://avatars.githubusercontent.com/u/61811891?s=64&v=4" alt="drawing" width="64"/> | 2022-09-13T05:21:07Z |
 | [uuuufo](https://github.com/uuuufo) | <img src="https://avatars.githubusercontent.com/u/87823528?s=64&u=b8d55542cd5b2bf7a579cd8f31a5d5ab558e3dfb&v=4" alt="drawing" width="64"/> | 2022-09-12T08:00:57Z |
 | [GH2019](https://github.com/GH2019) | <img src="https://avatars.githubusercontent.com/u/45938868?s=64&v=4" alt="drawing" width="64"/> | 2022-09-11T05:33:54Z |
 | [eazywuu](https://github.com/eazywuu) | <img src="https://avatars.githubusercontent.com/u/90880630?s=64&u=1d8182180eff144cb0aea802b153e2e9a8668208&v=4" alt="drawing" width="64"/> | 2022-09-10T08:44:54Z |
@@ -68,7 +67,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## Contribs 
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_58_STARS&max=1000&columns=16" width="720"/></a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_57_STARS&max=1000&columns=16" width="720"/></a>
 ## Want to contribute?
 
 Clicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!
