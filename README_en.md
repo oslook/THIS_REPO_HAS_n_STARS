@@ -8,7 +8,7 @@
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
-| [yyqww](https://github.com/yyqww) | <img src="https://avatars.githubusercontent.com/u/110717299?s=64&v=4" alt="drawing" width="64"/> | 2022-09-13T01:36:42Z |
+| [yyqww](https://github.com/yyqww) | <img src="https://avatars.githubusercontent.com/u/110717299?s=64&v=4" alt="drawing" width="64"/> | 2022-09-13T01:38:14Z |
 | [Nigh](https://github.com/Nigh) | <img src="https://avatars.githubusercontent.com/u/1407471?s=64&u=34885f68a1073470a4ce486b7c6da7700fe07720&v=4" alt="drawing" width="64"/> | 2022-09-12T08:56:48Z |
 | [uuuufo](https://github.com/uuuufo) | <img src="https://avatars.githubusercontent.com/u/87823528?s=64&u=b8d55542cd5b2bf7a579cd8f31a5d5ab558e3dfb&v=4" alt="drawing" width="64"/> | 2022-09-12T08:00:57Z |
 | [GH2019](https://github.com/GH2019) | <img src="https://avatars.githubusercontent.com/u/45938868?s=64&v=4" alt="drawing" width="64"/> | 2022-09-11T05:33:54Z |
