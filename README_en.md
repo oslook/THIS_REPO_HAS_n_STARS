@@ -1,13 +1,14 @@
-# THIS REPO HAS 58 STARS ⭐️
+# THIS REPO HAS 59 STARS ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[mzh8879](https://github.com/mzh8879) helped me count the 58nd star, thank you!
+[NekoRectifier](https://github.com/NekoRectifier) helped me count the 59nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
+| [NekoRectifier](https://github.com/NekoRectifier) | <img src="https://avatars.githubusercontent.com/u/51020139?s=64&u=2a542b92beac898b7be8c2aa0da2b141e2c94464&v=4" alt="drawing" width="64"/> | 2022-09-15T01:38:08Z |
 | [mzh8879](https://github.com/mzh8879) | <img src="https://avatars.githubusercontent.com/u/113490870?s=64&v=4" alt="drawing" width="64"/> | 2022-09-14T05:10:41Z |
 | [HsingyouZhou](https://github.com/HsingyouZhou) | <img src="https://avatars.githubusercontent.com/u/61811891?s=64&v=4" alt="drawing" width="64"/> | 2022-09-13T05:21:07Z |
 | [uuuufo](https://github.com/uuuufo) | <img src="https://avatars.githubusercontent.com/u/87823528?s=64&u=b8d55542cd5b2bf7a579cd8f31a5d5ab558e3dfb&v=4" alt="drawing" width="64"/> | 2022-09-12T08:00:57Z |
@@ -68,7 +69,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## Contribs 
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_58_STARS&max=1000&columns=16" width="720"/></a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_59_STARS&max=1000&columns=16" width="720"/></a>
 ## Want to contribute?
 
 Clicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!
