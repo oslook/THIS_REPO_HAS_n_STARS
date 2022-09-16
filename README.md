@@ -1,13 +1,14 @@
-# 这个仓库有 59个 星标 ⭐️
+# 这个仓库有 60个 星标 ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [NekoRectifier](https://github.com/NekoRectifier) 帮我做了第 59 个星标!
+感谢 [delapecci](https://github.com/delapecci) 帮我做了第 60 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
+| [delapecci](https://github.com/delapecci) | <img src="https://avatars.githubusercontent.com/u/2783025?s=64&u=681361372a2ab2d68d088c488e75236cc762c8d3&v=4" alt="drawing" width="64"/> | 2022-09-16T00:12:16Z |
 | [NekoRectifier](https://github.com/NekoRectifier) | <img src="https://avatars.githubusercontent.com/u/51020139?s=64&u=2a542b92beac898b7be8c2aa0da2b141e2c94464&v=4" alt="drawing" width="64"/> | 2022-09-15T01:38:08Z |
 | [mzh8879](https://github.com/mzh8879) | <img src="https://avatars.githubusercontent.com/u/113490870?s=64&v=4" alt="drawing" width="64"/> | 2022-09-14T05:10:41Z |
 | [HsingyouZhou](https://github.com/HsingyouZhou) | <img src="https://avatars.githubusercontent.com/u/61811891?s=64&v=4" alt="drawing" width="64"/> | 2022-09-13T05:21:07Z |
@@ -69,7 +70,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## 贡献者
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_59_STARS&max=1000&columns=16" width="720"/> </a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_60_STARS&max=1000&columns=16" width="720"/> </a>
 ## 你想试试吗?
 
 . 请点击上面的 star 按钮!
