@@ -1,13 +1,14 @@
-# 这个仓库有 62个 星标 ⭐️
+# 这个仓库有 63个 星标 ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [codexophile](https://github.com/codexophile) 帮我做了第 62 个星标!
+感谢 [Gianthard-cyh](https://github.com/Gianthard-cyh) 帮我做了第 63 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
+| [Gianthard-cyh](https://github.com/Gianthard-cyh) | <img src="https://avatars.githubusercontent.com/u/45843411?s=64&u=2f4cdd724545b0a43a31fdcf2abd7f2e9c92183c&v=4" alt="drawing" width="64"/> | 2022-09-17T16:14:10Z |
 | [codexophile](https://github.com/codexophile) | <img src="https://avatars.githubusercontent.com/u/30948361?s=64&v=4" alt="drawing" width="64"/> | 2022-09-16T22:05:01Z |
 | [cxzlw](https://github.com/cxzlw) | <img src="https://avatars.githubusercontent.com/u/55052188?s=64&u=c41845365c89f327600a7430f2ee19ec1b4a696b&v=4" alt="drawing" width="64"/> | 2022-09-16T14:32:35Z |
 | [delapecci](https://github.com/delapecci) | <img src="https://avatars.githubusercontent.com/u/2783025?s=64&u=681361372a2ab2d68d088c488e75236cc762c8d3&v=4" alt="drawing" width="64"/> | 2022-09-16T00:12:16Z |
@@ -72,7 +73,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## 贡献者
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_62_STARS&max=1000&columns=16" width="720"/> </a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_63_STARS&max=1000&columns=16" width="720"/> </a>
 ## 你想试试吗?
 
 . 请点击上面的 star 按钮!
