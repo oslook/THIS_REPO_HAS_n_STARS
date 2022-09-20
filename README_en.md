@@ -1,13 +1,14 @@
-# THIS REPO HAS 63 STARS ⭐️
+# THIS REPO HAS 64 STARS ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[Gianthard-cyh](https://github.com/Gianthard-cyh) helped me count the 63nd star, thank you!
+[linhua1232000](https://github.com/linhua1232000) helped me count the 64nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
+| [linhua1232000](https://github.com/linhua1232000) | <img src="https://avatars.githubusercontent.com/u/62085375?s=64&v=4" alt="drawing" width="64"/> | 2022-09-20T07:44:19Z |
 | [Gianthard-cyh](https://github.com/Gianthard-cyh) | <img src="https://avatars.githubusercontent.com/u/45843411?s=64&u=2f4cdd724545b0a43a31fdcf2abd7f2e9c92183c&v=4" alt="drawing" width="64"/> | 2022-09-17T16:14:10Z |
 | [codexophile](https://github.com/codexophile) | <img src="https://avatars.githubusercontent.com/u/30948361?s=64&v=4" alt="drawing" width="64"/> | 2022-09-16T22:05:01Z |
 | [cxzlw](https://github.com/cxzlw) | <img src="https://avatars.githubusercontent.com/u/55052188?s=64&u=c41845365c89f327600a7430f2ee19ec1b4a696b&v=4" alt="drawing" width="64"/> | 2022-09-16T14:32:35Z |
@@ -73,7 +74,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## Contribs 
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_63_STARS&max=1000&columns=16" width="720"/></a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_64_STARS&max=1000&columns=16" width="720"/></a>
 ## Want to contribute?
 
 Clicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!
