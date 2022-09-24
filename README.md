@@ -2,13 +2,13 @@
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [1518967800](https://github.com/1518967800) 帮我做了第 70 个星标!
+感谢 [githubhc20](https://github.com/githubhc20) 帮我做了第 70 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
-| [1518967800](https://github.com/1518967800) | <img src="https://avatars.githubusercontent.com/u/75597420?s=64&v=4" alt="drawing" width="64"/> | 2022-09-24T07:03:26Z |
+| [githubhc20](https://github.com/githubhc20) | <img src="https://avatars.githubusercontent.com/u/92224523?s=64&v=4" alt="drawing" width="64"/> | 2022-09-24T19:07:23Z |
 | [xtpyip](https://github.com/xtpyip) | <img src="https://avatars.githubusercontent.com/u/69379905?s=64&u=7f91110c655df52150788a2ffe72386f72cf33ad&v=4" alt="drawing" width="64"/> | 2022-09-23T13:18:17Z |
 | [jki135542](https://github.com/jki135542) | <img src="https://avatars.githubusercontent.com/u/78467768?s=64&v=4" alt="drawing" width="64"/> | 2022-09-23T01:27:37Z |
 | [bugsong](https://github.com/bugsong) | <img src="https://avatars.githubusercontent.com/u/68410325?s=64&u=d35eecea28636c9f43980636e98490e948b6d08a&v=4" alt="drawing" width="64"/> | 2022-09-21T14:51:39Z |
