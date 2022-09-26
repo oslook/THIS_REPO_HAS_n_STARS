@@ -1,13 +1,14 @@
-# 这个仓库有 72个 星标 ⭐️
+# 这个仓库有 73个 星标 ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [huLter](https://github.com/huLter) 帮我做了第 72 个星标!
+感谢 [budayangdedian](https://github.com/budayangdedian) 帮我做了第 73 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
+| [budayangdedian](https://github.com/budayangdedian) | <img src="https://avatars.githubusercontent.com/u/30051292?s=64&v=4" alt="drawing" width="64"/> | 2022-09-26T15:14:20Z |
 | [huLter](https://github.com/huLter) | <img src="https://avatars.githubusercontent.com/u/12413215?s=64&v=4" alt="drawing" width="64"/> | 2022-09-26T09:01:00Z |
 | [gzb39174114](https://github.com/gzb39174114) | <img src="https://avatars.githubusercontent.com/u/8326932?s=64&v=4" alt="drawing" width="64"/> | 2022-09-26T02:20:25Z |
 | [githubhc20](https://github.com/githubhc20) | <img src="https://avatars.githubusercontent.com/u/92224523?s=64&v=4" alt="drawing" width="64"/> | 2022-09-24T19:07:23Z |
@@ -82,7 +83,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## 贡献者
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_72_STARS&max=1000&columns=16" width="720"/> </a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_73_STARS&max=1000&columns=16" width="720"/> </a>
 ## 你想试试吗?
 
 . 请点击上面的 star 按钮!
