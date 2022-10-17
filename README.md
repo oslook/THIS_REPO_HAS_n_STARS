@@ -2,12 +2,13 @@
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [K1p2y3](https://github.com/K1p2y3) 帮我做了第 76 个星标!
+感谢 [nakdesu](https://github.com/nakdesu) 帮我做了第 76 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
+| [nakdesu](https://github.com/nakdesu) | <img src="https://avatars.githubusercontent.com/u/110972562?s=64&u=2362d59f43d8ebd1bf8ecd0e3dd6aef2f43b2aa0&v=4" alt="drawing" width="64"/> | 2022-10-17T09:34:46Z |
 | [K1p2y3](https://github.com/K1p2y3) | <img src="https://avatars.githubusercontent.com/u/40665473?s=64&u=fbf177525aa2266d63750918eed98d4fc531b333&v=4" alt="drawing" width="64"/> | 2022-10-11T01:44:27Z |
 | [Hongkongasd](https://github.com/Hongkongasd) | <img src="https://avatars.githubusercontent.com/u/102212386?s=64&v=4" alt="drawing" width="64"/> | 2022-10-06T07:01:59Z |
 | [123kll321](https://github.com/123kll321) | <img src="https://avatars.githubusercontent.com/u/92630033?s=64&v=4" alt="drawing" width="64"/> | 2022-10-05T09:57:17Z |
@@ -48,7 +49,6 @@
 | [F1Justin](https://github.com/F1Justin) | <img src="https://avatars.githubusercontent.com/u/30348215?s=64&u=8664c9dee68cc34786293a4ddd7f9a44db89cc71&v=4" alt="drawing" width="64"/> | 2022-08-26T02:18:21Z |
 | [zz5052376](https://github.com/zz5052376) | <img src="https://avatars.githubusercontent.com/u/37150927?s=64&v=4" alt="drawing" width="64"/> | 2022-08-24T15:07:53Z |
 | [LITTLESITE](https://github.com/LITTLESITE) | <img src="https://avatars.githubusercontent.com/u/108331059?s=64&v=4" alt="drawing" width="64"/> | 2022-08-24T05:31:24Z |
-| [whtrys](https://github.com/whtrys) | <img src="https://avatars.githubusercontent.com/u/69187424?s=64&u=faeed0fd7aabc6609b1220e840195d0955f7469e&v=4" alt="drawing" width="64"/> | 2022-08-23T04:33:40Z |
 | [jellywang6](https://github.com/jellywang6) | <img src="https://avatars.githubusercontent.com/u/43003479?s=64&v=4" alt="drawing" width="64"/> | 2022-08-22T15:33:30Z |
 | [TheInterestingSoul](https://github.com/TheInterestingSoul) | <img src="https://avatars.githubusercontent.com/u/41455159?s=64&u=16d47bfc644dc06972327494be2c927b577bd261&v=4" alt="drawing" width="64"/> | 2022-08-22T03:38:38Z |
 | [emptybottIe](https://github.com/emptybottIe) | <img src="https://avatars.githubusercontent.com/u/67040836?s=64&v=4" alt="drawing" width="64"/> | 2022-08-21T07:35:32Z |
