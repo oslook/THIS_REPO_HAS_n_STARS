@@ -1,13 +1,14 @@
-# THIS REPO HAS 76 STARS ⭐️
+# THIS REPO HAS 77 STARS ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[nakdesu](https://github.com/nakdesu) helped me count the 76nd star, thank you!
+[alix1383](https://github.com/alix1383) helped me count the 77nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
+| [alix1383](https://github.com/alix1383) | <img src="https://avatars.githubusercontent.com/u/73092812?s=64&u=39dba057d3ec4cecf7c223b30fe1f7e551650628&v=4" alt="drawing" width="64"/> | 2022-10-20T13:34:52Z |
 | [nakdesu](https://github.com/nakdesu) | <img src="https://avatars.githubusercontent.com/u/110972562?s=64&u=2362d59f43d8ebd1bf8ecd0e3dd6aef2f43b2aa0&v=4" alt="drawing" width="64"/> | 2022-10-17T09:34:46Z |
 | [K1p2y3](https://github.com/K1p2y3) | <img src="https://avatars.githubusercontent.com/u/40665473?s=64&u=fbf177525aa2266d63750918eed98d4fc531b333&v=4" alt="drawing" width="64"/> | 2022-10-11T01:44:27Z |
 | [Hongkongasd](https://github.com/Hongkongasd) | <img src="https://avatars.githubusercontent.com/u/102212386?s=64&v=4" alt="drawing" width="64"/> | 2022-10-06T07:01:59Z |
@@ -86,7 +87,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## Contribs 
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_76_STARS&max=1000&columns=16" width="720"/></a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_77_STARS&max=1000&columns=16" width="720"/></a>
 ## Want to contribute?
 
 Clicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!

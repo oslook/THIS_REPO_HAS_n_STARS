@@ -1,13 +1,14 @@
-# 这个仓库有 76个 星标 ⭐️
+# 这个仓库有 77个 星标 ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [nakdesu](https://github.com/nakdesu) 帮我做了第 76 个星标!
+感谢 [alix1383](https://github.com/alix1383) 帮我做了第 77 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
+| [alix1383](https://github.com/alix1383) | <img src="https://avatars.githubusercontent.com/u/73092812?s=64&u=39dba057d3ec4cecf7c223b30fe1f7e551650628&v=4" alt="drawing" width="64"/> | 2022-10-20T13:34:52Z |
 | [nakdesu](https://github.com/nakdesu) | <img src="https://avatars.githubusercontent.com/u/110972562?s=64&u=2362d59f43d8ebd1bf8ecd0e3dd6aef2f43b2aa0&v=4" alt="drawing" width="64"/> | 2022-10-17T09:34:46Z |
 | [K1p2y3](https://github.com/K1p2y3) | <img src="https://avatars.githubusercontent.com/u/40665473?s=64&u=fbf177525aa2266d63750918eed98d4fc531b333&v=4" alt="drawing" width="64"/> | 2022-10-11T01:44:27Z |
 | [Hongkongasd](https://github.com/Hongkongasd) | <img src="https://avatars.githubusercontent.com/u/102212386?s=64&v=4" alt="drawing" width="64"/> | 2022-10-06T07:01:59Z |
@@ -86,7 +87,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## 贡献者
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_76_STARS&max=1000&columns=16" width="720"/> </a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_77_STARS&max=1000&columns=16" width="720"/> </a>
 ## 你想试试吗?
 
 . 请点击上面的 star 按钮!
