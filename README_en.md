@@ -1,14 +1,14 @@
-# THIS REPO HAS 77 STARS ⭐️
+# THIS REPO HAS 76 STARS ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[alix1383](https://github.com/alix1383) helped me count the 77nd star, thank you!
+[worry1613](https://github.com/worry1613) helped me count the 76nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
-| [alix1383](https://github.com/alix1383) | <img src="https://avatars.githubusercontent.com/u/73092812?s=64&u=39dba057d3ec4cecf7c223b30fe1f7e551650628&v=4" alt="drawing" width="64"/> | 2022-10-20T13:34:52Z |
+| [worry1613](https://github.com/worry1613) | <img src="https://avatars.githubusercontent.com/u/5291834?s=64&v=4" alt="drawing" width="64"/> | 2022-10-25T13:06:15Z |
 | [nakdesu](https://github.com/nakdesu) | <img src="https://avatars.githubusercontent.com/u/110972562?s=64&u=2362d59f43d8ebd1bf8ecd0e3dd6aef2f43b2aa0&v=4" alt="drawing" width="64"/> | 2022-10-17T09:34:46Z |
 | [K1p2y3](https://github.com/K1p2y3) | <img src="https://avatars.githubusercontent.com/u/40665473?s=64&u=fbf177525aa2266d63750918eed98d4fc531b333&v=4" alt="drawing" width="64"/> | 2022-10-11T01:44:27Z |
 | [Hongkongasd](https://github.com/Hongkongasd) | <img src="https://avatars.githubusercontent.com/u/102212386?s=64&v=4" alt="drawing" width="64"/> | 2022-10-06T07:01:59Z |
@@ -29,7 +29,6 @@
 | [delapecci](https://github.com/delapecci) | <img src="https://avatars.githubusercontent.com/u/2783025?s=64&u=681361372a2ab2d68d088c488e75236cc762c8d3&v=4" alt="drawing" width="64"/> | 2022-09-16T00:12:16Z |
 | [NekoRectifier](https://github.com/NekoRectifier) | <img src="https://avatars.githubusercontent.com/u/51020139?s=64&u=2a542b92beac898b7be8c2aa0da2b141e2c94464&v=4" alt="drawing" width="64"/> | 2022-09-15T01:38:08Z |
 | [mzh8879](https://github.com/mzh8879) | <img src="https://avatars.githubusercontent.com/u/113490870?s=64&v=4" alt="drawing" width="64"/> | 2022-09-14T05:10:41Z |
-| [HsingyouZhou](https://github.com/HsingyouZhou) | <img src="https://avatars.githubusercontent.com/u/61811891?s=64&v=4" alt="drawing" width="64"/> | 2022-09-13T05:21:07Z |
 | [uuuufo](https://github.com/uuuufo) | <img src="https://avatars.githubusercontent.com/u/87823528?s=64&u=b8d55542cd5b2bf7a579cd8f31a5d5ab558e3dfb&v=4" alt="drawing" width="64"/> | 2022-09-12T08:00:57Z |
 | [GH2019](https://github.com/GH2019) | <img src="https://avatars.githubusercontent.com/u/45938868?s=64&v=4" alt="drawing" width="64"/> | 2022-09-11T05:33:54Z |
 | [eazywuu](https://github.com/eazywuu) | <img src="https://avatars.githubusercontent.com/u/90880630?s=64&u=4203e3796dd85bb1aaed2aa7f17eddbf469b25af&v=4" alt="drawing" width="64"/> | 2022-09-10T08:44:54Z |
@@ -87,7 +86,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## Contribs 
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_77_STARS&max=1000&columns=16" width="720"/></a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_76_STARS&max=1000&columns=16" width="720"/></a>
 ## Want to contribute?
 
 Clicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!
