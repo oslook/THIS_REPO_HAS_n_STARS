@@ -8,7 +8,7 @@
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
-| [Misaki9](https://github.com/Misaki9) | <img src="https://avatars.githubusercontent.com/u/70900086?s=64&v=4" alt="drawing" width="64"/> | 2022-11-06T14:13:39Z |
+| [Misaki9](https://github.com/Misaki9) | <img src="https://avatars.githubusercontent.com/u/70900086?s=64&v=4" alt="drawing" width="64"/> | 2022-11-06T14:14:01Z |
 | [worry1613](https://github.com/worry1613) | <img src="https://avatars.githubusercontent.com/u/5291834?s=64&v=4" alt="drawing" width="64"/> | 2022-10-25T13:06:15Z |
 | [nakdesu](https://github.com/nakdesu) | <img src="https://avatars.githubusercontent.com/u/110972562?s=64&u=2362d59f43d8ebd1bf8ecd0e3dd6aef2f43b2aa0&v=4" alt="drawing" width="64"/> | 2022-10-17T09:34:46Z |
 | [K1p2y3](https://github.com/K1p2y3) | <img src="https://avatars.githubusercontent.com/u/40665473?s=64&u=fbf177525aa2266d63750918eed98d4fc531b333&v=4" alt="drawing" width="64"/> | 2022-10-11T01:44:27Z |
