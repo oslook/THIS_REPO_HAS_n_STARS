@@ -2,12 +2,13 @@
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [worry1613](https://github.com/worry1613) 帮我做了第 76 个星标!
+感谢 [Misaki9](https://github.com/Misaki9) 帮我做了第 76 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
+| [Misaki9](https://github.com/Misaki9) | <img src="https://avatars.githubusercontent.com/u/70900086?s=64&v=4" alt="drawing" width="64"/> | 2022-11-06T14:13:39Z |
 | [worry1613](https://github.com/worry1613) | <img src="https://avatars.githubusercontent.com/u/5291834?s=64&v=4" alt="drawing" width="64"/> | 2022-10-25T13:06:15Z |
 | [nakdesu](https://github.com/nakdesu) | <img src="https://avatars.githubusercontent.com/u/110972562?s=64&u=2362d59f43d8ebd1bf8ecd0e3dd6aef2f43b2aa0&v=4" alt="drawing" width="64"/> | 2022-10-17T09:34:46Z |
 | [K1p2y3](https://github.com/K1p2y3) | <img src="https://avatars.githubusercontent.com/u/40665473?s=64&u=fbf177525aa2266d63750918eed98d4fc531b333&v=4" alt="drawing" width="64"/> | 2022-10-11T01:44:27Z |
@@ -32,7 +33,6 @@
 | [uuuufo](https://github.com/uuuufo) | <img src="https://avatars.githubusercontent.com/u/87823528?s=64&u=b8d55542cd5b2bf7a579cd8f31a5d5ab558e3dfb&v=4" alt="drawing" width="64"/> | 2022-09-12T08:00:57Z |
 | [GH2019](https://github.com/GH2019) | <img src="https://avatars.githubusercontent.com/u/45938868?s=64&v=4" alt="drawing" width="64"/> | 2022-09-11T05:33:54Z |
 | [eazywuu](https://github.com/eazywuu) | <img src="https://avatars.githubusercontent.com/u/90880630?s=64&u=4203e3796dd85bb1aaed2aa7f17eddbf469b25af&v=4" alt="drawing" width="64"/> | 2022-09-10T08:44:54Z |
-| [sha7dowXX](https://github.com/sha7dowXX) | <img src="https://avatars.githubusercontent.com/u/53045584?s=64&u=8b234b4fcc85694b0fabd05b85d907dee5e80a12&v=4" alt="drawing" width="64"/> | 2022-09-10T08:10:25Z |
 | [BurningC4](https://github.com/BurningC4) | <img src="https://avatars.githubusercontent.com/u/30040912?s=64&v=4" alt="drawing" width="64"/> | 2022-09-07T08:09:58Z |
 | [luoy-oss](https://github.com/luoy-oss) | <img src="https://avatars.githubusercontent.com/u/71601181?s=64&u=5941c5c872c3fc6f13545cb851944883650baa93&v=4" alt="drawing" width="64"/> | 2022-09-06T00:31:42Z |
 | [hibmm](https://github.com/hibmm) | <img src="https://avatars.githubusercontent.com/u/44130118?s=64&v=4" alt="drawing" width="64"/> | 2022-09-05T04:49:14Z |
@@ -71,7 +71,7 @@
 | [guaitai057](https://github.com/guaitai057) | <img src="https://avatars.githubusercontent.com/u/104347118?s=64&v=4" alt="drawing" width="64"/> | 2022-08-08T03:46:34Z |
 | [a1ex0120](https://github.com/a1ex0120) | <img src="https://avatars.githubusercontent.com/u/109487381?s=64&v=4" alt="drawing" width="64"/> | 2022-08-06T15:34:29Z |
 | [m-initiator](https://github.com/m-initiator) | <img src="https://avatars.githubusercontent.com/u/30044176?s=64&u=783a5dbba2378db673f7a93b0c9104865ea69672&v=4" alt="drawing" width="64"/> | 2022-08-05T09:14:30Z |
-| [nyancat794](https://github.com/nyancat794) | <img src="https://avatars.githubusercontent.com/u/68503183?s=64&v=4" alt="drawing" width="64"/> | 2022-08-05T03:11:29Z |
+| [Uni-seca](https://github.com/Uni-seca) | <img src="https://avatars.githubusercontent.com/u/68503183?s=64&u=c24ffb73de59b108ad7fb1764b4ca3e4f32fd1d1&v=4" alt="drawing" width="64"/> | 2022-08-05T03:11:29Z |
 | [zsh0805](https://github.com/zsh0805) | <img src="https://avatars.githubusercontent.com/u/74940585?s=64&v=4" alt="drawing" width="64"/> | 2022-08-04T09:17:52Z |
 | [mdcgqq](https://github.com/mdcgqq) | <img src="https://avatars.githubusercontent.com/u/82955884?s=64&u=e39b315842f91bdc89637bf87e6d507abea14a89&v=4" alt="drawing" width="64"/> | 2022-08-03T15:26:21Z |
 | [zhangyu9854](https://github.com/zhangyu9854) | <img src="https://avatars.githubusercontent.com/u/82883543?s=64&v=4" alt="drawing" width="64"/> | 2022-08-02T15:53:28Z |
