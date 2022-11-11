@@ -1,13 +1,14 @@
-# 这个仓库有 77个 星标 ⭐️
+# 这个仓库有 78个 星标 ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [lwd-temp](https://github.com/lwd-temp) 帮我做了第 77 个星标!
+感谢 [dsy4567](https://github.com/dsy4567) 帮我做了第 78 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
+| [dsy4567](https://github.com/dsy4567) | <img src="https://avatars.githubusercontent.com/u/84607814?s=64&u=f971b163b21db7bcbffae78b85c2cfee5e1b58d7&v=4" alt="drawing" width="64"/> | 2022-11-11T12:04:21Z |
 | [lwd-temp](https://github.com/lwd-temp) | <img src="https://avatars.githubusercontent.com/u/26019675?s=64&u=820ea5107dd5b74f5e8e4ad1f5b5c99051910168&v=4" alt="drawing" width="64"/> | 2022-11-11T02:56:43Z |
 | [Misaki9](https://github.com/Misaki9) | <img src="https://avatars.githubusercontent.com/u/70900086?s=64&v=4" alt="drawing" width="64"/> | 2022-11-06T14:14:01Z |
 | [worry1613](https://github.com/worry1613) | <img src="https://avatars.githubusercontent.com/u/5291834?s=64&v=4" alt="drawing" width="64"/> | 2022-10-25T13:06:15Z |
@@ -87,7 +88,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## 贡献者
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_77_STARS&max=1000&columns=16" width="720"/> </a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_78_STARS&max=1000&columns=16" width="720"/> </a>
 ## 你想试试吗?
 
 . 请点击上面的 star 按钮!
