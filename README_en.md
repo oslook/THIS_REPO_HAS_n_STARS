@@ -1,8 +1,8 @@
-# THIS REPO HAS 79 STARS ⭐️
+# THIS REPO HAS 78 STARS ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[glomatico](https://github.com/glomatico) helped me count the 79nd star, thank you!
+[glomatico](https://github.com/glomatico) helped me count the 78nd star, thank you!
 
 ## Stars
 
@@ -60,7 +60,6 @@
 | [cloudhzc](https://github.com/cloudhzc) | <img src="https://avatars.githubusercontent.com/u/71585442?s=64&u=3db7eed020e6eeb6595b920a4d08a30357360e5a&v=4" alt="drawing" width="64"/> | 2022-08-20T07:43:27Z |
 | [zzttzzmyswy](https://github.com/zzttzzmyswy) | <img src="https://avatars.githubusercontent.com/u/46914680?s=64&v=4" alt="drawing" width="64"/> | 2022-08-20T00:39:18Z |
 | [jason-github-cmd](https://github.com/jason-github-cmd) | <img src="https://avatars.githubusercontent.com/u/79164517?s=64&v=4" alt="drawing" width="64"/> | 2022-08-19T07:39:57Z |
-| [yxcqr](https://github.com/yxcqr) | <img src="https://avatars.githubusercontent.com/u/28244699?s=64&u=572f08b77d6e585eb223ec7d9fea54bc3c445c87&v=4" alt="drawing" width="64"/> | 2022-08-18T05:17:01Z |
 | [jing5460](https://github.com/jing5460) | <img src="https://avatars.githubusercontent.com/u/38358681?s=64&u=91c09f0bd5ca4b9ddf7cdb79045e2922f6be8bdd&v=4" alt="drawing" width="64"/> | 2022-08-18T02:52:24Z |
 | [yuanchenyyy](https://github.com/yuanchenyyy) | <img src="https://avatars.githubusercontent.com/u/45529045?s=64&v=4" alt="drawing" width="64"/> | 2022-08-17T07:44:26Z |
 | [dingdinglz](https://github.com/dingdinglz) | <img src="https://avatars.githubusercontent.com/u/97778145?s=64&u=273552488ce3ea58de84cb6512a895aaa9ae2b51&v=4" alt="drawing" width="64"/> | 2022-08-16T03:09:41Z |
@@ -89,7 +88,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## Contribs 
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_79_STARS&max=1000&columns=16" width="720"/></a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_78_STARS&max=1000&columns=16" width="720"/></a>
 ## Want to contribute?
 
 Clicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!
