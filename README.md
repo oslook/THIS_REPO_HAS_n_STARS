@@ -1,13 +1,14 @@
-# 这个仓库有 78个 星标 ⭐️
+# 这个仓库有 79个 星标 ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [glomatico](https://github.com/glomatico) 帮我做了第 78 个星标!
+感谢 [florinsdistortedvision](https://github.com/florinsdistortedvision) 帮我做了第 79 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
+| [florinsdistortedvision](https://github.com/florinsdistortedvision) | <img src="https://avatars.githubusercontent.com/u/97384306?s=64&u=b92ab7410bfe6d432ea41b74e6d940e37bb82d62&v=4" alt="drawing" width="64"/> | 2023-01-03T07:37:18Z |
 | [glomatico](https://github.com/glomatico) | <img src="https://avatars.githubusercontent.com/u/50295204?s=64&u=e268a2f93f95b676c78b26dff387b73a0ec27aec&v=4" alt="drawing" width="64"/> | 2022-12-16T14:11:37Z |
 | [yhrwd](https://github.com/yhrwd) | <img src="https://avatars.githubusercontent.com/u/89394320?s=64&u=7fc4e2baee51735be741541c7cf913c48969fb0f&v=4" alt="drawing" width="64"/> | 2022-12-16T12:23:20Z |
 | [Ce-daros](https://github.com/Ce-daros) | <img src="https://avatars.githubusercontent.com/u/64960661?s=64&u=4a7ade1e5fda6fef210e57dc4d1ef0bef00b589f&v=4" alt="drawing" width="64"/> | 2022-11-13T08:29:29Z |
@@ -88,7 +89,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## 贡献者
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_78_STARS&max=1000&columns=16" width="720"/> </a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_79_STARS&max=1000&columns=16" width="720"/> </a>
 ## 你想试试吗?
 
 . 请点击上面的 star 按钮!
