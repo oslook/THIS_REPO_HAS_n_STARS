@@ -2,12 +2,13 @@
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [Lkhsss](https://github.com/Lkhsss) 帮我做了第 80 个星标!
+感谢 [422232268](https://github.com/422232268) 帮我做了第 80 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
+| [422232268](https://github.com/422232268) | <img src="https://avatars.githubusercontent.com/u/38997778?s=64&u=48ed14c46b24d2ebb4d047a0e4ab040cc098ebb0&v=4" alt="drawing" width="64"/> | 2023-01-19T06:03:27Z |
 | [Lkhsss](https://github.com/Lkhsss) | <img src="https://avatars.githubusercontent.com/u/89461157?s=64&u=dafd4df3b956c57abfeda4302009cdf158d9b76a&v=4" alt="drawing" width="64"/> | 2023-01-15T08:52:32Z |
 | [cx330mi](https://github.com/cx330mi) | <img src="https://avatars.githubusercontent.com/u/110667017?s=64&v=4" alt="drawing" width="64"/> | 2023-01-04T04:18:39Z |
 | [florinsdistortedvision](https://github.com/florinsdistortedvision) | <img src="https://avatars.githubusercontent.com/u/97384306?s=64&u=b92ab7410bfe6d432ea41b74e6d940e37bb82d62&v=4" alt="drawing" width="64"/> | 2023-01-03T07:37:18Z |
@@ -28,7 +29,6 @@
 | [xtpyip](https://github.com/xtpyip) | <img src="https://avatars.githubusercontent.com/u/69379905?s=64&u=7f91110c655df52150788a2ffe72386f72cf33ad&v=4" alt="drawing" width="64"/> | 2022-09-23T13:18:17Z |
 | [jki135542](https://github.com/jki135542) | <img src="https://avatars.githubusercontent.com/u/78467768?s=64&u=9c1fe1150d1765fb18034b06e2f6269742ab727b&v=4" alt="drawing" width="64"/> | 2022-09-23T01:27:37Z |
 | [bugsong](https://github.com/bugsong) | <img src="https://avatars.githubusercontent.com/u/68410325?s=64&u=d35eecea28636c9f43980636e98490e948b6d08a&v=4" alt="drawing" width="64"/> | 2022-09-21T14:51:39Z |
-| [2686259124](https://github.com/2686259124) | <img src="https://avatars.githubusercontent.com/u/63957367?s=64&u=32c5ec582ddb7ecb6b3177962370d9c98b949d46&v=4" alt="drawing" width="64"/> | 2022-09-21T07:57:52Z |
 | [zhaocheng0218](https://github.com/zhaocheng0218) | <img src="https://avatars.githubusercontent.com/u/101409449?s=64&v=4" alt="drawing" width="64"/> | 2022-09-20T15:53:56Z |
 | [linhua1232000](https://github.com/linhua1232000) | <img src="https://avatars.githubusercontent.com/u/62085375?s=64&v=4" alt="drawing" width="64"/> | 2022-09-20T07:44:19Z |
 | [Gianthard-cyh](https://github.com/Gianthard-cyh) | <img src="https://avatars.githubusercontent.com/u/45843411?s=64&u=2f4cdd724545b0a43a31fdcf2abd7f2e9c92183c&v=4" alt="drawing" width="64"/> | 2022-09-17T16:14:10Z |
