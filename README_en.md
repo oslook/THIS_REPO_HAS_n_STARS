@@ -1,13 +1,14 @@
-# THIS REPO HAS 80 STARS ⭐️
+# THIS REPO HAS 81 STARS ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[fan-ziqi](https://github.com/fan-ziqi) helped me count the 80nd star, thank you!
+[plsowen](https://github.com/plsowen) helped me count the 81nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
+| [plsowen](https://github.com/plsowen) | <img src="https://avatars.githubusercontent.com/u/124237763?s=64&v=4" alt="drawing" width="64"/> | 2023-02-02T06:30:04Z |
 | [fan-ziqi](https://github.com/fan-ziqi) | <img src="https://avatars.githubusercontent.com/u/62320343?s=64&u=54f7bc0df502b07a16a165080a4af81ccef8a30e&v=4" alt="drawing" width="64"/> | 2023-02-02T04:44:19Z |
 | [garlic352](https://github.com/garlic352) | <img src="https://avatars.githubusercontent.com/u/108412500?s=64&v=4" alt="drawing" width="64"/> | 2023-01-19T09:08:18Z |
 | [422232268](https://github.com/422232268) | <img src="https://avatars.githubusercontent.com/u/38997778?s=64&u=48ed14c46b24d2ebb4d047a0e4ab040cc098ebb0&v=4" alt="drawing" width="64"/> | 2023-01-19T06:03:27Z |
@@ -90,7 +91,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## Contribs 
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_80_STARS&max=1000&columns=16" width="720"/></a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_81_STARS&max=1000&columns=16" width="720"/></a>
 ## Want to contribute?
 
 Clicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!
