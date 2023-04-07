@@ -2,13 +2,13 @@
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [noxman](https://github.com/noxman) 帮我做了第 86 个星标!
+感谢 [Jealous-perfect](https://github.com/Jealous-perfect) 帮我做了第 86 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
-| [noxman](https://github.com/noxman) | <img src="https://avatars.githubusercontent.com/u/9567423?s=64&v=4" alt="drawing" width="64"/> | 2023-04-06T05:52:04Z |
+| [Jealous-perfect](https://github.com/Jealous-perfect) | <img src="https://avatars.githubusercontent.com/u/74131997?s=64&u=0a9d5ecbebe54b12711d73360151159cc290df5d&v=4" alt="drawing" width="64"/> | 2023-04-07T02:17:02Z |
 | [yanzhaoWW](https://github.com/yanzhaoWW) | <img src="https://avatars.githubusercontent.com/u/127864763?s=64&v=4" alt="drawing" width="64"/> | 2023-04-04T12:30:18Z |
 | [xiaozhu2007](https://github.com/xiaozhu2007) | <img src="https://avatars.githubusercontent.com/u/63779340?s=64&u=f325339c8ff26babf487472588604cc309f549eb&v=4" alt="drawing" width="64"/> | 2023-03-29T14:30:13Z |
 | [Wenti-D](https://github.com/Wenti-D) | <img src="https://avatars.githubusercontent.com/u/73067578?s=64&u=c16d7003680f103be8ccdb0a8c1ea432f08e4576&v=4" alt="drawing" width="64"/> | 2023-03-17T05:24:37Z |
