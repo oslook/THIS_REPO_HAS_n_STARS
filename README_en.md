@@ -1,13 +1,14 @@
-# THIS REPO HAS 88 STARS ⭐️
+# THIS REPO HAS 89 STARS ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[1186161828](https://github.com/1186161828) helped me count the 88nd star, thank you!
+[ThinBucket82549](https://github.com/ThinBucket82549) helped me count the 89nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
+| [ThinBucket82549](https://github.com/ThinBucket82549) | <img src="https://avatars.githubusercontent.com/u/73562905?s=64&v=4" alt="drawing" width="64"/> | 2023-04-08T08:19:43Z |
 | [1186161828](https://github.com/1186161828) | <img src="https://avatars.githubusercontent.com/u/126382508?s=64&v=4" alt="drawing" width="64"/> | 2023-04-07T05:53:42Z |
 | [blu3ci](https://github.com/blu3ci) | <img src="https://avatars.githubusercontent.com/u/83841789?s=64&u=4be69251a7d46ae5b0e3e8b5efe0a9d14e074582&v=4" alt="drawing" width="64"/> | 2023-04-07T02:21:53Z |
 | [Jealous-perfect](https://github.com/Jealous-perfect) | <img src="https://avatars.githubusercontent.com/u/74131997?s=64&u=0a9d5ecbebe54b12711d73360151159cc290df5d&v=4" alt="drawing" width="64"/> | 2023-04-07T02:17:02Z |
@@ -98,7 +99,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## Contribs 
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_88_STARS&max=1000&columns=16" width="720"/></a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_89_STARS&max=1000&columns=16" width="720"/></a>
 ## Want to contribute?
 
 Clicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!
