@@ -1,14 +1,13 @@
-# 这个仓库有 91个 星标 ⭐️
+# 这个仓库有 90个 星标 ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [ZXCASD20](https://github.com/ZXCASD20) 帮我做了第 91 个星标!
+感谢 [zhuchong6](https://github.com/zhuchong6) 帮我做了第 90 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
-| [ZXCASD20](https://github.com/ZXCASD20) | <img src="https://avatars.githubusercontent.com/u/130328537?s=64&v=4" alt="drawing" width="64"/> | 2023-04-10T02:53:25Z |
 | [zhuchong6](https://github.com/zhuchong6) | <img src="https://avatars.githubusercontent.com/u/14104147?s=64&u=58e640c6c008f68df7df8d43c517423490069292&v=4" alt="drawing" width="64"/> | 2023-04-09T14:30:28Z |
 | [ThinBucket82549](https://github.com/ThinBucket82549) | <img src="https://avatars.githubusercontent.com/u/73562905?s=64&v=4" alt="drawing" width="64"/> | 2023-04-08T08:19:43Z |
 | [1186161828](https://github.com/1186161828) | <img src="https://avatars.githubusercontent.com/u/126382508?s=64&v=4" alt="drawing" width="64"/> | 2023-04-07T05:53:42Z |
@@ -25,7 +24,7 @@
 | [garlic352](https://github.com/garlic352) | <img src="https://avatars.githubusercontent.com/u/108412500?s=64&v=4" alt="drawing" width="64"/> | 2023-01-19T09:08:18Z |
 | [422232268](https://github.com/422232268) | <img src="https://avatars.githubusercontent.com/u/38997778?s=64&u=48ed14c46b24d2ebb4d047a0e4ab040cc098ebb0&v=4" alt="drawing" width="64"/> | 2023-01-19T06:03:27Z |
 | [Lkhsss](https://github.com/Lkhsss) | <img src="https://avatars.githubusercontent.com/u/89461157?s=64&u=dafd4df3b956c57abfeda4302009cdf158d9b76a&v=4" alt="drawing" width="64"/> | 2023-01-15T08:52:32Z |
-| [cx330mi](https://github.com/cx330mi) | <img src="https://avatars.githubusercontent.com/u/110667017?s=64&v=4" alt="drawing" width="64"/> | 2023-01-04T04:18:39Z |
+| [cx330mi](https://github.com/cx330mi) | <img src="https://avatars.githubusercontent.com/u/110667017?s=64&u=d76991081afdcddf896814ac8cffcce8294ff1cd&v=4" alt="drawing" width="64"/> | 2023-01-04T04:18:39Z |
 | [glomatico](https://github.com/glomatico) | <img src="https://avatars.githubusercontent.com/u/50295204?s=64&u=e268a2f93f95b676c78b26dff387b73a0ec27aec&v=4" alt="drawing" width="64"/> | 2022-12-16T14:11:37Z |
 | [Ce-daros](https://github.com/Ce-daros) | <img src="https://avatars.githubusercontent.com/u/64960661?s=64&u=4a7ade1e5fda6fef210e57dc4d1ef0bef00b589f&v=4" alt="drawing" width="64"/> | 2022-11-13T08:29:29Z |
 | [dsy4567](https://github.com/dsy4567) | <img src="https://avatars.githubusercontent.com/u/84607814?s=64&v=4" alt="drawing" width="64"/> | 2022-11-11T12:04:21Z |
@@ -101,7 +100,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## 贡献者
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_91_STARS&max=1000&columns=16" width="720"/> </a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_90_STARS&max=1000&columns=16" width="720"/> </a>
 ## 你想试试吗?
 
 . 请点击上面的 star 按钮!
