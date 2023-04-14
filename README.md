@@ -1,13 +1,14 @@
-# 这个仓库有 94个 星标 ⭐️
+# 这个仓库有 95个 星标 ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [Yongge1011](https://github.com/Yongge1011) 帮我做了第 94 个星标!
+感谢 [sdd-cn](https://github.com/sdd-cn) 帮我做了第 95 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
+| [sdd-cn](https://github.com/sdd-cn) | <img src="https://avatars.githubusercontent.com/u/68823869?s=64&v=4" alt="drawing" width="64"/> | 2023-04-14T08:18:58Z |
 | [Yongge1011](https://github.com/Yongge1011) | <img src="https://avatars.githubusercontent.com/u/56527859?s=64&v=4" alt="drawing" width="64"/> | 2023-04-14T05:51:55Z |
 | [HopkinsWang](https://github.com/HopkinsWang) | <img src="https://avatars.githubusercontent.com/u/49025120?s=64&v=4" alt="drawing" width="64"/> | 2023-04-12T12:37:26Z |
 | [1137270574](https://github.com/1137270574) | <img src="https://avatars.githubusercontent.com/u/73704123?s=64&v=4" alt="drawing" width="64"/> | 2023-04-11T18:01:54Z |
@@ -104,7 +105,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## 贡献者
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_94_STARS&max=1000&columns=16" width="720"/> </a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_95_STARS&max=1000&columns=16" width="720"/> </a>
 ## 你想试试吗?
 
 . 请点击上面的 star 按钮!
