@@ -1,13 +1,14 @@
-# THIS REPO HAS 97 STARS ⭐️
+# THIS REPO HAS 98 STARS ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[xilili48](https://github.com/xilili48) helped me count the 97nd star, thank you!
+[XSuperMeteorX](https://github.com/XSuperMeteorX) helped me count the 98nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
+| [XSuperMeteorX](https://github.com/XSuperMeteorX) | <img src="https://avatars.githubusercontent.com/u/69909444?s=64&v=4" alt="drawing" width="64"/> | 2023-04-16T14:30:39Z |
 | [xilili48](https://github.com/xilili48) | <img src="https://avatars.githubusercontent.com/u/113772707?s=64&u=b759c8921e6b436ae2df35eeb0a227bd3dadfe28&v=4" alt="drawing" width="64"/> | 2023-04-16T12:41:59Z |
 | [zs2928](https://github.com/zs2928) | <img src="https://avatars.githubusercontent.com/u/130726282?s=64&v=4" alt="drawing" width="64"/> | 2023-04-16T03:41:59Z |
 | [sdd-cn](https://github.com/sdd-cn) | <img src="https://avatars.githubusercontent.com/u/68823869?s=64&v=4" alt="drawing" width="64"/> | 2023-04-14T08:18:58Z |
@@ -107,7 +108,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## Contribs 
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_97_STARS&max=1000&columns=16" width="720"/></a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_98_STARS&max=1000&columns=16" width="720"/></a>
 ## Want to contribute?
 
 Clicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!
