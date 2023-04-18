@@ -2,12 +2,13 @@
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [YorkMoon](https://github.com/YorkMoon) 帮我做了第 100 个星标!
+感谢 [Taboo725](https://github.com/Taboo725) 帮我做了第 100 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
+| [Taboo725](https://github.com/Taboo725) | <img src="https://avatars.githubusercontent.com/u/76696223?s=64&u=fcb32a392758a241cfa873fcef381f8a2e608948&v=4" alt="drawing" width="64"/> | 2023-04-18T06:32:54Z |
 | [YorkMoon](https://github.com/YorkMoon) | <img src="https://avatars.githubusercontent.com/u/28121414?s=64&v=4" alt="drawing" width="64"/> | 2023-04-18T03:08:53Z |
 | [clover30216](https://github.com/clover30216) | <img src="https://avatars.githubusercontent.com/u/54104084?s=64&u=5b1ac6fc2d48b17a44b0b9db397d2d6b5edaac95&v=4" alt="drawing" width="64"/> | 2023-04-17T10:37:52Z |
 | [liuyu09527](https://github.com/liuyu09527) | <img src="https://avatars.githubusercontent.com/u/54965109?s=64&v=4" alt="drawing" width="64"/> | 2023-04-17T04:41:28Z |
@@ -107,7 +108,6 @@
 | [weeklyd3](https://github.com/weeklyd3) | <img src="https://avatars.githubusercontent.com/u/79176077?s=64&v=4" alt="drawing" width="64"/> | 2022-05-05T03:52:24Z |
 | [reaitten](https://github.com/reaitten) | <img src="https://avatars.githubusercontent.com/u/52531973?s=64&u=445d54c7be2043f1fa0b621d416f81375e1ae07d&v=4" alt="drawing" width="64"/> | 2022-02-20T19:50:28Z |
 | [pen960223](https://github.com/pen960223) | <img src="https://avatars.githubusercontent.com/u/22234922?s=64&v=4" alt="drawing" width="64"/> | 2022-01-27T13:39:04Z |
-| [whoway](https://github.com/whoway) | <img src="https://avatars.githubusercontent.com/u/48819015?s=64&u=cb511bebe4c7334d607bb3a33597fccfbd445ce7&v=4" alt="drawing" width="64"/> | 2021-12-27T10:08:26Z |
 
 ## 贡献者
 <a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_100_STARS&max=1000&columns=16" width="720"/> </a>
