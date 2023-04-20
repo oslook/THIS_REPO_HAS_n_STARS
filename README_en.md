@@ -2,16 +2,17 @@
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[Brian-2020](https://github.com/Brian-2020) helped me count the 100nd star, thank you!
+[zhouyangdada](https://github.com/zhouyangdada) helped me count the 100nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
+| [zhouyangdada](https://github.com/zhouyangdada) | <img src="https://avatars.githubusercontent.com/u/46767439?s=64&v=4" alt="drawing" width="64"/> | 2023-04-20T05:54:02Z |
 | [Brian-2020](https://github.com/Brian-2020) | <img src="https://avatars.githubusercontent.com/u/68891326?s=64&u=8df83c83becb6ec187deae1c764d4bd93bc20018&v=4" alt="drawing" width="64"/> | 2023-04-18T08:48:25Z |
 | [YorkMoon](https://github.com/YorkMoon) | <img src="https://avatars.githubusercontent.com/u/28121414?s=64&v=4" alt="drawing" width="64"/> | 2023-04-18T03:08:53Z |
 | [clover30216](https://github.com/clover30216) | <img src="https://avatars.githubusercontent.com/u/54104084?s=64&u=5b1ac6fc2d48b17a44b0b9db397d2d6b5edaac95&v=4" alt="drawing" width="64"/> | 2023-04-17T10:37:52Z |
-| [liuyu09527](https://github.com/liuyu09527) | <img src="https://avatars.githubusercontent.com/u/54965109?s=64&v=4" alt="drawing" width="64"/> | 2023-04-17T04:41:28Z |
+| [liuyu09527](https://github.com/liuyu09527) | <img src="https://avatars.githubusercontent.com/u/54965109?s=64&u=df4e1b478e984b40529f1e5bde132f3ff08d2b3a&v=4" alt="drawing" width="64"/> | 2023-04-17T04:41:28Z |
 | [XSuperMeteorX](https://github.com/XSuperMeteorX) | <img src="https://avatars.githubusercontent.com/u/69909444?s=64&v=4" alt="drawing" width="64"/> | 2023-04-16T14:33:57Z |
 | [xilili48](https://github.com/xilili48) | <img src="https://avatars.githubusercontent.com/u/113772707?s=64&u=b759c8921e6b436ae2df35eeb0a227bd3dadfe28&v=4" alt="drawing" width="64"/> | 2023-04-16T12:41:59Z |
 | [zs2928](https://github.com/zs2928) | <img src="https://avatars.githubusercontent.com/u/130726282?s=64&v=4" alt="drawing" width="64"/> | 2023-04-16T03:41:59Z |
@@ -107,7 +108,6 @@
 | [oslook](https://github.com/oslook) | <img src="https://avatars.githubusercontent.com/u/6346865?s=64&u=5875914334b380ad5aa06af10d5692c4046ee5ee&v=4" alt="drawing" width="64"/> | 2022-07-24T14:53:52Z |
 | [weeklyd3](https://github.com/weeklyd3) | <img src="https://avatars.githubusercontent.com/u/79176077?s=64&v=4" alt="drawing" width="64"/> | 2022-05-05T03:52:24Z |
 | [reaitten](https://github.com/reaitten) | <img src="https://avatars.githubusercontent.com/u/52531973?s=64&u=445d54c7be2043f1fa0b621d416f81375e1ae07d&v=4" alt="drawing" width="64"/> | 2022-02-20T19:50:28Z |
-| [pen960223](https://github.com/pen960223) | <img src="https://avatars.githubusercontent.com/u/22234922?s=64&v=4" alt="drawing" width="64"/> | 2022-01-27T13:39:04Z |
 
 ## Contribs 
 <a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_100_STARS&max=1000&columns=16" width="720"/></a>
