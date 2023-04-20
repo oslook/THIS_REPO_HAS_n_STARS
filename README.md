@@ -2,12 +2,13 @@
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [pettybai](https://github.com/pettybai) 帮我做了第 100 个星标!
+感谢 [m1527057702](https://github.com/m1527057702) 帮我做了第 100 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
+| [m1527057702](https://github.com/m1527057702) | <img src="https://avatars.githubusercontent.com/u/79839589?s=64&u=e5a6d808cdbe858bd2a425c43774718f633f297b&v=4" alt="drawing" width="64"/> | 2023-04-20T10:20:09Z |
 | [pettybai](https://github.com/pettybai) | <img src="https://avatars.githubusercontent.com/u/32029213?s=64&v=4" alt="drawing" width="64"/> | 2023-04-20T08:15:01Z |
 | [zhouyangdada](https://github.com/zhouyangdada) | <img src="https://avatars.githubusercontent.com/u/46767439?s=64&v=4" alt="drawing" width="64"/> | 2023-04-20T05:54:02Z |
 | [Brian-2020](https://github.com/Brian-2020) | <img src="https://avatars.githubusercontent.com/u/68891326?s=64&u=8df83c83becb6ec187deae1c764d4bd93bc20018&v=4" alt="drawing" width="64"/> | 2023-04-18T08:48:25Z |
@@ -107,7 +108,6 @@
 | [BetterLuke](https://github.com/BetterLuke) | <img src="https://avatars.githubusercontent.com/u/12392903?s=64&u=42a63277dee43de4af20b3357f3a4716349e16e9&v=4" alt="drawing" width="64"/> | 2022-08-02T02:18:24Z |
 | [zrhsgyx](https://github.com/zrhsgyx) | <img src="https://avatars.githubusercontent.com/u/104632178?s=64&v=4" alt="drawing" width="64"/> | 2022-07-29T02:55:00Z |
 | [oslook](https://github.com/oslook) | <img src="https://avatars.githubusercontent.com/u/6346865?s=64&u=5875914334b380ad5aa06af10d5692c4046ee5ee&v=4" alt="drawing" width="64"/> | 2022-07-24T14:53:52Z |
-| [weeklyd3](https://github.com/weeklyd3) | <img src="https://avatars.githubusercontent.com/u/79176077?s=64&v=4" alt="drawing" width="64"/> | 2022-05-05T03:52:24Z |
 
 ## 贡献者
 <a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_100_STARS&max=1000&columns=16" width="720"/> </a>
