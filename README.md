@@ -2,13 +2,13 @@
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [kuqilin](https://github.com/kuqilin) 帮我做了第 100 个星标!
+感谢 [EAREASTSHADOW](https://github.com/EAREASTSHADOW) 帮我做了第 100 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
-| [kuqilin](https://github.com/kuqilin) | <img src="https://avatars.githubusercontent.com/u/86567787?s=64&u=de071db10eca9733e746fcc7331347792e6fb964&v=4" alt="drawing" width="64"/> | 2023-04-22T10:23:12Z |
+| [EAREASTSHADOW](https://github.com/EAREASTSHADOW) | <img src="https://avatars.githubusercontent.com/u/99741335?s=64&v=4" alt="drawing" width="64"/> | 2023-04-22T12:30:44Z |
 | [yupeiyu147](https://github.com/yupeiyu147) | <img src="https://avatars.githubusercontent.com/u/55885300?s=64&v=4" alt="drawing" width="64"/> | 2023-04-21T08:37:39Z |
 | [qiaog734](https://github.com/qiaog734) | <img src="https://avatars.githubusercontent.com/u/49643160?s=64&v=4" alt="drawing" width="64"/> | 2023-04-21T04:07:21Z |
 | [moxiangjiuge](https://github.com/moxiangjiuge) | <img src="https://avatars.githubusercontent.com/u/131415625?s=64&v=4" alt="drawing" width="64"/> | 2023-04-21T00:38:37Z |
