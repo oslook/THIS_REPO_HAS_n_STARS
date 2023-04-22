@@ -2,12 +2,13 @@
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[yupeiyu147](https://github.com/yupeiyu147) helped me count the 100nd star, thank you!
+[kuqilin](https://github.com/kuqilin) helped me count the 100nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
+| [kuqilin](https://github.com/kuqilin) | <img src="https://avatars.githubusercontent.com/u/86567787?s=64&u=de071db10eca9733e746fcc7331347792e6fb964&v=4" alt="drawing" width="64"/> | 2023-04-22T10:23:12Z |
 | [yupeiyu147](https://github.com/yupeiyu147) | <img src="https://avatars.githubusercontent.com/u/55885300?s=64&v=4" alt="drawing" width="64"/> | 2023-04-21T08:37:39Z |
 | [qiaog734](https://github.com/qiaog734) | <img src="https://avatars.githubusercontent.com/u/49643160?s=64&v=4" alt="drawing" width="64"/> | 2023-04-21T04:07:21Z |
 | [moxiangjiuge](https://github.com/moxiangjiuge) | <img src="https://avatars.githubusercontent.com/u/131415625?s=64&v=4" alt="drawing" width="64"/> | 2023-04-21T00:38:37Z |
@@ -107,7 +108,6 @@
 | [LennonFritz](https://github.com/LennonFritz) | <img src="https://avatars.githubusercontent.com/u/68503183?s=64&u=c24ffb73de59b108ad7fb1764b4ca3e4f32fd1d1&v=4" alt="drawing" width="64"/> | 2022-08-05T03:11:29Z |
 | [zsh0805](https://github.com/zsh0805) | <img src="https://avatars.githubusercontent.com/u/74940585?s=64&v=4" alt="drawing" width="64"/> | 2022-08-04T09:17:52Z |
 | [mdcgqq](https://github.com/mdcgqq) | <img src="https://avatars.githubusercontent.com/u/82955884?s=64&u=e39b315842f91bdc89637bf87e6d507abea14a89&v=4" alt="drawing" width="64"/> | 2022-08-03T15:26:21Z |
-| [zhangyu9854](https://github.com/zhangyu9854) | <img src="https://avatars.githubusercontent.com/u/82883543?s=64&v=4" alt="drawing" width="64"/> | 2022-08-02T15:53:28Z |
 
 ## Contribs 
 <a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_100_STARS&max=1000&columns=16" width="720"/></a>
