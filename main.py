@@ -77,7 +77,7 @@ def get_stars(login, repo_info):
     repositoryOwner(login: $login) {
         repository(name: $repo) {
         stargazerCount
-        stargazers(first: 100, orderBy: {field: STARRED_AT, direction: DESC}, after $after) {
+        stargazers(first: 100, orderBy: {field: STARRED_AT, direction: DESC}, after: $after) {
             edges {
             starredAt
             node {
