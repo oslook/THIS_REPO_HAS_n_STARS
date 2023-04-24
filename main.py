@@ -73,7 +73,7 @@ def get_stars(login, repo_info):
     '''
 
     queryAfter = '''
-    query ($login: String!, $repo: String!, $after String!) {
+    query ($login: String!, $repo: String!, $after: String!) {
     repositoryOwner(login: $login) {
         repository(name: $repo) {
         stargazerCount
