@@ -21,8 +21,8 @@ jobs:
     - id: star
       run: |
         python main.py ${{ secrets.PAT }} $GITHUB_REPOSITORY
-        echo "name=name::$(awk -F' ' '{print $1}' /tmp/user.txt)" >> $GITHUB_OUTPUT
-        echo "name=count::$(awk -F' ' '{print $2}' /tmp/user.txt)" >> $GITHUB_OUTPUT
+        echo "name=$(awk -F' ' '{print $1}' /tmp/user.txt)" >> $GITHUB_OUTPUT
+        echo "count=$(awk -F' ' '{print $2}' /tmp/user.txt)" >> $GITHUB_OUTPUT
     - run: |
         echo ${{ steps.star.outputs.email }} ${{ steps.star.outputs.name }} ${{ steps.star.outputs.count }}
         git config --local user.email "${{ github.actor }}@users.noreply.github.com"
