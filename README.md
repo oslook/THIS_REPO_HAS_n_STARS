@@ -1,13 +1,14 @@
-# 这个仓库有 113个 星标 ⭐️
+# 这个仓库有 114个 星标 ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [cancanlide](https://github.com/cancanlide) 帮我做了第 113 个星标!
+感谢 [sharkchow](https://github.com/sharkchow) 帮我做了第 114 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
+| [sharkchow](https://github.com/sharkchow) | <img src="https://avatars.githubusercontent.com/u/33885694?s=64&u=e15792197d77646b7106f6b290fc5ea742dcc62c&v=4" alt="drawing" width="64"/> | 2023-04-27T02:04:02Z |
 | [cancanlide](https://github.com/cancanlide) | <img src="https://avatars.githubusercontent.com/u/107478306?s=64&v=4" alt="drawing" width="64"/> | 2023-04-26T13:54:35Z |
 | [beiyu23](https://github.com/beiyu23) | <img src="https://avatars.githubusercontent.com/u/115560664?s=64&u=0f1a387e72d26831e900e2bd0a485e3418d19282&v=4" alt="drawing" width="64"/> | 2023-04-24T16:06:16Z |
 | [wj-max](https://github.com/wj-max) | <img src="https://avatars.githubusercontent.com/u/68881140?s=64&v=4" alt="drawing" width="64"/> | 2023-04-24T11:06:32Z |
@@ -123,7 +124,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## 贡献者
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_113_STARS&max=1000&columns=16" width="720"/> </a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_114_STARS&max=1000&columns=16" width="720"/> </a>
 ## 你想试试吗?
 
 . 请点击上面的 star 按钮!
