@@ -1,13 +1,14 @@
-# THIS REPO HAS 118 STARS ⭐️
+# THIS REPO HAS 119 STARS ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[zzh-6](https://github.com/zzh-6) helped me count the 118nd star, thank you!
+[wangliang21](https://github.com/wangliang21) helped me count the 119nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
+| [wangliang21](https://github.com/wangliang21) | <img src="https://avatars.githubusercontent.com/u/9778255?s=64&v=4" alt="drawing" width="64"/> | 2023-04-29T08:28:56Z |
 | [zzh-6](https://github.com/zzh-6) | <img src="https://avatars.githubusercontent.com/u/131784409?s=64&v=4" alt="drawing" width="64"/> | 2023-04-28T15:06:11Z |
 | [xi1luo](https://github.com/xi1luo) | <img src="https://avatars.githubusercontent.com/u/132027063?s=64&v=4" alt="drawing" width="64"/> | 2023-04-28T03:28:18Z |
 | [ljliujiu](https://github.com/ljliujiu) | <img src="https://avatars.githubusercontent.com/u/89835799?s=64&v=4" alt="drawing" width="64"/> | 2023-04-27T22:08:59Z |
@@ -128,7 +129,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## Contribs 
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_118_STARS&max=1000&columns=16" width="720"/></a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_119_STARS&max=1000&columns=16" width="720"/></a>
 ## Want to contribute?
 
 Clicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!
