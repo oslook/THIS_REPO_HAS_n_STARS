@@ -1,13 +1,14 @@
-# 这个仓库有 124个 星标 ⭐️
+# 这个仓库有 125个 星标 ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [DzAvril](https://github.com/DzAvril) 帮我做了第 124 个星标!
+感谢 [liranuxx](https://github.com/liranuxx) 帮我做了第 125 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
+| [liranuxx](https://github.com/liranuxx) | <img src="https://avatars.githubusercontent.com/u/55773537?s=64&u=2930fae6d11b887a84956cd3326e13737d2b6246&v=4" alt="drawing" width="64"/> | 2023-05-04T06:20:35Z |
 | [DzAvril](https://github.com/DzAvril) | <img src="https://avatars.githubusercontent.com/u/18597737?s=64&u=3ad57787aaa9ae25baf722939369a6801c78880a&v=4" alt="drawing" width="64"/> | 2023-05-03T15:24:30Z |
 | [15990240599](https://github.com/15990240599) | <img src="https://avatars.githubusercontent.com/u/37166803?s=64&v=4" alt="drawing" width="64"/> | 2023-05-02T09:03:36Z |
 | [JF98](https://github.com/JF98) | <img src="https://avatars.githubusercontent.com/u/44130956?s=64&v=4" alt="drawing" width="64"/> | 2023-05-01T14:23:33Z |
@@ -134,7 +135,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## 贡献者
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_124_STARS&max=1000&columns=16" width="720"/> </a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_125_STARS&max=1000&columns=16" width="720"/> </a>
 ## 你想试试吗?
 
 . 请点击上面的 star 按钮!
