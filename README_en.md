@@ -1,13 +1,14 @@
-# THIS REPO HAS 127 STARS ⭐️
+# THIS REPO HAS 128 STARS ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[belovingu](https://github.com/belovingu) helped me count the 127nd star, thank you!
+[fjnpqsr](https://github.com/fjnpqsr) helped me count the 128nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
+| [fjnpqsr](https://github.com/fjnpqsr) | <img src="https://avatars.githubusercontent.com/u/18082366?s=64&u=05af1bcc0153c1690d8e2bcf31cfe75baac3fa02&v=4" alt="drawing" width="64"/> | 2023-05-05T07:52:56Z |
 | [belovingu](https://github.com/belovingu) | <img src="https://avatars.githubusercontent.com/u/49281688?s=64&u=64c93f4a5a3925e6edd2648abc4eec98ef8329ae&v=4" alt="drawing" width="64"/> | 2023-05-05T01:33:12Z |
 | [FYLIN6](https://github.com/FYLIN6) | <img src="https://avatars.githubusercontent.com/u/70019648?s=64&u=07a134ab26956bc68d13ef8dc20f9074830f9cb1&v=4" alt="drawing" width="64"/> | 2023-05-04T06:50:28Z |
 | [thenicealex](https://github.com/thenicealex) | <img src="https://avatars.githubusercontent.com/u/55773537?s=64&u=2930fae6d11b887a84956cd3326e13737d2b6246&v=4" alt="drawing" width="64"/> | 2023-05-04T06:20:35Z |
@@ -137,7 +138,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## Contribs 
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_127_STARS&max=1000&columns=16" width="720"/></a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_128_STARS&max=1000&columns=16" width="720"/></a>
 ## Want to contribute?
 
 Clicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!
