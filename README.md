@@ -1,8 +1,8 @@
-# 这个仓库有 135个 星标 ⭐️
+# 这个仓库有 134个 星标 ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [talentyao](https://github.com/talentyao) 帮我做了第 135 个星标!
+感谢 [talentyao](https://github.com/talentyao) 帮我做了第 134 个星标!
 
 ## Stars
 
@@ -26,7 +26,6 @@
 | [szhua](https://github.com/szhua) | <img src="https://avatars.githubusercontent.com/u/16861337?s=64&u=2f222ea794be19dd6d6a4c5bac63a62920b546e9&v=4" alt="drawing" width="64"/> | 2023-05-01T10:47:58Z |
 | [fange111](https://github.com/fange111) | <img src="https://avatars.githubusercontent.com/u/25118168?s=64&v=4" alt="drawing" width="64"/> | 2023-04-30T08:47:35Z |
 | [lorre0322](https://github.com/lorre0322) | <img src="https://avatars.githubusercontent.com/u/44430201?s=64&v=4" alt="drawing" width="64"/> | 2023-04-30T02:58:33Z |
-| [wangliang21](https://github.com/wangliang21) | <img src="https://avatars.githubusercontent.com/u/9778255?s=64&v=4" alt="drawing" width="64"/> | 2023-04-29T08:28:56Z |
 | [zzh-6](https://github.com/zzh-6) | <img src="https://avatars.githubusercontent.com/u/131784409?s=64&v=4" alt="drawing" width="64"/> | 2023-04-28T15:06:11Z |
 | [xi1luo](https://github.com/xi1luo) | <img src="https://avatars.githubusercontent.com/u/132027063?s=64&v=4" alt="drawing" width="64"/> | 2023-04-28T03:28:18Z |
 | [Lawrence-sama](https://github.com/Lawrence-sama) | <img src="https://avatars.githubusercontent.com/u/62603421?s=64&u=850221a9bd55e2fe338b68a6da2b38b941924e5c&v=4" alt="drawing" width="64"/> | 2023-04-27T14:33:17Z |
@@ -124,7 +123,7 @@
 | [FranMarker](https://github.com/FranMarker) | <img src="https://avatars.githubusercontent.com/u/15363877?s=64&u=1df69361ff18f3d38ef3e8c7e01ff4b34681f6cd&v=4" alt="drawing" width="64"/> | 2022-08-16T00:08:17Z |
 | [ThreeAurora](https://github.com/ThreeAurora) | <img src="https://avatars.githubusercontent.com/u/61763722?s=64&u=004999f41b6a59a3748abda8f7f2969a2bf76256&v=4" alt="drawing" width="64"/> | 2022-08-15T05:43:40Z |
 | [kylin-ink](https://github.com/kylin-ink) | <img src="https://avatars.githubusercontent.com/u/37763338?s=64&v=4" alt="drawing" width="64"/> | 2022-08-14T04:22:17Z |
-| [fafa-junhe](https://github.com/fafa-junhe) | <img src="https://avatars.githubusercontent.com/u/22996240?s=64&v=4" alt="drawing" width="64"/> | 2022-08-13T16:27:26Z |
+| [fafa-junhe](https://github.com/fafa-junhe) | <img src="https://avatars.githubusercontent.com/u/22996240?s=64&u=94dfdafb2bd014e293ac549f68eddf2e67494d4a&v=4" alt="drawing" width="64"/> | 2022-08-13T16:27:26Z |
 | [originalcore](https://github.com/originalcore) | <img src="https://avatars.githubusercontent.com/u/16890495?s=64&u=aa1ba2fa090c148339865fb1242aab4a4a3c5dbc&v=4" alt="drawing" width="64"/> | 2022-08-11T04:23:04Z |
 | [iuunet](https://github.com/iuunet) | <img src="https://avatars.githubusercontent.com/u/8832770?s=64&u=aa8025f0715ac76247f0491b47e3a055170fc307&v=4" alt="drawing" width="64"/> | 2022-08-10T01:55:53Z |
 | [zszleo](https://github.com/zszleo) | <img src="https://avatars.githubusercontent.com/u/47414220?s=64&v=4" alt="drawing" width="64"/> | 2022-08-09T16:16:41Z |
@@ -145,7 +144,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## 贡献者
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_135_STARS&max=1000&columns=16" width="720"/> </a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_134_STARS&max=1000&columns=16" width="720"/> </a>
 ## 你想试试吗?
 
 . 请点击上面的 star 按钮!
