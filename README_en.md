@@ -2,12 +2,13 @@
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[whitebirdQuestioner](https://github.com/whitebirdQuestioner) helped me count the 142nd star, thank you!
+[sdd-cn](https://github.com/sdd-cn) helped me count the 142nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
+| [sdd-cn](https://github.com/sdd-cn) | <img src="https://avatars.githubusercontent.com/u/68823869?s=64&v=4" alt="drawing" width="64"/> | 2023-05-16T11:43:22Z |
 | [whitebirdQuestioner](https://github.com/whitebirdQuestioner) | <img src="https://avatars.githubusercontent.com/u/115354323?s=64&v=4" alt="drawing" width="64"/> | 2023-05-13T17:57:25Z |
 | [kelefeibing](https://github.com/kelefeibing) | <img src="https://avatars.githubusercontent.com/u/95904980?s=64&v=4" alt="drawing" width="64"/> | 2023-05-13T13:20:40Z |
 | [dawangqiniu](https://github.com/dawangqiniu) | <img src="https://avatars.githubusercontent.com/u/61264365?s=64&v=4" alt="drawing" width="64"/> | 2023-05-13T05:28:10Z |
@@ -56,7 +57,6 @@
 | [XSuperMeteorX](https://github.com/XSuperMeteorX) | <img src="https://avatars.githubusercontent.com/u/69909444?s=64&v=4" alt="drawing" width="64"/> | 2023-04-16T14:33:57Z |
 | [xilili48](https://github.com/xilili48) | <img src="https://avatars.githubusercontent.com/u/113772707?s=64&u=b759c8921e6b436ae2df35eeb0a227bd3dadfe28&v=4" alt="drawing" width="64"/> | 2023-04-16T12:41:59Z |
 | [zs2928](https://github.com/zs2928) | <img src="https://avatars.githubusercontent.com/u/130726282?s=64&v=4" alt="drawing" width="64"/> | 2023-04-16T03:41:59Z |
-| [sdd-cn](https://github.com/sdd-cn) | <img src="https://avatars.githubusercontent.com/u/68823869?s=64&v=4" alt="drawing" width="64"/> | 2023-04-14T08:18:58Z |
 | [Yongge1011](https://github.com/Yongge1011) | <img src="https://avatars.githubusercontent.com/u/56527859?s=64&v=4" alt="drawing" width="64"/> | 2023-04-14T05:51:55Z |
 | [HopkinsWang](https://github.com/HopkinsWang) | <img src="https://avatars.githubusercontent.com/u/49025120?s=64&v=4" alt="drawing" width="64"/> | 2023-04-12T12:37:26Z |
 | [1137270574](https://github.com/1137270574) | <img src="https://avatars.githubusercontent.com/u/73704123?s=64&v=4" alt="drawing" width="64"/> | 2023-04-11T18:01:54Z |
