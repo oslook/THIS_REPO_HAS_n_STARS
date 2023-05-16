@@ -1,13 +1,14 @@
-# THIS REPO HAS 142 STARS ⭐️
+# THIS REPO HAS 143 STARS ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[sdd-cn](https://github.com/sdd-cn) helped me count the 142nd star, thank you!
+[ed-3](https://github.com/ed-3) helped me count the 143nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
+| [ed-3](https://github.com/ed-3) | <img src="https://avatars.githubusercontent.com/u/69950862?s=64&v=4" alt="drawing" width="64"/> | 2023-05-16T14:06:56Z |
 | [sdd-cn](https://github.com/sdd-cn) | <img src="https://avatars.githubusercontent.com/u/68823869?s=64&v=4" alt="drawing" width="64"/> | 2023-05-16T11:43:22Z |
 | [whitebirdQuestioner](https://github.com/whitebirdQuestioner) | <img src="https://avatars.githubusercontent.com/u/115354323?s=64&v=4" alt="drawing" width="64"/> | 2023-05-13T17:57:25Z |
 | [kelefeibing](https://github.com/kelefeibing) | <img src="https://avatars.githubusercontent.com/u/95904980?s=64&v=4" alt="drawing" width="64"/> | 2023-05-13T13:20:40Z |
@@ -152,7 +153,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## Contribs 
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_142_STARS&max=1000&columns=16" width="720"/></a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_143_STARS&max=1000&columns=16" width="720"/></a>
 ## Want to contribute?
 
 Clicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!
