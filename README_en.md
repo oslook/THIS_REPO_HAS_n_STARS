@@ -1,8 +1,8 @@
-# THIS REPO HAS 148 STARS ⭐️
+# THIS REPO HAS 147 STARS ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[zyz2023](https://github.com/zyz2023) helped me count the 148nd star, thank you!
+[zyz2023](https://github.com/zyz2023) helped me count the 147nd star, thank you!
 
 ## Stars
 
@@ -75,7 +75,6 @@
 | [yanzhaoWW](https://github.com/yanzhaoWW) | <img src="https://avatars.githubusercontent.com/u/127864763?s=64&v=4" alt="drawing" width="64"/> | 2023-04-04T12:30:18Z |
 | [xiaozhu2007](https://github.com/xiaozhu2007) | <img src="https://avatars.githubusercontent.com/u/63779340?s=64&u=f325339c8ff26babf487472588604cc309f549eb&v=4" alt="drawing" width="64"/> | 2023-03-29T14:30:13Z |
 | [Wenti-D](https://github.com/Wenti-D) | <img src="https://avatars.githubusercontent.com/u/73067578?s=64&u=c16d7003680f103be8ccdb0a8c1ea432f08e4576&v=4" alt="drawing" width="64"/> | 2023-03-17T05:24:37Z |
-| [Lumetriflow](https://github.com/Lumetriflow) | <img src="https://avatars.githubusercontent.com/u/78962755?s=64&u=ebbf32d489bab1592c3ee1c9bc6b1c0ddb8ddc68&v=4" alt="drawing" width="64"/> | 2023-03-08T08:09:26Z |
 | [hahayzl](https://github.com/hahayzl) | <img src="https://avatars.githubusercontent.com/u/69866274?s=64&v=4" alt="drawing" width="64"/> | 2023-03-05T15:40:19Z |
 | [weihongfei](https://github.com/weihongfei) | <img src="https://avatars.githubusercontent.com/u/11779931?s=64&v=4" alt="drawing" width="64"/> | 2023-02-16T15:20:08Z |
 | [Nick-Mth](https://github.com/Nick-Mth) | <img src="https://avatars.githubusercontent.com/u/125559465?s=64&v=4" alt="drawing" width="64"/> | 2023-02-16T10:58:14Z |
@@ -158,7 +157,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## Contribs 
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_148_STARS&max=1000&columns=16" width="720"/></a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_147_STARS&max=1000&columns=16" width="720"/></a>
 ## Want to contribute?
 
 Clicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!
