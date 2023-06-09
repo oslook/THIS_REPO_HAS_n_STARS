@@ -30,6 +30,6 @@ jobs:
         git add .
         git commit -m "${{ steps.star.outputs.count }} 🌟" -a --allow-empty
         git push
-    - run: |
-        python main.py ${{ secrets.PAT }} $GITHUB_REPOSITORY ${{ steps.star.outputs.count }}
+#   - run: |
+#      python main.py ${{ secrets.PAT }} $GITHUB_REPOSITORY ${{ steps.star.outputs.count }}
        
