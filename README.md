@@ -1,13 +1,14 @@
-# 这个仓库有 157个 星标 ⭐️
+# 这个仓库有 158个 星标 ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [D-S-William-Guo](https://github.com/D-S-William-Guo) 帮我做了第 157 个星标!
+感谢 [verigle](https://github.com/verigle) 帮我做了第 158 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
+| [verigle](https://github.com/verigle) | <img src="https://avatars.githubusercontent.com/u/32769358?s=64&u=e032a57d22cc1b1963a772c2450695d8e35fedac&v=4" alt="drawing" width="64"/> | 2023-06-16T02:55:54Z |
 | [D-S-William-Guo](https://github.com/D-S-William-Guo) | <img src="https://avatars.githubusercontent.com/u/19726302?s=64&u=575e7e7e8c0c3dbce8fb39127e60ca4e1c5ff920&v=4" alt="drawing" width="64"/> | 2023-06-15T07:13:12Z |
 | [zhaoyk1986](https://github.com/zhaoyk1986) | <img src="https://avatars.githubusercontent.com/u/16075300?s=64&v=4" alt="drawing" width="64"/> | 2023-06-13T01:25:24Z |
 | [fansiding](https://github.com/fansiding) | <img src="https://avatars.githubusercontent.com/u/28724257?s=64&v=4" alt="drawing" width="64"/> | 2023-06-11T14:44:26Z |
@@ -167,7 +168,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## 贡献者
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_157_STARS&max=1000&columns=16" width="720"/> </a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_158_STARS&max=1000&columns=16" width="720"/> </a>
 ## 你想试试吗?
 
 . 请点击上面的 star 按钮!
