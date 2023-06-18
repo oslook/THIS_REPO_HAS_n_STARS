@@ -8,7 +8,7 @@
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
-| [WiFibaby1997](https://github.com/WiFibaby1997) | <img src="https://avatars.githubusercontent.com/u/136875125?s=64&v=4" alt="drawing" width="64"/> | 2023-06-17T09:25:08Z |
+| [WiFibaby1997](https://github.com/WiFibaby1997) | <img src="https://avatars.githubusercontent.com/u/136875125?s=64&u=9279255f3bcdc174ffb0a91a6cf5b263f53f58b8&v=4" alt="drawing" width="64"/> | 2023-06-17T09:25:08Z |
 | [BruceLuke](https://github.com/BruceLuke) | <img src="https://avatars.githubusercontent.com/u/57694656?s=64&v=4" alt="drawing" width="64"/> | 2023-06-16T08:29:20Z |
 | [verigle](https://github.com/verigle) | <img src="https://avatars.githubusercontent.com/u/32769358?s=64&u=e032a57d22cc1b1963a772c2450695d8e35fedac&v=4" alt="drawing" width="64"/> | 2023-06-16T02:55:54Z |
 | [D-S-William-Guo](https://github.com/D-S-William-Guo) | <img src="https://avatars.githubusercontent.com/u/19726302?s=64&u=575e7e7e8c0c3dbce8fb39127e60ca4e1c5ff920&v=4" alt="drawing" width="64"/> | 2023-06-15T07:13:12Z |
