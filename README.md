@@ -2,13 +2,13 @@
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [megasanjay](https://github.com/megasanjay) 帮我做了第 164 个星标!
+感谢 [Steanky](https://github.com/Steanky) 帮我做了第 164 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
-| [megasanjay](https://github.com/megasanjay) | <img src="https://avatars.githubusercontent.com/u/21206996?s=64&u=c0dee7e6edfe38f6f0b840282d6679370b48aa8e&v=4" alt="drawing" width="64"/> | 2023-06-20T20:19:58Z |
+| [Steanky](https://github.com/Steanky) | <img src="https://avatars.githubusercontent.com/u/48609366?s=64&u=d8c56fb4f50f76d0ec658f30a3804d63eb05572b&v=4" alt="drawing" width="64"/> | 2023-06-20T20:47:51Z |
 | [Berserk-Guppies](https://github.com/Berserk-Guppies) | <img src="https://avatars.githubusercontent.com/u/23144414?s=64&v=4" alt="drawing" width="64"/> | 2023-06-20T09:08:39Z |
 | [BrainZhao751](https://github.com/BrainZhao751) | <img src="https://avatars.githubusercontent.com/u/35053476?s=64&v=4" alt="drawing" width="64"/> | 2023-06-20T09:05:20Z |
 | [normalwindow](https://github.com/normalwindow) | <img src="https://avatars.githubusercontent.com/u/88714116?s=64&u=3e065704872d330a972a60aad228e825a63555b7&v=4" alt="drawing" width="64"/> | 2023-06-19T02:57:41Z |
