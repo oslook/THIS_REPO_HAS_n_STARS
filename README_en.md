@@ -1,13 +1,14 @@
-# THIS REPO HAS 161 STARS ⭐️
+# THIS REPO HAS 162 STARS ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[normalwindow](https://github.com/normalwindow) helped me count the 161nd star, thank you!
+[BrainZhao751](https://github.com/BrainZhao751) helped me count the 162nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
+| [BrainZhao751](https://github.com/BrainZhao751) | <img src="https://avatars.githubusercontent.com/u/35053476?s=64&v=4" alt="drawing" width="64"/> | 2023-06-20T09:05:20Z |
 | [normalwindow](https://github.com/normalwindow) | <img src="https://avatars.githubusercontent.com/u/88714116?s=64&u=3e065704872d330a972a60aad228e825a63555b7&v=4" alt="drawing" width="64"/> | 2023-06-19T02:57:41Z |
 | [WiFibaby1997](https://github.com/WiFibaby1997) | <img src="https://avatars.githubusercontent.com/u/136875125?s=64&u=9279255f3bcdc174ffb0a91a6cf5b263f53f58b8&v=4" alt="drawing" width="64"/> | 2023-06-17T09:25:08Z |
 | [BruceLuke](https://github.com/BruceLuke) | <img src="https://avatars.githubusercontent.com/u/57694656?s=64&v=4" alt="drawing" width="64"/> | 2023-06-16T08:29:20Z |
@@ -171,7 +172,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## Contribs 
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_161_STARS&max=1000&columns=16" width="720"/></a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_162_STARS&max=1000&columns=16" width="720"/></a>
 ## Want to contribute?
 
 Clicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!
