@@ -2,13 +2,13 @@
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[arpandaze](https://github.com/arpandaze) helped me count the 172nd star, thank you!
+[Rushab11](https://github.com/Rushab11) helped me count the 172nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
-| [arpandaze](https://github.com/arpandaze) | <img src="https://avatars.githubusercontent.com/u/46302068?s=64&v=4" alt="drawing" width="64"/> | 2023-06-23T13:32:57Z |
+| [Rushab11](https://github.com/Rushab11) | <img src="https://avatars.githubusercontent.com/u/28500753?s=64&u=9cebdcad002ec21e99135d6e78e6b0917ca77d69&v=4" alt="drawing" width="64"/> | 2023-06-23T14:29:41Z |
 | [Han-GK](https://github.com/Han-GK) | <img src="https://avatars.githubusercontent.com/u/99523510?s=64&u=f32e5d373c870a820c700cace4e85ca8ff130dd8&v=4" alt="drawing" width="64"/> | 2023-06-23T13:20:59Z |
 | [llsanketll](https://github.com/llsanketll) | <img src="https://avatars.githubusercontent.com/u/55257633?s=64&u=9b69954e62399058c779a4bed774f99a29bea5c9&v=4" alt="drawing" width="64"/> | 2023-06-23T11:34:16Z |
 | [mud-ali](https://github.com/mud-ali) | <img src="https://avatars.githubusercontent.com/u/96320211?s=64&u=b5277a96bf0f5e35e287818ddf1a919b5e4bb819&v=4" alt="drawing" width="64"/> | 2023-06-21T16:17:30Z |
