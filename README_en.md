@@ -1,13 +1,14 @@
-# THIS REPO HAS 175 STARS ⭐️
+# THIS REPO HAS 174 STARS ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[XIZIOY](https://github.com/XIZIOY) helped me count the 175nd star, thank you!
+[talentyao](https://github.com/talentyao) helped me count the 174nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
+| [talentyao](https://github.com/talentyao) | <img src="https://avatars.githubusercontent.com/u/1400187?s=64&u=dd6d8f7a873914293b70c70bcd895a086b6f18c8&v=4" alt="drawing" width="64"/> | 2023-06-27T10:08:10Z |
 | [XIZIOY](https://github.com/XIZIOY) | <img src="https://avatars.githubusercontent.com/u/119640028?s=64&v=4" alt="drawing" width="64"/> | 2023-06-25T04:55:21Z |
 | [GG0923](https://github.com/GG0923) | <img src="https://avatars.githubusercontent.com/u/137623553?s=64&v=4" alt="drawing" width="64"/> | 2023-06-24T13:50:06Z |
 | [2123ABC](https://github.com/2123ABC) | <img src="https://avatars.githubusercontent.com/u/60285153?s=64&u=9d2979f4fcd219c6b505593b801af5f64420deed&v=4" alt="drawing" width="64"/> | 2023-06-24T04:57:11Z |
@@ -18,7 +19,6 @@
 | [GeekerL](https://github.com/GeekerL) | <img src="https://avatars.githubusercontent.com/u/94663027?s=64&v=4" alt="drawing" width="64"/> | 2023-06-21T14:35:24Z |
 | [houshengtop](https://github.com/houshengtop) | <img src="https://avatars.githubusercontent.com/u/71369904?s=64&v=4" alt="drawing" width="64"/> | 2023-06-21T08:41:35Z |
 | [tahmid-23](https://github.com/tahmid-23) | <img src="https://avatars.githubusercontent.com/u/60953955?s=64&v=4" alt="drawing" width="64"/> | 2023-06-20T22:44:20Z |
-| [FoxNerdSaysMoo](https://github.com/FoxNerdSaysMoo) | <img src="https://avatars.githubusercontent.com/u/65097669?s=64&u=3b5b271de9cd984f79364ece051faa41bb3ef05c&v=4" alt="drawing" width="64"/> | 2023-06-20T20:48:58Z |
 | [Steanky](https://github.com/Steanky) | <img src="https://avatars.githubusercontent.com/u/48609366?s=64&u=d8c56fb4f50f76d0ec658f30a3804d63eb05572b&v=4" alt="drawing" width="64"/> | 2023-06-20T20:47:51Z |
 | [Berserk-Guppies](https://github.com/Berserk-Guppies) | <img src="https://avatars.githubusercontent.com/u/23144414?s=64&v=4" alt="drawing" width="64"/> | 2023-06-20T09:08:39Z |
 | [BrainZhao751](https://github.com/BrainZhao751) | <img src="https://avatars.githubusercontent.com/u/35053476?s=64&v=4" alt="drawing" width="64"/> | 2023-06-20T09:05:20Z |
@@ -53,7 +53,6 @@
 | [bluese](https://github.com/bluese) | <img src="https://avatars.githubusercontent.com/u/31332002?s=64&v=4" alt="drawing" width="64"/> | 2023-05-11T03:51:24Z |
 | [wst4288](https://github.com/wst4288) | <img src="https://avatars.githubusercontent.com/u/22558476?s=64&u=9f1a7e7d3d9e0886e89d64663ee4e3f1f8b47997&v=4" alt="drawing" width="64"/> | 2023-05-10T05:44:09Z |
 | [TANKKE1992](https://github.com/TANKKE1992) | <img src="https://avatars.githubusercontent.com/u/40162642?s=64&v=4" alt="drawing" width="64"/> | 2023-05-09T14:36:14Z |
-| [talentyao](https://github.com/talentyao) | <img src="https://avatars.githubusercontent.com/u/1400187?s=64&u=dd6d8f7a873914293b70c70bcd895a086b6f18c8&v=4" alt="drawing" width="64"/> | 2023-05-08T07:00:13Z |
 | [wd1900](https://github.com/wd1900) | <img src="https://avatars.githubusercontent.com/u/7314268?s=64&u=9faa16176bf86a97bb6403369ce838bbb4402ea3&v=4" alt="drawing" width="64"/> | 2023-05-07T17:17:05Z |
 | [876843240](https://github.com/876843240) | <img src="https://avatars.githubusercontent.com/u/14799063?s=64&u=affcf6bcf197910847ffddf26495c1d284b30097&v=4" alt="drawing" width="64"/> | 2023-05-07T11:23:53Z |
 | [senwanyi](https://github.com/senwanyi) | <img src="https://avatars.githubusercontent.com/u/132794542?s=64&v=4" alt="drawing" width="64"/> | 2023-05-07T01:16:44Z |
@@ -185,7 +184,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## Contribs 
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_175_STARS&max=1000&columns=16" width="720"/></a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_174_STARS&max=1000&columns=16" width="720"/></a>
 ## Want to contribute?
 
 Clicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!
