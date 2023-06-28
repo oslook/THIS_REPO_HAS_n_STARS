@@ -2,13 +2,13 @@
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [Hui472792658](https://github.com/Hui472792658) 帮我做了第 175 个星标!
+感谢 [paulo-granthon](https://github.com/paulo-granthon) 帮我做了第 175 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
-| [Hui472792658](https://github.com/Hui472792658) | <img src="https://avatars.githubusercontent.com/u/39250019?s=64&u=1205855ba32ddaa17662898d99204698cad550d4&v=4" alt="drawing" width="64"/> | 2023-06-28T04:22:09Z |
+| [paulo-granthon](https://github.com/paulo-granthon) | <img src="https://avatars.githubusercontent.com/u/93501477?s=64&u=cb4824961eebf280e275696966f18965a0c035b8&v=4" alt="drawing" width="64"/> | 2023-06-28T04:34:00Z |
 | [talentyao](https://github.com/talentyao) | <img src="https://avatars.githubusercontent.com/u/1400187?s=64&u=dd6d8f7a873914293b70c70bcd895a086b6f18c8&v=4" alt="drawing" width="64"/> | 2023-06-27T10:08:10Z |
 | [XIZIOY](https://github.com/XIZIOY) | <img src="https://avatars.githubusercontent.com/u/119640028?s=64&v=4" alt="drawing" width="64"/> | 2023-06-25T04:55:21Z |
 | [GG0923](https://github.com/GG0923) | <img src="https://avatars.githubusercontent.com/u/137623553?s=64&v=4" alt="drawing" width="64"/> | 2023-06-24T13:50:06Z |
