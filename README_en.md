@@ -1,14 +1,13 @@
-# THIS REPO HAS 187 STARS ⭐️
+# THIS REPO HAS 185 STARS ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[ccoob](https://github.com/ccoob) helped me count the 187nd star, thank you!
+[YellowLyre](https://github.com/YellowLyre) helped me count the 185nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
-| [ccoob](https://github.com/ccoob) | <img src="https://avatars.githubusercontent.com/u/138659768?s=64&v=4" alt="drawing" width="64"/> | 2023-07-07T08:20:32Z |
 | [YellowLyre](https://github.com/YellowLyre) | <img src="https://avatars.githubusercontent.com/u/62462532?s=64&u=61ccf27d84824bcd8a728fda593f6bc650bbe51f&v=4" alt="drawing" width="64"/> | 2023-07-07T03:16:32Z |
 | [wildmonky](https://github.com/wildmonky) | <img src="https://avatars.githubusercontent.com/u/43490169?s=64&v=4" alt="drawing" width="64"/> | 2023-07-07T02:06:24Z |
 | [w624946829](https://github.com/w624946829) | <img src="https://avatars.githubusercontent.com/u/35663215?s=64&v=4" alt="drawing" width="64"/> | 2023-07-05T13:56:08Z |
@@ -34,7 +33,6 @@
 | [houshengtop](https://github.com/houshengtop) | <img src="https://avatars.githubusercontent.com/u/71369904?s=64&v=4" alt="drawing" width="64"/> | 2023-06-21T08:41:35Z |
 | [tahmid-23](https://github.com/tahmid-23) | <img src="https://avatars.githubusercontent.com/u/60953955?s=64&v=4" alt="drawing" width="64"/> | 2023-06-20T22:44:20Z |
 | [Steanky](https://github.com/Steanky) | <img src="https://avatars.githubusercontent.com/u/48609366?s=64&u=d8c56fb4f50f76d0ec658f30a3804d63eb05572b&v=4" alt="drawing" width="64"/> | 2023-06-20T20:47:51Z |
-| [Berserk-Guppies](https://github.com/Berserk-Guppies) | <img src="https://avatars.githubusercontent.com/u/23144414?s=64&v=4" alt="drawing" width="64"/> | 2023-06-20T09:08:39Z |
 | [BrainZhao751](https://github.com/BrainZhao751) | <img src="https://avatars.githubusercontent.com/u/35053476?s=64&v=4" alt="drawing" width="64"/> | 2023-06-20T09:05:20Z |
 | [normalwindow](https://github.com/normalwindow) | <img src="https://avatars.githubusercontent.com/u/88714116?s=64&u=3e065704872d330a972a60aad228e825a63555b7&v=4" alt="drawing" width="64"/> | 2023-06-19T02:57:41Z |
 | [BruceLuke](https://github.com/BruceLuke) | <img src="https://avatars.githubusercontent.com/u/57694656?s=64&v=4" alt="drawing" width="64"/> | 2023-06-16T08:29:20Z |
@@ -197,7 +195,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## Contribs 
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_187_STARS&max=1000&columns=16" width="720"/></a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_185_STARS&max=1000&columns=16" width="720"/></a>
 ## Want to contribute?
 
 Clicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!
