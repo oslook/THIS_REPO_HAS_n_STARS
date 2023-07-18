@@ -2,13 +2,13 @@
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[shuai19910911](https://github.com/shuai19910911) helped me count the 196nd star, thank you!
+[STBBRD](https://github.com/STBBRD) helped me count the 196nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
-| [shuai19910911](https://github.com/shuai19910911) | <img src="https://avatars.githubusercontent.com/u/68764116?s=64&v=4" alt="drawing" width="64"/> | 2023-07-18T07:08:10Z |
+| [STBBRD](https://github.com/STBBRD) | <img src="https://avatars.githubusercontent.com/u/62409850?s=64&u=25e0296b6e78eea87b58a949202b9d2c89e6f7a0&v=4" alt="drawing" width="64"/> | 2023-07-18T10:58:01Z |
 | [I-am-TonyWu](https://github.com/I-am-TonyWu) | <img src="https://avatars.githubusercontent.com/u/78592108?s=64&u=bf67397520bf579848dbcc777d24baa3d0ba0b8f&v=4" alt="drawing" width="64"/> | 2023-07-18T00:32:57Z |
 | [781001](https://github.com/781001) | <img src="https://avatars.githubusercontent.com/u/137373853?s=64&v=4" alt="drawing" width="64"/> | 2023-07-16T03:47:31Z |
 | [jamefrank](https://github.com/jamefrank) | <img src="https://avatars.githubusercontent.com/u/42687222?s=64&v=4" alt="drawing" width="64"/> | 2023-07-14T15:02:49Z |
