@@ -1,14 +1,13 @@
-# 这个仓库有 206个 星标 ⭐️
+# 这个仓库有 205个 星标 ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [hellomifan](https://github.com/hellomifan) 帮我做了第 206 个星标!
+感谢 [NathanCheshire](https://github.com/NathanCheshire) 帮我做了第 205 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
-| [hellomifan](https://github.com/hellomifan) | <img src="https://avatars.githubusercontent.com/u/71127523?s=64&u=031b78c5ee67e4f21c315b7edd4b4220c96f78d1&v=4" alt="drawing" width="64"/> | 2023-07-25T03:17:34Z |
 | [NathanCheshire](https://github.com/NathanCheshire) | <img src="https://avatars.githubusercontent.com/u/60986919?s=64&u=a30dda46edf2ce4ac4a28cd3d84fa3e734c0c025&v=4" alt="drawing" width="64"/> | 2023-07-24T14:43:43Z |
 | [th114514](https://github.com/th114514) | <img src="https://avatars.githubusercontent.com/u/140413667?s=64&v=4" alt="drawing" width="64"/> | 2023-07-24T13:55:04Z |
 | [apoint123](https://github.com/apoint123) | <img src="https://avatars.githubusercontent.com/u/108002475?s=64&v=4" alt="drawing" width="64"/> | 2023-07-24T11:05:17Z |
@@ -216,7 +215,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## 贡献者
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_206_STARS&max=1000&columns=16" width="720"/> </a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_205_STARS&max=1000&columns=16" width="720"/> </a>
 ## 你想试试吗?
 
 . 请点击上面的 star 按钮!
