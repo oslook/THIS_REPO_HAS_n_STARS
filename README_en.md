@@ -2,13 +2,13 @@
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[Rogic821](https://github.com/Rogic821) helped me count the 206nd star, thank you!
+[alan-best](https://github.com/alan-best) helped me count the 206nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
-| [Rogic821](https://github.com/Rogic821) | <img src="https://avatars.githubusercontent.com/u/137193310?s=64&v=4" alt="drawing" width="64"/> | 2023-07-25T04:19:58Z |
+| [alan-best](https://github.com/alan-best) | <img src="https://avatars.githubusercontent.com/u/47408535?s=64&u=957f1e453d1c8842d7e1999191dcc6f1a6a6a842&v=4" alt="drawing" width="64"/> | 2023-07-25T11:14:19Z |
 | [NathanCheshire](https://github.com/NathanCheshire) | <img src="https://avatars.githubusercontent.com/u/60986919?s=64&u=a30dda46edf2ce4ac4a28cd3d84fa3e734c0c025&v=4" alt="drawing" width="64"/> | 2023-07-24T14:43:43Z |
 | [th114514](https://github.com/th114514) | <img src="https://avatars.githubusercontent.com/u/140413667?s=64&v=4" alt="drawing" width="64"/> | 2023-07-24T13:55:04Z |
 | [apoint123](https://github.com/apoint123) | <img src="https://avatars.githubusercontent.com/u/108002475?s=64&v=4" alt="drawing" width="64"/> | 2023-07-24T11:05:17Z |
