@@ -1,13 +1,14 @@
-# 这个仓库有 211个 星标 ⭐️
+# 这个仓库有 212个 星标 ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [warwar0](https://github.com/warwar0) 帮我做了第 211 个星标!
+感谢 [XdpAreKid](https://github.com/XdpAreKid) 帮我做了第 212 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
+| [XdpAreKid](https://github.com/XdpAreKid) | <img src="https://avatars.githubusercontent.com/u/22389436?s=64&u=cbd957b7c156b9054866c3af0b447823e2c137a1&v=4" alt="drawing" width="64"/> | 2023-07-28T07:18:00Z |
 | [warwar0](https://github.com/warwar0) | <img src="https://avatars.githubusercontent.com/u/110221885?s=64&v=4" alt="drawing" width="64"/> | 2023-07-27T13:54:06Z |
 | [moyanislth](https://github.com/moyanislth) | <img src="https://avatars.githubusercontent.com/u/81506667?s=64&u=a562bd275080d6c969f1567de747c6fd69462909&v=4" alt="drawing" width="64"/> | 2023-07-27T13:48:54Z |
 | [eternal689](https://github.com/eternal689) | <img src="https://avatars.githubusercontent.com/u/125167052?s=64&u=9652a735a8acb49b1f548a005c4ed970ed2ab276&v=4" alt="drawing" width="64"/> | 2023-07-27T10:25:23Z |
@@ -221,7 +222,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## 贡献者
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_211_STARS&max=1000&columns=16" width="720"/> </a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_212_STARS&max=1000&columns=16" width="720"/> </a>
 ## 你想试试吗?
 
 . 请点击上面的 star 按钮!
