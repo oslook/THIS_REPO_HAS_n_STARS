@@ -1,14 +1,13 @@
-# THIS REPO HAS 213 STARS ⭐️
+# THIS REPO HAS 212 STARS ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[Jerryqjr](https://github.com/Jerryqjr) helped me count the 213nd star, thank you!
+[XdpAreKid](https://github.com/XdpAreKid) helped me count the 212nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
-| [Jerryqjr](https://github.com/Jerryqjr) | <img src="https://avatars.githubusercontent.com/u/130551633?s=64&v=4" alt="drawing" width="64"/> | 2023-07-29T02:50:43Z |
 | [XdpAreKid](https://github.com/XdpAreKid) | <img src="https://avatars.githubusercontent.com/u/22389436?s=64&u=cbd957b7c156b9054866c3af0b447823e2c137a1&v=4" alt="drawing" width="64"/> | 2023-07-28T07:18:00Z |
 | [warwar0](https://github.com/warwar0) | <img src="https://avatars.githubusercontent.com/u/110221885?s=64&v=4" alt="drawing" width="64"/> | 2023-07-27T13:54:06Z |
 | [moyanislth](https://github.com/moyanislth) | <img src="https://avatars.githubusercontent.com/u/81506667?s=64&u=a562bd275080d6c969f1567de747c6fd69462909&v=4" alt="drawing" width="64"/> | 2023-07-27T13:48:54Z |
@@ -223,7 +222,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## Contribs 
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_213_STARS&max=1000&columns=16" width="720"/></a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_212_STARS&max=1000&columns=16" width="720"/></a>
 ## Want to contribute?
 
 Clicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!
