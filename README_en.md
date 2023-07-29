@@ -2,13 +2,13 @@
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[hazaikk](https://github.com/hazaikk) helped me count the 213nd star, thank you!
+[Jerryqjr](https://github.com/Jerryqjr) helped me count the 213nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
-| [hazaikk](https://github.com/hazaikk) | <img src="https://avatars.githubusercontent.com/u/133231346?s=64&v=4" alt="drawing" width="64"/> | 2023-07-28T12:27:38Z |
+| [Jerryqjr](https://github.com/Jerryqjr) | <img src="https://avatars.githubusercontent.com/u/130551633?s=64&v=4" alt="drawing" width="64"/> | 2023-07-29T02:50:43Z |
 | [XdpAreKid](https://github.com/XdpAreKid) | <img src="https://avatars.githubusercontent.com/u/22389436?s=64&u=cbd957b7c156b9054866c3af0b447823e2c137a1&v=4" alt="drawing" width="64"/> | 2023-07-28T07:18:00Z |
 | [warwar0](https://github.com/warwar0) | <img src="https://avatars.githubusercontent.com/u/110221885?s=64&v=4" alt="drawing" width="64"/> | 2023-07-27T13:54:06Z |
 | [moyanislth](https://github.com/moyanislth) | <img src="https://avatars.githubusercontent.com/u/81506667?s=64&u=a562bd275080d6c969f1567de747c6fd69462909&v=4" alt="drawing" width="64"/> | 2023-07-27T13:48:54Z |
