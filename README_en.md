@@ -1,13 +1,14 @@
-# THIS REPO HAS 213 STARS ⭐️
+# THIS REPO HAS 214 STARS ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[onetimetwe](https://github.com/onetimetwe) helped me count the 213nd star, thank you!
+[Haishiche](https://github.com/Haishiche) helped me count the 214nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
+| [Haishiche](https://github.com/Haishiche) | <img src="https://avatars.githubusercontent.com/u/136244080?s=64&v=4" alt="drawing" width="64"/> | 2023-08-03T04:55:07Z |
 | [onetimetwe](https://github.com/onetimetwe) | <img src="https://avatars.githubusercontent.com/u/107401675?s=64&v=4" alt="drawing" width="64"/> | 2023-08-02T16:26:53Z |
 | [123kll321](https://github.com/123kll321) | <img src="https://avatars.githubusercontent.com/u/92630033?s=64&v=4" alt="drawing" width="64"/> | 2023-08-01T15:26:00Z |
 | [BIT-Xu](https://github.com/BIT-Xu) | <img src="https://avatars.githubusercontent.com/u/46838699?s=64&v=4" alt="drawing" width="64"/> | 2023-07-29T17:51:15Z |
@@ -223,7 +224,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## Contribs 
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_213_STARS&max=1000&columns=16" width="720"/></a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_214_STARS&max=1000&columns=16" width="720"/></a>
 ## Want to contribute?
 
 Clicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!
