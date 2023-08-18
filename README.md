@@ -1,13 +1,14 @@
-# 这个仓库有 244个 星标 ⭐️
+# 这个仓库有 245个 星标 ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [xurui165023](https://github.com/xurui165023) 帮我做了第 244 个星标!
+感谢 [lmy460](https://github.com/lmy460) 帮我做了第 245 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
+| [lmy460](https://github.com/lmy460) | <img src="https://avatars.githubusercontent.com/u/123561491?s=64&v=4" alt="drawing" width="64"/> | 2023-08-18T14:38:25Z |
 | [xurui165023](https://github.com/xurui165023) | <img src="https://avatars.githubusercontent.com/u/104352401?s=64&v=4" alt="drawing" width="64"/> | 2023-08-18T13:54:13Z |
 | [ikeepup](https://github.com/ikeepup) | <img src="https://avatars.githubusercontent.com/u/45615151?s=64&v=4" alt="drawing" width="64"/> | 2023-08-18T12:09:17Z |
 | [zhaixuhui](https://github.com/zhaixuhui) | <img src="https://avatars.githubusercontent.com/u/142580589?s=64&v=4" alt="drawing" width="64"/> | 2023-08-18T09:44:45Z |
@@ -254,7 +255,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## 贡献者
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_244_STARS&max=1000&columns=16" width="720"/> </a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_245_STARS&max=1000&columns=16" width="720"/> </a>
 ## 你想试试吗?
 
 . 请点击上面的 star 按钮!
