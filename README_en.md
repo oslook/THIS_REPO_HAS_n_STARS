@@ -1,13 +1,14 @@
-# THIS REPO HAS 247 STARS ⭐️
+# THIS REPO HAS 248 STARS ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[devilmengcry](https://github.com/devilmengcry) helped me count the 247nd star, thank you!
+[xiaoyuan151](https://github.com/xiaoyuan151) helped me count the 248nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
+| [xiaoyuan151](https://github.com/xiaoyuan151) | <img src="https://avatars.githubusercontent.com/u/68885447?s=64&u=41c689ca02a0f72e0a2c6e92289edab8b8ba7727&v=4" alt="drawing" width="64"/> | 2023-08-19T10:59:18Z |
 | [devilmengcry](https://github.com/devilmengcry) | <img src="https://avatars.githubusercontent.com/u/6964329?s=64&u=2f869b04eb5824d07cd0f48027029bda0f7a6073&v=4" alt="drawing" width="64"/> | 2023-08-19T06:07:32Z |
 | [SUN065030](https://github.com/SUN065030) | <img src="https://avatars.githubusercontent.com/u/125172478?s=64&v=4" alt="drawing" width="64"/> | 2023-08-19T02:51:28Z |
 | [lmy460](https://github.com/lmy460) | <img src="https://avatars.githubusercontent.com/u/123561491?s=64&v=4" alt="drawing" width="64"/> | 2023-08-18T14:38:25Z |
@@ -257,7 +258,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## Contribs 
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_247_STARS&max=1000&columns=16" width="720"/></a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_248_STARS&max=1000&columns=16" width="720"/></a>
 ## Want to contribute?
 
 Clicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!
