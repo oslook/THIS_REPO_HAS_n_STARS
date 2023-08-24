@@ -2,13 +2,13 @@
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [zhaoxwgit](https://github.com/zhaoxwgit) 帮我做了第 255 个星标!
+感谢 [whoamizx](https://github.com/whoamizx) 帮我做了第 255 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
-| [zhaoxwgit](https://github.com/zhaoxwgit) | <img src="https://avatars.githubusercontent.com/u/18651873?s=64&v=4" alt="drawing" width="64"/> | 2023-08-24T08:41:49Z |
+| [whoamizx](https://github.com/whoamizx) | <img src="https://avatars.githubusercontent.com/u/108825705?s=64&u=f0034462495af4942a85f2229819129345e91113&v=4" alt="drawing" width="64"/> | 2023-08-24T12:55:38Z |
 | [ssln5014](https://github.com/ssln5014) | <img src="https://avatars.githubusercontent.com/u/81206855?s=64&u=df7e1c5fa49770f8f695f4b27d5e7b5e1c5cc5cb&v=4" alt="drawing" width="64"/> | 2023-08-22T10:47:43Z |
 | [sfggehy](https://github.com/sfggehy) | <img src="https://avatars.githubusercontent.com/u/3021332?s=64&v=4" alt="drawing" width="64"/> | 2023-08-22T09:44:02Z |
 | [hjm2007](https://github.com/hjm2007) | <img src="https://avatars.githubusercontent.com/u/50241836?s=64&u=0e1fb3a722e7f5d1f23a22917a78f12dc81492ba&v=4" alt="drawing" width="64"/> | 2023-08-21T03:29:43Z |
