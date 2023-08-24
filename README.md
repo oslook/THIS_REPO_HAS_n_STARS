@@ -1,13 +1,14 @@
-# 这个仓库有 255个 星标 ⭐️
+# 这个仓库有 256个 星标 ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [whoamizx](https://github.com/whoamizx) 帮我做了第 255 个星标!
+感谢 [GiGiBo1](https://github.com/GiGiBo1) 帮我做了第 256 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
+| [GiGiBo1](https://github.com/GiGiBo1) | <img src="https://avatars.githubusercontent.com/u/113688036?s=64&u=9b66f9de9f11416d61847ab3728ea4e029a9b827&v=4" alt="drawing" width="64"/> | 2023-08-24T13:46:29Z |
 | [whoamizx](https://github.com/whoamizx) | <img src="https://avatars.githubusercontent.com/u/108825705?s=64&u=f0034462495af4942a85f2229819129345e91113&v=4" alt="drawing" width="64"/> | 2023-08-24T12:55:38Z |
 | [ssln5014](https://github.com/ssln5014) | <img src="https://avatars.githubusercontent.com/u/81206855?s=64&u=df7e1c5fa49770f8f695f4b27d5e7b5e1c5cc5cb&v=4" alt="drawing" width="64"/> | 2023-08-22T10:47:43Z |
 | [sfggehy](https://github.com/sfggehy) | <img src="https://avatars.githubusercontent.com/u/3021332?s=64&v=4" alt="drawing" width="64"/> | 2023-08-22T09:44:02Z |
@@ -265,7 +266,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## 贡献者
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_255_STARS&max=1000&columns=16" width="720"/> </a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_256_STARS&max=1000&columns=16" width="720"/> </a>
 ## 你想试试吗?
 
 . 请点击上面的 star 按钮!
