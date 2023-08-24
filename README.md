@@ -1,13 +1,14 @@
-# 这个仓库有 257个 星标 ⭐️
+# 这个仓库有 258个 星标 ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [baomou](https://github.com/baomou) 帮我做了第 257 个星标!
+感谢 [natulopy](https://github.com/natulopy) 帮我做了第 258 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
+| [natulopy](https://github.com/natulopy) | <img src="https://avatars.githubusercontent.com/u/96873207?s=64&v=4" alt="drawing" width="64"/> | 2023-08-24T16:13:17Z |
 | [baomou](https://github.com/baomou) | <img src="https://avatars.githubusercontent.com/u/122424041?s=64&v=4" alt="drawing" width="64"/> | 2023-08-24T14:25:09Z |
 | [GiGiBo1](https://github.com/GiGiBo1) | <img src="https://avatars.githubusercontent.com/u/113688036?s=64&u=9b66f9de9f11416d61847ab3728ea4e029a9b827&v=4" alt="drawing" width="64"/> | 2023-08-24T13:46:29Z |
 | [whoamizx](https://github.com/whoamizx) | <img src="https://avatars.githubusercontent.com/u/108825705?s=64&u=f0034462495af4942a85f2229819129345e91113&v=4" alt="drawing" width="64"/> | 2023-08-24T12:55:38Z |
@@ -267,7 +268,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## 贡献者
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_257_STARS&max=1000&columns=16" width="720"/> </a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_258_STARS&max=1000&columns=16" width="720"/> </a>
 ## 你想试试吗?
 
 . 请点击上面的 star 按钮!
