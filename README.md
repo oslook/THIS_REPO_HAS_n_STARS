@@ -1,13 +1,14 @@
-# 这个仓库有 274个 星标 ⭐️
+# 这个仓库有 275个 星标 ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [liupAtM](https://github.com/liupAtM) 帮我做了第 274 个星标!
+感谢 [Jiu-Zz](https://github.com/Jiu-Zz) 帮我做了第 275 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
+| [Jiu-Zz](https://github.com/Jiu-Zz) | <img src="https://avatars.githubusercontent.com/u/72741662?s=64&v=4" alt="drawing" width="64"/> | 2023-09-07T04:57:29Z |
 | [liupAtM](https://github.com/liupAtM) | <img src="https://avatars.githubusercontent.com/u/140316819?s=64&v=4" alt="drawing" width="64"/> | 2023-09-06T06:18:56Z |
 | [johnoNwin](https://github.com/johnoNwin) | <img src="https://avatars.githubusercontent.com/u/110829647?s=64&v=4" alt="drawing" width="64"/> | 2023-09-05T03:44:44Z |
 | [amourlemon](https://github.com/amourlemon) | <img src="https://avatars.githubusercontent.com/u/74894521?s=64&u=926bd8989e4fc31ad836ebd30baeaf3f4ce25df0&v=4" alt="drawing" width="64"/> | 2023-09-03T10:16:09Z |
@@ -284,7 +285,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## 贡献者
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_274_STARS&max=1000&columns=16" width="720"/> </a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_275_STARS&max=1000&columns=16" width="720"/> </a>
 ## 你想试试吗?
 
 . 请点击上面的 star 按钮!
