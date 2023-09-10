@@ -2,13 +2,13 @@
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [DeeWooo](https://github.com/DeeWooo) 帮我做了第 278 个星标!
+感谢 [wangdy622](https://github.com/wangdy622) 帮我做了第 278 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
-| [DeeWooo](https://github.com/DeeWooo) | <img src="https://avatars.githubusercontent.com/u/7700516?s=64&v=4" alt="drawing" width="64"/> | 2023-09-10T14:40:51Z |
+| [wangdy622](https://github.com/wangdy622) | <img src="https://avatars.githubusercontent.com/u/117695873?s=64&v=4" alt="drawing" width="64"/> | 2023-09-10T15:10:08Z |
 | [llplmlyd](https://github.com/llplmlyd) | <img src="https://avatars.githubusercontent.com/u/33628991?s=64&u=546c7b85d5e32c9f1ad5dcc2495fe610ac3debac&v=4" alt="drawing" width="64"/> | 2023-09-10T03:51:04Z |
 | [791521455](https://github.com/791521455) | <img src="https://avatars.githubusercontent.com/u/115876534?s=64&v=4" alt="drawing" width="64"/> | 2023-09-09T11:41:24Z |
 | [MinatoAquaDaiSuki](https://github.com/MinatoAquaDaiSuki) | <img src="https://avatars.githubusercontent.com/u/62339321?s=64&u=2811fd22d4ae8704d334b9b874c39a4f6cc91d1f&v=4" alt="drawing" width="64"/> | 2023-09-08T10:30:52Z |
