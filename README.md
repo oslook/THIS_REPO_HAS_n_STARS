@@ -1,13 +1,14 @@
-# 这个仓库有 279个 星标 ⭐️
+# 这个仓库有 280个 星标 ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [cuidahai123](https://github.com/cuidahai123) 帮我做了第 279 个星标!
+感谢 [LuoluoSr](https://github.com/LuoluoSr) 帮我做了第 280 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
+| [LuoluoSr](https://github.com/LuoluoSr) | <img src="https://avatars.githubusercontent.com/u/101385212?s=64&v=4" alt="drawing" width="64"/> | 2023-09-11T10:24:49Z |
 | [cuidahai123](https://github.com/cuidahai123) | <img src="https://avatars.githubusercontent.com/u/99933635?s=64&v=4" alt="drawing" width="64"/> | 2023-09-11T01:21:07Z |
 | [wangdy622](https://github.com/wangdy622) | <img src="https://avatars.githubusercontent.com/u/117695873?s=64&v=4" alt="drawing" width="64"/> | 2023-09-10T15:10:08Z |
 | [llplmlyd](https://github.com/llplmlyd) | <img src="https://avatars.githubusercontent.com/u/33628991?s=64&u=546c7b85d5e32c9f1ad5dcc2495fe610ac3debac&v=4" alt="drawing" width="64"/> | 2023-09-10T03:51:04Z |
@@ -289,7 +290,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## 贡献者
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_279_STARS&max=1000&columns=16" width="720"/> </a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_280_STARS&max=1000&columns=16" width="720"/> </a>
 ## 你想试试吗?
 
 . 请点击上面的 star 按钮!
