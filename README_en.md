@@ -1,13 +1,14 @@
-# THIS REPO HAS 284 STARS ⭐️
+# THIS REPO HAS 285 STARS ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[Arcane-Khadgar](https://github.com/Arcane-Khadgar) helped me count the 284nd star, thank you!
+[LeekJay](https://github.com/LeekJay) helped me count the 285nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
+| [LeekJay](https://github.com/LeekJay) | <img src="https://avatars.githubusercontent.com/u/39609783?s=64&u=3de382953e94ba19f49eae519bd9f105702856f1&v=4" alt="drawing" width="64"/> | 2023-09-14T08:06:15Z |
 | [Arcane-Khadgar](https://github.com/Arcane-Khadgar) | <img src="https://avatars.githubusercontent.com/u/45506366?s=64&u=7a53716c739d0101ce22b2d161b8f8060aa8d9fd&v=4" alt="drawing" width="64"/> | 2023-09-14T06:07:47Z |
 | [Ryo033](https://github.com/Ryo033) | <img src="https://avatars.githubusercontent.com/u/132142851?s=64&v=4" alt="drawing" width="64"/> | 2023-09-13T12:58:44Z |
 | [Savoyyang](https://github.com/Savoyyang) | <img src="https://avatars.githubusercontent.com/u/20871175?s=64&v=4" alt="drawing" width="64"/> | 2023-09-13T08:52:36Z |
@@ -294,7 +295,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## Contribs 
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_284_STARS&max=1000&columns=16" width="720"/></a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_285_STARS&max=1000&columns=16" width="720"/></a>
 ## Want to contribute?
 
 Clicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!
