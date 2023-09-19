@@ -2,13 +2,13 @@
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[qwrdxer](https://github.com/qwrdxer) helped me count the 292nd star, thank you!
+[uZIDADADA](https://github.com/uZIDADADA) helped me count the 292nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
-| [qwrdxer](https://github.com/qwrdxer) | <img src="https://avatars.githubusercontent.com/u/46155167?s=64&u=a0f8c62e5478bbf48e50dfeac6dc99240a384f3e&v=4" alt="drawing" width="64"/> | 2023-09-19T06:47:54Z |
+| [uZIDADADA](https://github.com/uZIDADADA) | <img src="https://avatars.githubusercontent.com/u/55170973?s=64&u=5b2fc9e62f4aae78d9600c8e764dea93ae919e71&v=4" alt="drawing" width="64"/> | 2023-09-19T09:48:51Z |
 | [zhxcxr](https://github.com/zhxcxr) | <img src="https://avatars.githubusercontent.com/u/132657524?s=64&v=4" alt="drawing" width="64"/> | 2023-09-19T04:20:32Z |
 | [yangzehan](https://github.com/yangzehan) | <img src="https://avatars.githubusercontent.com/u/76773988?s=64&v=4" alt="drawing" width="64"/> | 2023-09-18T07:21:28Z |
 | [2423235647](https://github.com/2423235647) | <img src="https://avatars.githubusercontent.com/u/145261281?s=64&v=4" alt="drawing" width="64"/> | 2023-09-17T13:05:53Z |
