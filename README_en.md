@@ -2,13 +2,13 @@
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[15217711253](https://github.com/15217711253) helped me count the 294nd star, thank you!
+[capricornxl](https://github.com/capricornxl) helped me count the 294nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
-| [15217711253](https://github.com/15217711253) | <img src="https://avatars.githubusercontent.com/u/63035369?s=64&v=4" alt="drawing" width="64"/> | 2023-09-20T02:51:34Z |
+| [capricornxl](https://github.com/capricornxl) | <img src="https://avatars.githubusercontent.com/u/40738379?s=64&u=8a358122d7ed87f7489b24d57c551da9d9b83a36&v=4" alt="drawing" width="64"/> | 2023-09-21T08:58:52Z |
 | [mentujia](https://github.com/mentujia) | <img src="https://avatars.githubusercontent.com/u/93965739?s=64&v=4" alt="drawing" width="64"/> | 2023-09-20T01:43:51Z |
 | [uZIDADADA](https://github.com/uZIDADADA) | <img src="https://avatars.githubusercontent.com/u/55170973?s=64&u=5b2fc9e62f4aae78d9600c8e764dea93ae919e71&v=4" alt="drawing" width="64"/> | 2023-09-19T09:49:59Z |
 | [zhxcxr](https://github.com/zhxcxr) | <img src="https://avatars.githubusercontent.com/u/132657524?s=64&v=4" alt="drawing" width="64"/> | 2023-09-19T04:20:32Z |
