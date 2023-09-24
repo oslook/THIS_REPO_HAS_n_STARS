@@ -2,13 +2,13 @@
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[ovulatingwife](https://github.com/ovulatingwife) helped me count the 301nd star, thank you!
+[StarDust2004](https://github.com/StarDust2004) helped me count the 301nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
-| [ovulatingwife](https://github.com/ovulatingwife) | <img src="https://avatars.githubusercontent.com/u/91519026?s=64&u=5abb15f2a13f22ef763df6e7c75f458f21697821&v=4" alt="drawing" width="64"/> | 2023-09-24T10:13:01Z |
+| [StarDust2004](https://github.com/StarDust2004) | <img src="https://avatars.githubusercontent.com/u/109770933?s=64&v=4" alt="drawing" width="64"/> | 2023-09-24T13:20:26Z |
 | [abamkl](https://github.com/abamkl) | <img src="https://avatars.githubusercontent.com/u/132237473?s=64&v=4" alt="drawing" width="64"/> | 2023-09-23T08:49:28Z |
 | [zhanghaolin1](https://github.com/zhanghaolin1) | <img src="https://avatars.githubusercontent.com/u/35892578?s=64&v=4" alt="drawing" width="64"/> | 2023-09-23T04:38:45Z |
 | [Chiaki-QWQ](https://github.com/Chiaki-QWQ) | <img src="https://avatars.githubusercontent.com/u/117554432?s=64&u=05bcf6d08fea48f030aedf9ef627fab0791caa0f&v=4" alt="drawing" width="64"/> | 2023-09-23T01:19:19Z |
