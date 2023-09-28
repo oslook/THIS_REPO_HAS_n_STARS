@@ -1,13 +1,14 @@
-# THIS REPO HAS 301 STARS ⭐️
+# THIS REPO HAS 302 STARS ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[EstherBC](https://github.com/EstherBC) helped me count the 301nd star, thank you!
+[deniswuxf](https://github.com/deniswuxf) helped me count the 302nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
+| [deniswuxf](https://github.com/deniswuxf) | <img src="https://avatars.githubusercontent.com/u/83871028?s=64&v=4" alt="drawing" width="64"/> | 2023-09-28T13:10:44Z |
 | [EstherBC](https://github.com/EstherBC) | <img src="https://avatars.githubusercontent.com/u/103827231?s=64&v=4" alt="drawing" width="64"/> | 2023-09-27T16:30:18Z |
 | [zhengweigg](https://github.com/zhengweigg) | <img src="https://avatars.githubusercontent.com/u/71369904?s=64&v=4" alt="drawing" width="64"/> | 2023-09-25T09:11:17Z |
 | [abamkl](https://github.com/abamkl) | <img src="https://avatars.githubusercontent.com/u/132237473?s=64&v=4" alt="drawing" width="64"/> | 2023-09-23T08:49:28Z |
@@ -311,7 +312,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## Contribs 
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_301_STARS&max=1000&columns=16" width="720"/></a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_302_STARS&max=1000&columns=16" width="720"/></a>
 ## Want to contribute?
 
 Clicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!
