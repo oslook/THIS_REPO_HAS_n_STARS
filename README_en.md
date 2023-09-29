@@ -2,12 +2,13 @@
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[zhang141650](https://github.com/zhang141650) helped me count the 302nd star, thank you!
+[qfb201412](https://github.com/qfb201412) helped me count the 302nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
+| [qfb201412](https://github.com/qfb201412) | <img src="https://avatars.githubusercontent.com/u/141344698?s=64&v=4" alt="drawing" width="64"/> | 2023-09-29T03:57:32Z |
 | [zhang141650](https://github.com/zhang141650) | <img src="https://avatars.githubusercontent.com/u/54732882?s=64&u=3ad203e6ade3f900924e66a75cecd64b087124e4&v=4" alt="drawing" width="64"/> | 2023-09-28T13:42:25Z |
 | [EstherBC](https://github.com/EstherBC) | <img src="https://avatars.githubusercontent.com/u/103827231?s=64&v=4" alt="drawing" width="64"/> | 2023-09-27T16:30:18Z |
 | [zhengweigg](https://github.com/zhengweigg) | <img src="https://avatars.githubusercontent.com/u/71369904?s=64&v=4" alt="drawing" width="64"/> | 2023-09-25T09:11:17Z |
@@ -126,7 +127,6 @@
 | [jamefrank](https://github.com/jamefrank) | <img src="https://avatars.githubusercontent.com/u/42687222?s=64&v=4" alt="drawing" width="64"/> | 2023-07-14T15:02:49Z |
 | [lightworld689](https://github.com/lightworld689) | <img src="https://avatars.githubusercontent.com/u/107845122?s=64&v=4" alt="drawing" width="64"/> | 2023-07-14T12:40:13Z |
 | [Meniye](https://github.com/Meniye) | <img src="https://avatars.githubusercontent.com/u/83118757?s=64&v=4" alt="drawing" width="64"/> | 2023-07-13T13:02:25Z |
-| [ande128](https://github.com/ande128) | <img src="https://avatars.githubusercontent.com/u/10861136?s=64&v=4" alt="drawing" width="64"/> | 2023-07-13T10:17:55Z |
 | [baopbao1640](https://github.com/baopbao1640) | <img src="https://avatars.githubusercontent.com/u/60499200?s=64&v=4" alt="drawing" width="64"/> | 2023-07-11T03:17:40Z |
 | [houhailun](https://github.com/houhailun) | <img src="https://avatars.githubusercontent.com/u/20940011?s=64&v=4" alt="drawing" width="64"/> | 2023-07-11T02:31:31Z |
 | [forcake59420](https://github.com/forcake59420) | <img src="https://avatars.githubusercontent.com/u/29967565?s=64&v=4" alt="drawing" width="64"/> | 2023-07-11T00:35:20Z |
