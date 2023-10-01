@@ -2,13 +2,13 @@
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [QwertyL0L](https://github.com/QwertyL0L) 帮我做了第 306 个星标!
+感谢 [huayyds](https://github.com/huayyds) 帮我做了第 306 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
-| [QwertyL0L](https://github.com/QwertyL0L) | <img src="https://avatars.githubusercontent.com/u/109008649?s=64&u=e0b2a83c4efd5eb29dc00c89d68515a6e12f8c21&v=4" alt="drawing" width="64"/> | 2023-10-01T07:08:44Z |
+| [huayyds](https://github.com/huayyds) | <img src="https://avatars.githubusercontent.com/u/97893889?s=64&u=e5c4e50717d4dc1dd259aa2c81329543e525eb48&v=4" alt="drawing" width="64"/> | 2023-10-01T08:04:58Z |
 | [dongtaolqq](https://github.com/dongtaolqq) | <img src="https://avatars.githubusercontent.com/u/7866936?s=64&v=4" alt="drawing" width="64"/> | 2023-10-01T05:24:42Z |
 | [1250028322](https://github.com/1250028322) | <img src="https://avatars.githubusercontent.com/u/88877271?s=64&v=4" alt="drawing" width="64"/> | 2023-10-01T02:39:23Z |
 | [Bonaly](https://github.com/Bonaly) | <img src="https://avatars.githubusercontent.com/u/97039059?s=64&v=4" alt="drawing" width="64"/> | 2023-09-30T04:31:20Z |
