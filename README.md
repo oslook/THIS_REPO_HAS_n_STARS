@@ -1,13 +1,14 @@
-# 这个仓库有 303个 星标 ⭐️
+# 这个仓库有 304个 星标 ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [Bonaly](https://github.com/Bonaly) 帮我做了第 303 个星标!
+感谢 [1250028322](https://github.com/1250028322) 帮我做了第 304 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
+| [1250028322](https://github.com/1250028322) | <img src="https://avatars.githubusercontent.com/u/88877271?s=64&v=4" alt="drawing" width="64"/> | 2023-10-01T02:39:23Z |
 | [Bonaly](https://github.com/Bonaly) | <img src="https://avatars.githubusercontent.com/u/97039059?s=64&v=4" alt="drawing" width="64"/> | 2023-09-30T04:31:20Z |
 | [qfb201412](https://github.com/qfb201412) | <img src="https://avatars.githubusercontent.com/u/141344698?s=64&v=4" alt="drawing" width="64"/> | 2023-09-29T03:57:32Z |
 | [zhang141650](https://github.com/zhang141650) | <img src="https://avatars.githubusercontent.com/u/54732882?s=64&u=3ad203e6ade3f900924e66a75cecd64b087124e4&v=4" alt="drawing" width="64"/> | 2023-09-28T13:42:25Z |
@@ -313,7 +314,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## 贡献者
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_303_STARS&max=1000&columns=16" width="720"/> </a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_304_STARS&max=1000&columns=16" width="720"/> </a>
 ## 你想试试吗?
 
 . 请点击上面的 star 按钮!
