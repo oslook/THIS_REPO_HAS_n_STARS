@@ -1,14 +1,13 @@
-# 这个仓库有 309个 星标 ⭐️
+# 这个仓库有 308个 星标 ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [RawDiamondMC](https://github.com/RawDiamondMC) 帮我做了第 309 个星标!
+感谢 [Erazx](https://github.com/Erazx) 帮我做了第 308 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
-| [RawDiamondMC](https://github.com/RawDiamondMC) | <img src="https://avatars.githubusercontent.com/u/112449001?s=64&u=2231c7eff978cdb349ee8dc4057f58b06791873b&v=4" alt="drawing" width="64"/> | 2023-10-02T11:10:43Z |
 | [Erazx](https://github.com/Erazx) | <img src="https://avatars.githubusercontent.com/u/18753065?s=64&v=4" alt="drawing" width="64"/> | 2023-10-02T04:57:21Z |
 | [scharfes](https://github.com/scharfes) | <img src="https://avatars.githubusercontent.com/u/136790550?s=64&v=4" alt="drawing" width="64"/> | 2023-10-01T09:40:43Z |
 | [huayyds](https://github.com/huayyds) | <img src="https://avatars.githubusercontent.com/u/97893889?s=64&u=e5c4e50717d4dc1dd259aa2c81329543e525eb48&v=4" alt="drawing" width="64"/> | 2023-10-01T08:05:24Z |
@@ -319,7 +318,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## 贡献者
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_309_STARS&max=1000&columns=16" width="720"/> </a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_308_STARS&max=1000&columns=16" width="720"/> </a>
 ## 你想试试吗?
 
 . 请点击上面的 star 按钮!
