@@ -1,13 +1,14 @@
-# THIS REPO HAS 309 STARS ⭐️
+# THIS REPO HAS 310 STARS ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[GlaDOSer](https://github.com/GlaDOSer) helped me count the 309nd star, thank you!
+[addre98](https://github.com/addre98) helped me count the 310nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
+| [addre98](https://github.com/addre98) | <img src="https://avatars.githubusercontent.com/u/111131309?s=64&v=4" alt="drawing" width="64"/> | 2023-10-03T15:20:01Z |
 | [GlaDOSer](https://github.com/GlaDOSer) | <img src="https://avatars.githubusercontent.com/u/120352908?s=64&v=4" alt="drawing" width="64"/> | 2023-10-03T05:29:54Z |
 | [xianlele](https://github.com/xianlele) | <img src="https://avatars.githubusercontent.com/u/33710409?s=64&v=4" alt="drawing" width="64"/> | 2023-10-03T01:46:37Z |
 | [Erazx](https://github.com/Erazx) | <img src="https://avatars.githubusercontent.com/u/18753065?s=64&v=4" alt="drawing" width="64"/> | 2023-10-02T04:57:21Z |
@@ -319,7 +320,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## Contribs 
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_309_STARS&max=1000&columns=16" width="720"/></a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_310_STARS&max=1000&columns=16" width="720"/></a>
 ## Want to contribute?
 
 Clicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!
