@@ -1,13 +1,14 @@
-# THIS REPO HAS 312 STARS ⭐️
+# THIS REPO HAS 313 STARS ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[123THU](https://github.com/123THU) helped me count the 312nd star, thank you!
+[pugfly](https://github.com/pugfly) helped me count the 313nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
+| [pugfly](https://github.com/pugfly) | <img src="https://avatars.githubusercontent.com/u/14359713?s=64&u=1d41ccea1ea6d02958b6d38a1baf24bb6e1b9393&v=4" alt="drawing" width="64"/> | 2023-10-05T05:05:12Z |
 | [123THU](https://github.com/123THU) | <img src="https://avatars.githubusercontent.com/u/112925891?s=64&u=4b49b74ea19f7fcc66593e1c9024216da0b24763&v=4" alt="drawing" width="64"/> | 2023-10-04T15:34:56Z |
 | [deathofhistory](https://github.com/deathofhistory) | <img src="https://avatars.githubusercontent.com/u/121541916?s=64&v=4" alt="drawing" width="64"/> | 2023-10-04T03:09:39Z |
 | [addre98](https://github.com/addre98) | <img src="https://avatars.githubusercontent.com/u/111131309?s=64&v=4" alt="drawing" width="64"/> | 2023-10-03T15:20:01Z |
@@ -322,7 +323,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## Contribs 
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_312_STARS&max=1000&columns=16" width="720"/></a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_313_STARS&max=1000&columns=16" width="720"/></a>
 ## Want to contribute?
 
 Clicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!
