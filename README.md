@@ -2,14 +2,14 @@
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [aerozn](https://github.com/aerozn) 帮我做了第 314 个星标!
+感谢 [m47777](https://github.com/m47777) 帮我做了第 314 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
+| [m47777](https://github.com/m47777) | <img src="https://avatars.githubusercontent.com/u/75627596?s=64&v=4" alt="drawing" width="64"/> | 2023-10-05T13:59:49Z |
 | [aerozn](https://github.com/aerozn) | <img src="https://avatars.githubusercontent.com/u/62301393?s=64&v=4" alt="drawing" width="64"/> | 2023-10-05T09:22:26Z |
-| [pugfly](https://github.com/pugfly) | <img src="https://avatars.githubusercontent.com/u/14359713?s=64&u=1d41ccea1ea6d02958b6d38a1baf24bb6e1b9393&v=4" alt="drawing" width="64"/> | 2023-10-05T05:07:40Z |
 | [123THU](https://github.com/123THU) | <img src="https://avatars.githubusercontent.com/u/112925891?s=64&u=4b49b74ea19f7fcc66593e1c9024216da0b24763&v=4" alt="drawing" width="64"/> | 2023-10-04T15:34:56Z |
 | [deathofhistory](https://github.com/deathofhistory) | <img src="https://avatars.githubusercontent.com/u/121541916?s=64&v=4" alt="drawing" width="64"/> | 2023-10-04T03:09:39Z |
 | [addre98](https://github.com/addre98) | <img src="https://avatars.githubusercontent.com/u/111131309?s=64&v=4" alt="drawing" width="64"/> | 2023-10-03T15:20:01Z |
