@@ -1,14 +1,13 @@
-# THIS REPO HAS 321 STARS ⭐️
+# THIS REPO HAS 320 STARS ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[piaoxue1](https://github.com/piaoxue1) helped me count the 321nd star, thank you!
+[BurningShip](https://github.com/BurningShip) helped me count the 320nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
-| [piaoxue1](https://github.com/piaoxue1) | <img src="https://avatars.githubusercontent.com/u/58386584?s=64&u=053fac7e5373ee41aa1a2976a8d51fe32d8aa92f&v=4" alt="drawing" width="64"/> | 2023-10-08T04:59:10Z |
 | [BurningShip](https://github.com/BurningShip) | <img src="https://avatars.githubusercontent.com/u/52987001?s=64&v=4" alt="drawing" width="64"/> | 2023-10-07T03:26:52Z |
 | [wmn365](https://github.com/wmn365) | <img src="https://avatars.githubusercontent.com/u/73585659?s=64&v=4" alt="drawing" width="64"/> | 2023-10-06T09:39:18Z |
 | [Ericming1](https://github.com/Ericming1) | <img src="https://avatars.githubusercontent.com/u/98091865?s=64&v=4" alt="drawing" width="64"/> | 2023-10-06T04:48:37Z |
@@ -331,7 +330,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## Contribs 
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_321_STARS&max=1000&columns=16" width="720"/></a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_320_STARS&max=1000&columns=16" width="720"/></a>
 ## Want to contribute?
 
 Clicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!

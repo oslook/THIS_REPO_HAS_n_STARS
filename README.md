@@ -1,14 +1,13 @@
-# 这个仓库有 321个 星标 ⭐️
+# 这个仓库有 320个 星标 ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [piaoxue1](https://github.com/piaoxue1) 帮我做了第 321 个星标!
+感谢 [BurningShip](https://github.com/BurningShip) 帮我做了第 320 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
-| [piaoxue1](https://github.com/piaoxue1) | <img src="https://avatars.githubusercontent.com/u/58386584?s=64&u=053fac7e5373ee41aa1a2976a8d51fe32d8aa92f&v=4" alt="drawing" width="64"/> | 2023-10-08T04:59:10Z |
 | [BurningShip](https://github.com/BurningShip) | <img src="https://avatars.githubusercontent.com/u/52987001?s=64&v=4" alt="drawing" width="64"/> | 2023-10-07T03:26:52Z |
 | [wmn365](https://github.com/wmn365) | <img src="https://avatars.githubusercontent.com/u/73585659?s=64&v=4" alt="drawing" width="64"/> | 2023-10-06T09:39:18Z |
 | [Ericming1](https://github.com/Ericming1) | <img src="https://avatars.githubusercontent.com/u/98091865?s=64&v=4" alt="drawing" width="64"/> | 2023-10-06T04:48:37Z |
@@ -331,7 +330,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## 贡献者
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_321_STARS&max=1000&columns=16" width="720"/> </a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_320_STARS&max=1000&columns=16" width="720"/> </a>
 ## 你想试试吗?
 
 . 请点击上面的 star 按钮!
