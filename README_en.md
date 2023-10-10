@@ -2,13 +2,13 @@
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[nansishan](https://github.com/nansishan) helped me count the 321nd star, thank you!
+[550655294](https://github.com/550655294) helped me count the 321nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
-| [nansishan](https://github.com/nansishan) | <img src="https://avatars.githubusercontent.com/u/4234097?s=64&v=4" alt="drawing" width="64"/> | 2023-10-09T12:18:40Z |
+| [550655294](https://github.com/550655294) | <img src="https://avatars.githubusercontent.com/u/33822410?s=64&u=46e495e801f4ce3500fa86ef045a28532d982a46&v=4" alt="drawing" width="64"/> | 2023-10-10T05:04:48Z |
 | [BurningShip](https://github.com/BurningShip) | <img src="https://avatars.githubusercontent.com/u/52987001?s=64&v=4" alt="drawing" width="64"/> | 2023-10-07T03:26:52Z |
 | [wmn365](https://github.com/wmn365) | <img src="https://avatars.githubusercontent.com/u/73585659?s=64&v=4" alt="drawing" width="64"/> | 2023-10-06T09:39:18Z |
 | [Ericming1](https://github.com/Ericming1) | <img src="https://avatars.githubusercontent.com/u/98091865?s=64&v=4" alt="drawing" width="64"/> | 2023-10-06T04:48:37Z |
