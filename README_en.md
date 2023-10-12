@@ -2,13 +2,13 @@
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[gettingaway](https://github.com/gettingaway) helped me count the 323nd star, thank you!
+[JackeyWin](https://github.com/JackeyWin) helped me count the 323nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
-| [gettingaway](https://github.com/gettingaway) | <img src="https://avatars.githubusercontent.com/u/97712223?s=64&v=4" alt="drawing" width="64"/> | 2023-10-11T14:41:48Z |
+| [JackeyWin](https://github.com/JackeyWin) | <img src="https://avatars.githubusercontent.com/u/42258189?s=64&v=4" alt="drawing" width="64"/> | 2023-10-12T07:20:46Z |
 | [m1527057702](https://github.com/m1527057702) | <img src="https://avatars.githubusercontent.com/u/79839589?s=64&u=e5a6d808cdbe858bd2a425c43774718f633f297b&v=4" alt="drawing" width="64"/> | 2023-10-11T12:24:18Z |
 | [ya](https://github.com/ya) | <img src="https://avatars.githubusercontent.com/u/114473015?s=64&v=4" alt="drawing" width="64"/> | 2023-10-11T09:46:49Z |
 | [punkhuoye](https://github.com/punkhuoye) | <img src="https://avatars.githubusercontent.com/u/61912841?s=64&v=4" alt="drawing" width="64"/> | 2023-10-11T03:53:07Z |
