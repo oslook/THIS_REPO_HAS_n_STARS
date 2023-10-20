@@ -2,13 +2,13 @@
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[qwegjx](https://github.com/qwegjx) helped me count the 329nd star, thank you!
+[LuSong-6](https://github.com/LuSong-6) helped me count the 329nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
-| [qwegjx](https://github.com/qwegjx) | <img src="https://avatars.githubusercontent.com/u/38576986?s=64&v=4" alt="drawing" width="64"/> | 2023-10-20T15:36:10Z |
+| [LuSong-6](https://github.com/LuSong-6) | <img src="https://avatars.githubusercontent.com/u/80583460?s=64&v=4" alt="drawing" width="64"/> | 2023-10-20T19:08:56Z |
 | [jinaiyuanbaojie](https://github.com/jinaiyuanbaojie) | <img src="https://avatars.githubusercontent.com/u/11535964?s=64&u=917447149e912b3812040a1da4ae173b562b0186&v=4" alt="drawing" width="64"/> | 2023-10-20T06:17:11Z |
 | [NoisySheep](https://github.com/NoisySheep) | <img src="https://avatars.githubusercontent.com/u/147225866?s=64&v=4" alt="drawing" width="64"/> | 2023-10-19T15:17:31Z |
 | [zhuzhuwinner](https://github.com/zhuzhuwinner) | <img src="https://avatars.githubusercontent.com/u/130621606?s=64&v=4" alt="drawing" width="64"/> | 2023-10-19T02:43:38Z |
