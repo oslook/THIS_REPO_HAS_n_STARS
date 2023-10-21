@@ -1,13 +1,14 @@
-# 这个仓库有 330个 星标 ⭐️
+# 这个仓库有 331个 星标 ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [No-ni](https://github.com/No-ni) 帮我做了第 330 个星标!
+感谢 [XueMinger](https://github.com/XueMinger) 帮我做了第 331 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
+| [XueMinger](https://github.com/XueMinger) | <img src="https://avatars.githubusercontent.com/u/136437655?s=64&v=4" alt="drawing" width="64"/> | 2023-10-21T11:53:20Z |
 | [No-ni](https://github.com/No-ni) | <img src="https://avatars.githubusercontent.com/u/95914574?s=64&u=ea604a1b81e70f2c10b41d02cd95244bc9ab1fb9&v=4" alt="drawing" width="64"/> | 2023-10-21T02:35:17Z |
 | [LuSong-6](https://github.com/LuSong-6) | <img src="https://avatars.githubusercontent.com/u/80583460?s=64&v=4" alt="drawing" width="64"/> | 2023-10-20T19:08:56Z |
 | [jinaiyuanbaojie](https://github.com/jinaiyuanbaojie) | <img src="https://avatars.githubusercontent.com/u/11535964?s=64&u=917447149e912b3812040a1da4ae173b562b0186&v=4" alt="drawing" width="64"/> | 2023-10-20T06:17:11Z |
@@ -340,7 +341,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## 贡献者
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_330_STARS&max=1000&columns=16" width="720"/> </a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_331_STARS&max=1000&columns=16" width="720"/> </a>
 ## 你想试试吗?
 
 . 请点击上面的 star 按钮!
