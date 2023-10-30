@@ -2,12 +2,13 @@
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [G0ldfur](https://github.com/G0ldfur) 帮我做了第 339 个星标!
+感谢 [Cooboob](https://github.com/Cooboob) 帮我做了第 339 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
+| [Cooboob](https://github.com/Cooboob) | <img src="https://avatars.githubusercontent.com/u/29628693?s=64&v=4" alt="drawing" width="64"/> | 2023-10-30T04:59:19Z |
 | [G0ldfur](https://github.com/G0ldfur) | <img src="https://avatars.githubusercontent.com/u/53226267?s=64&v=4" alt="drawing" width="64"/> | 2023-10-29T14:34:18Z |
 | [sylardct](https://github.com/sylardct) | <img src="https://avatars.githubusercontent.com/u/51511513?s=64&v=4" alt="drawing" width="64"/> | 2023-10-28T00:04:52Z |
 | [chenxi456](https://github.com/chenxi456) | <img src="https://avatars.githubusercontent.com/u/77575206?s=64&v=4" alt="drawing" width="64"/> | 2023-10-25T06:42:46Z |
@@ -153,7 +154,6 @@
 | [sun8809](https://github.com/sun8809) | <img src="https://avatars.githubusercontent.com/u/60999485?s=64&v=4" alt="drawing" width="64"/> | 2023-07-26T21:38:44Z |
 | [HammerMax](https://github.com/HammerMax) | <img src="https://avatars.githubusercontent.com/u/42595878?s=64&v=4" alt="drawing" width="64"/> | 2023-07-26T13:52:23Z |
 | [alan-best](https://github.com/alan-best) | <img src="https://avatars.githubusercontent.com/u/47408535?s=64&u=957f1e453d1c8842d7e1999191dcc6f1a6a6a842&v=4" alt="drawing" width="64"/> | 2023-07-25T11:14:19Z |
-| [NathanCheshire](https://github.com/NathanCheshire) | <img src="https://avatars.githubusercontent.com/u/60986919?s=64&u=a30dda46edf2ce4ac4a28cd3d84fa3e734c0c025&v=4" alt="drawing" width="64"/> | 2023-07-24T14:43:43Z |
 | [th114514](https://github.com/th114514) | <img src="https://avatars.githubusercontent.com/u/140413667?s=64&v=4" alt="drawing" width="64"/> | 2023-07-24T13:55:04Z |
 | [apoint123](https://github.com/apoint123) | <img src="https://avatars.githubusercontent.com/u/108002475?s=64&v=4" alt="drawing" width="64"/> | 2023-07-24T11:05:17Z |
 | [Lzwei1991](https://github.com/Lzwei1991) | <img src="https://avatars.githubusercontent.com/u/25519218?s=64&v=4" alt="drawing" width="64"/> | 2023-07-24T08:32:51Z |
