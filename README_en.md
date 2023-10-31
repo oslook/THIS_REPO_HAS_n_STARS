@@ -1,13 +1,14 @@
-# THIS REPO HAS 339 STARS ⭐️
+# THIS REPO HAS 340 STARS ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[Cooboob](https://github.com/Cooboob) helped me count the 339nd star, thank you!
+[wings27](https://github.com/wings27) helped me count the 340nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
+| [wings27](https://github.com/wings27) | <img src="https://avatars.githubusercontent.com/u/5449378?s=64&v=4" alt="drawing" width="64"/> | 2023-10-31T04:02:28Z |
 | [Cooboob](https://github.com/Cooboob) | <img src="https://avatars.githubusercontent.com/u/29628693?s=64&v=4" alt="drawing" width="64"/> | 2023-10-30T04:59:19Z |
 | [G0ldfur](https://github.com/G0ldfur) | <img src="https://avatars.githubusercontent.com/u/53226267?s=64&v=4" alt="drawing" width="64"/> | 2023-10-29T14:34:18Z |
 | [sylardct](https://github.com/sylardct) | <img src="https://avatars.githubusercontent.com/u/51511513?s=64&v=4" alt="drawing" width="64"/> | 2023-10-28T00:04:52Z |
@@ -349,7 +350,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## Contribs 
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_339_STARS&max=1000&columns=16" width="720"/></a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_340_STARS&max=1000&columns=16" width="720"/></a>
 ## Want to contribute?
 
 Clicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!
