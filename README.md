@@ -1,13 +1,14 @@
-# 这个仓库有 341个 星标 ⭐️
+# 这个仓库有 342个 星标 ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [BlueQueSit](https://github.com/BlueQueSit) 帮我做了第 341 个星标!
+感谢 [zjtgy11](https://github.com/zjtgy11) 帮我做了第 342 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
+| [zjtgy11](https://github.com/zjtgy11) | <img src="https://avatars.githubusercontent.com/u/30390790?s=64&u=aeabb016756891a8a440eec09a453228963aa27f&v=4" alt="drawing" width="64"/> | 2023-11-01T01:36:53Z |
 | [BlueQueSit](https://github.com/BlueQueSit) | <img src="https://avatars.githubusercontent.com/u/145833642?s=64&u=234e54d6c09a6eb4af3596999d40893881c511c7&v=4" alt="drawing" width="64"/> | 2023-10-31T23:14:21Z |
 | [wings27](https://github.com/wings27) | <img src="https://avatars.githubusercontent.com/u/5449378?s=64&v=4" alt="drawing" width="64"/> | 2023-10-31T04:02:28Z |
 | [Cooboob](https://github.com/Cooboob) | <img src="https://avatars.githubusercontent.com/u/29628693?s=64&v=4" alt="drawing" width="64"/> | 2023-10-30T04:59:19Z |
@@ -351,7 +352,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## 贡献者
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_341_STARS&max=1000&columns=16" width="720"/> </a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_342_STARS&max=1000&columns=16" width="720"/> </a>
 ## 你想试试吗?
 
 . 请点击上面的 star 按钮!
