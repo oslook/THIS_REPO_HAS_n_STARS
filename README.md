@@ -1,8 +1,8 @@
-# 这个仓库有 351个 星标 ⭐️
+# 这个仓库有 350个 星标 ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [Bduoluoluo](https://github.com/Bduoluoluo) 帮我做了第 351 个星标!
+感谢 [Bduoluoluo](https://github.com/Bduoluoluo) 帮我做了第 350 个星标!
 
 ## Stars
 
@@ -22,7 +22,6 @@
 | [wings27](https://github.com/wings27) | <img src="https://avatars.githubusercontent.com/u/5449378?s=64&v=4" alt="drawing" width="64"/> | 2023-10-31T04:02:28Z |
 | [Cooboob](https://github.com/Cooboob) | <img src="https://avatars.githubusercontent.com/u/29628693?s=64&v=4" alt="drawing" width="64"/> | 2023-10-30T04:59:19Z |
 | [G0ldfur](https://github.com/G0ldfur) | <img src="https://avatars.githubusercontent.com/u/53226267?s=64&v=4" alt="drawing" width="64"/> | 2023-10-29T14:34:18Z |
-| [sylardct](https://github.com/sylardct) | <img src="https://avatars.githubusercontent.com/u/51511513?s=64&v=4" alt="drawing" width="64"/> | 2023-10-28T00:04:52Z |
 | [chenxi456](https://github.com/chenxi456) | <img src="https://avatars.githubusercontent.com/u/77575206?s=64&v=4" alt="drawing" width="64"/> | 2023-10-25T06:42:46Z |
 | [Zhi-xuan-947](https://github.com/Zhi-xuan-947) | <img src="https://avatars.githubusercontent.com/u/136437795?s=64&u=f0e505bd2621f2a8e82fc90b2fb936ed741f443c&v=4" alt="drawing" width="64"/> | 2023-10-24T03:43:48Z |
 | [HDS9528](https://github.com/HDS9528) | <img src="https://avatars.githubusercontent.com/u/72852603?s=64&v=4" alt="drawing" width="64"/> | 2023-10-24T01:56:18Z |
@@ -361,7 +360,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## 贡献者
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_351_STARS&max=1000&columns=16" width="720"/> </a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_350_STARS&max=1000&columns=16" width="720"/> </a>
 ## 你想试试吗?
 
 . 请点击上面的 star 按钮!
