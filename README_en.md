@@ -1,13 +1,14 @@
-# THIS REPO HAS 351 STARS ⭐️
+# THIS REPO HAS 352 STARS ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[undefinedcodezhong](https://github.com/undefinedcodezhong) helped me count the 351nd star, thank you!
+[Cometzyc](https://github.com/Cometzyc) helped me count the 352nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
+| [Cometzyc](https://github.com/Cometzyc) | <img src="https://avatars.githubusercontent.com/u/113234824?s=64&u=9602af85fcb3fc73f6e8272a681c9ff83d5f9a6f&v=4" alt="drawing" width="64"/> | 2023-11-04T04:16:10Z |
 | [undefinedcodezhong](https://github.com/undefinedcodezhong) | <img src="https://avatars.githubusercontent.com/u/40236765?s=64&u=c967ee7355b2bb8a62c4cd291239c6506d34f5ad&v=4" alt="drawing" width="64"/> | 2023-11-03T12:58:45Z |
 | [Bduoluoluo](https://github.com/Bduoluoluo) | <img src="https://avatars.githubusercontent.com/u/31810717?s=64&v=4" alt="drawing" width="64"/> | 2023-11-03T06:22:13Z |
 | [flottant](https://github.com/flottant) | <img src="https://avatars.githubusercontent.com/u/53401195?s=64&u=6ae40d8e0c20ebc86f36c6631199faad03c33a9e&v=4" alt="drawing" width="64"/> | 2023-11-03T04:35:39Z |
@@ -361,7 +362,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## Contribs 
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_351_STARS&max=1000&columns=16" width="720"/></a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_352_STARS&max=1000&columns=16" width="720"/></a>
 ## Want to contribute?
 
 Clicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!
