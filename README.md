@@ -1,13 +1,14 @@
-# 这个仓库有 356个 星标 ⭐️
+# 这个仓库有 357个 星标 ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [Golden-Pigeon](https://github.com/Golden-Pigeon) 帮我做了第 356 个星标!
+感谢 [APOWER2042](https://github.com/APOWER2042) 帮我做了第 357 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
+| [APOWER2042](https://github.com/APOWER2042) | <img src="https://avatars.githubusercontent.com/u/137463118?s=64&u=6306eb4229cb4fe3cba0beb77fa513e08d461cc0&v=4" alt="drawing" width="64"/> | 2023-11-05T07:30:26Z |
 | [Golden-Pigeon](https://github.com/Golden-Pigeon) | <img src="https://avatars.githubusercontent.com/u/20119392?s=64&u=a26b1c3e90fe4b5c3c5780b8d3022b113b319853&v=4" alt="drawing" width="64"/> | 2023-11-05T06:47:24Z |
 | [eeriecl](https://github.com/eeriecl) | <img src="https://avatars.githubusercontent.com/u/38751853?s=64&u=5c69191682af56e0e8b284a36143cd4255486a8d&v=4" alt="drawing" width="64"/> | 2023-11-04T21:12:32Z |
 | [Winter0809](https://github.com/Winter0809) | <img src="https://avatars.githubusercontent.com/u/91322961?s=64&v=4" alt="drawing" width="64"/> | 2023-11-04T14:56:18Z |
@@ -366,7 +367,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## 贡献者
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_356_STARS&max=1000&columns=16" width="720"/> </a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_357_STARS&max=1000&columns=16" width="720"/> </a>
 ## 你想试试吗?
 
 . 请点击上面的 star 按钮!
