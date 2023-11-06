@@ -1,13 +1,14 @@
-# THIS REPO HAS 359 STARS ⭐️
+# THIS REPO HAS 360 STARS ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[xiaw1024](https://github.com/xiaw1024) helped me count the 359nd star, thank you!
+[d0j1a1701](https://github.com/d0j1a1701) helped me count the 360nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
+| [d0j1a1701](https://github.com/d0j1a1701) | <img src="https://avatars.githubusercontent.com/u/48874489?s=64&u=026705aa66133d5276d50cbb1132f776846d4b35&v=4" alt="drawing" width="64"/> | 2023-11-06T09:14:19Z |
 | [xiaw1024](https://github.com/xiaw1024) | <img src="https://avatars.githubusercontent.com/u/111741080?s=64&u=1f98e83d80e31216ed734893b598250883c6f1a8&v=4" alt="drawing" width="64"/> | 2023-11-06T01:19:55Z |
 | [arttnba3](https://github.com/arttnba3) | <img src="https://avatars.githubusercontent.com/u/28689148?s=64&u=844e2daffcdc3a5ad3ff3eef6f6c3bd473b560e9&v=4" alt="drawing" width="64"/> | 2023-11-05T09:26:30Z |
 | [APOWER2042](https://github.com/APOWER2042) | <img src="https://avatars.githubusercontent.com/u/137463118?s=64&u=6306eb4229cb4fe3cba0beb77fa513e08d461cc0&v=4" alt="drawing" width="64"/> | 2023-11-05T07:30:26Z |
@@ -19,7 +20,7 @@
 | [undefinedcodezhong](https://github.com/undefinedcodezhong) | <img src="https://avatars.githubusercontent.com/u/40236765?s=64&u=c967ee7355b2bb8a62c4cd291239c6506d34f5ad&v=4" alt="drawing" width="64"/> | 2023-11-03T12:58:45Z |
 | [Bduoluoluo](https://github.com/Bduoluoluo) | <img src="https://avatars.githubusercontent.com/u/31810717?s=64&v=4" alt="drawing" width="64"/> | 2023-11-03T06:22:13Z |
 | [flottant](https://github.com/flottant) | <img src="https://avatars.githubusercontent.com/u/53401195?s=64&u=6ae40d8e0c20ebc86f36c6631199faad03c33a9e&v=4" alt="drawing" width="64"/> | 2023-11-03T04:35:39Z |
-| [JasFa-ME](https://github.com/JasFa-ME) | <img src="https://avatars.githubusercontent.com/u/4696125?s=64&u=e5038a2a4e03ddce73ee69fdc7ab16fca1d9ef67&v=4" alt="drawing" width="64"/> | 2023-11-03T03:36:12Z |
+| [FJ-ME](https://github.com/FJ-ME) | <img src="https://avatars.githubusercontent.com/u/4696125?s=64&u=e5038a2a4e03ddce73ee69fdc7ab16fca1d9ef67&v=4" alt="drawing" width="64"/> | 2023-11-03T03:36:12Z |
 | [srachar](https://github.com/srachar) | <img src="https://avatars.githubusercontent.com/u/144320830?s=64&v=4" alt="drawing" width="64"/> | 2023-11-02T17:09:51Z |
 | [warmlight05](https://github.com/warmlight05) | <img src="https://avatars.githubusercontent.com/u/66932655?s=64&v=4" alt="drawing" width="64"/> | 2023-11-02T12:50:47Z |
 | [panyicheng123](https://github.com/panyicheng123) | <img src="https://avatars.githubusercontent.com/u/51101265?s=64&u=471d4e48afea90d7c360772208ee9c0654c9c661&v=4" alt="drawing" width="64"/> | 2023-11-02T09:13:15Z |
@@ -157,7 +158,7 @@
 | [sshirokarasu](https://github.com/sshirokarasu) | <img src="https://avatars.githubusercontent.com/u/110089155?s=64&u=3766f7a9fc61b1f39f8a4812e28e4025aede3ed4&v=4" alt="drawing" width="64"/> | 2023-08-09T09:29:07Z |
 | [ww36user](https://github.com/ww36user) | <img src="https://avatars.githubusercontent.com/u/59785608?s=64&u=42fe3b0e49ae91c06086db5403fb161bdfb188f4&v=4" alt="drawing" width="64"/> | 2023-08-07T08:56:36Z |
 | [hsuchiaping](https://github.com/hsuchiaping) | <img src="https://avatars.githubusercontent.com/u/57651445?s=64&u=2a123764f3af9a1a6b29e2a760076469af2df5eb&v=4" alt="drawing" width="64"/> | 2023-08-06T13:49:15Z |
-| [Yu-Zi-Yi](https://github.com/Yu-Zi-Yi) | <img src="https://avatars.githubusercontent.com/u/75923878?s=64&u=8d88f62fe4ca48c539cdc4b6447ed71940836c0d&v=4" alt="drawing" width="64"/> | 2023-08-04T14:18:12Z |
+| [Yu-Zi-Yi](https://github.com/Yu-Zi-Yi) | <img src="https://avatars.githubusercontent.com/u/75923878?s=64&u=cacbaf358a964ee296ec0bd64ffb8f149436d6f8&v=4" alt="drawing" width="64"/> | 2023-08-04T14:18:12Z |
 | [StarsRivers](https://github.com/StarsRivers) | <img src="https://avatars.githubusercontent.com/u/40968037?s=64&u=13c9912c750ffd634306a160d8bb029cb72a12a2&v=4" alt="drawing" width="64"/> | 2023-08-03T13:59:42Z |
 | [wnhhh](https://github.com/wnhhh) | <img src="https://avatars.githubusercontent.com/u/39821985?s=64&v=4" alt="drawing" width="64"/> | 2023-08-03T08:31:29Z |
 | [zhuyuanzhuo](https://github.com/zhuyuanzhuo) | <img src="https://avatars.githubusercontent.com/u/139091482?s=64&u=a25a014ac5b90ac4d2328a79afa2e13c533a420a&v=4" alt="drawing" width="64"/> | 2023-08-03T06:48:22Z |
@@ -369,7 +370,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## Contribs 
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_359_STARS&max=1000&columns=16" width="720"/></a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_360_STARS&max=1000&columns=16" width="720"/></a>
 ## Want to contribute?
 
 Clicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!
