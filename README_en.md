@@ -1,13 +1,14 @@
-# THIS REPO HAS 360 STARS ⭐️
+# THIS REPO HAS 361 STARS ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[d0j1a1701](https://github.com/d0j1a1701) helped me count the 360nd star, thank you!
+[bitgorust](https://github.com/bitgorust) helped me count the 361nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
+| [bitgorust](https://github.com/bitgorust) | <img src="https://avatars.githubusercontent.com/u/3054272?s=64&v=4" alt="drawing" width="64"/> | 2023-11-08T01:54:22Z |
 | [d0j1a1701](https://github.com/d0j1a1701) | <img src="https://avatars.githubusercontent.com/u/48874489?s=64&u=026705aa66133d5276d50cbb1132f776846d4b35&v=4" alt="drawing" width="64"/> | 2023-11-06T09:14:19Z |
 | [xiaw1024](https://github.com/xiaw1024) | <img src="https://avatars.githubusercontent.com/u/111741080?s=64&u=1f98e83d80e31216ed734893b598250883c6f1a8&v=4" alt="drawing" width="64"/> | 2023-11-06T01:19:55Z |
 | [arttnba3](https://github.com/arttnba3) | <img src="https://avatars.githubusercontent.com/u/28689148?s=64&u=844e2daffcdc3a5ad3ff3eef6f6c3bd473b560e9&v=4" alt="drawing" width="64"/> | 2023-11-05T09:26:30Z |
@@ -370,7 +371,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## Contribs 
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_360_STARS&max=1000&columns=16" width="720"/></a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_361_STARS&max=1000&columns=16" width="720"/></a>
 ## Want to contribute?
 
 Clicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!
