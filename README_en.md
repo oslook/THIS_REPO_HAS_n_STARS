@@ -17,7 +17,7 @@
 | [Winter0809](https://github.com/Winter0809) | <img src="https://avatars.githubusercontent.com/u/91322961?s=64&v=4" alt="drawing" width="64"/> | 2023-11-04T14:56:18Z |
 | [VictorYanMengKun](https://github.com/VictorYanMengKun) | <img src="https://avatars.githubusercontent.com/u/103824839?s=64&v=4" alt="drawing" width="64"/> | 2023-11-04T12:13:38Z |
 | [Cometzyc](https://github.com/Cometzyc) | <img src="https://avatars.githubusercontent.com/u/113234824?s=64&u=9602af85fcb3fc73f6e8272a681c9ff83d5f9a6f&v=4" alt="drawing" width="64"/> | 2023-11-04T04:16:10Z |
-| [undefinedcodezhong](https://github.com/undefinedcodezhong) | <img src="https://avatars.githubusercontent.com/u/40236765?s=64&u=c967ee7355b2bb8a62c4cd291239c6506d34f5ad&v=4" alt="drawing" width="64"/> | 2023-11-03T12:58:45Z |
+| [QAbot-zh](https://github.com/QAbot-zh) | <img src="https://avatars.githubusercontent.com/u/40236765?s=64&u=c967ee7355b2bb8a62c4cd291239c6506d34f5ad&v=4" alt="drawing" width="64"/> | 2023-11-03T12:58:45Z |
 | [Bduoluoluo](https://github.com/Bduoluoluo) | <img src="https://avatars.githubusercontent.com/u/31810717?s=64&v=4" alt="drawing" width="64"/> | 2023-11-03T06:22:13Z |
 | [flottant](https://github.com/flottant) | <img src="https://avatars.githubusercontent.com/u/53401195?s=64&u=6ae40d8e0c20ebc86f36c6631199faad03c33a9e&v=4" alt="drawing" width="64"/> | 2023-11-03T04:35:39Z |
 | [FJ-ME](https://github.com/FJ-ME) | <img src="https://avatars.githubusercontent.com/u/4696125?s=64&u=e5038a2a4e03ddce73ee69fdc7ab16fca1d9ef67&v=4" alt="drawing" width="64"/> | 2023-11-03T03:36:12Z |
