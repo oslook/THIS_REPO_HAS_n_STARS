@@ -2,13 +2,13 @@
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[15201430972](https://github.com/15201430972) helped me count the 368nd star, thank you!
+[hsuskjyd](https://github.com/hsuskjyd) helped me count the 368nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
-| [15201430972](https://github.com/15201430972) | <img src="https://avatars.githubusercontent.com/u/67836334?s=64&v=4" alt="drawing" width="64"/> | 2023-11-11T11:57:16Z |
+| [hsuskjyd](https://github.com/hsuskjyd) | <img src="https://avatars.githubusercontent.com/u/144470243?s=64&v=4" alt="drawing" width="64"/> | 2023-11-11T13:41:14Z |
 | [5677862](https://github.com/5677862) | <img src="https://avatars.githubusercontent.com/u/44516064?s=64&v=4" alt="drawing" width="64"/> | 2023-11-10T19:15:34Z |
 | [jingjing0419](https://github.com/jingjing0419) | <img src="https://avatars.githubusercontent.com/u/114206467?s=64&v=4" alt="drawing" width="64"/> | 2023-11-10T08:32:56Z |
 | [1744533022](https://github.com/1744533022) | <img src="https://avatars.githubusercontent.com/u/96106203?s=64&v=4" alt="drawing" width="64"/> | 2023-11-10T04:03:46Z |
