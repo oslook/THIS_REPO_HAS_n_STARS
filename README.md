@@ -1,13 +1,14 @@
-# 这个仓库有 368个 星标 ⭐️
+# 这个仓库有 369个 星标 ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [hsuskjyd](https://github.com/hsuskjyd) 帮我做了第 368 个星标!
+感谢 [NorthernNightGhost](https://github.com/NorthernNightGhost) 帮我做了第 369 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
+| [NorthernNightGhost](https://github.com/NorthernNightGhost) | <img src="https://avatars.githubusercontent.com/u/87891840?s=64&v=4" alt="drawing" width="64"/> | 2023-11-11T16:37:30Z |
 | [hsuskjyd](https://github.com/hsuskjyd) | <img src="https://avatars.githubusercontent.com/u/144470243?s=64&v=4" alt="drawing" width="64"/> | 2023-11-11T13:41:14Z |
 | [5677862](https://github.com/5677862) | <img src="https://avatars.githubusercontent.com/u/44516064?s=64&v=4" alt="drawing" width="64"/> | 2023-11-10T19:15:34Z |
 | [jingjing0419](https://github.com/jingjing0419) | <img src="https://avatars.githubusercontent.com/u/114206467?s=64&v=4" alt="drawing" width="64"/> | 2023-11-10T08:32:56Z |
@@ -378,7 +379,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## 贡献者
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_368_STARS&max=1000&columns=16" width="720"/> </a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_369_STARS&max=1000&columns=16" width="720"/> </a>
 ## 你想试试吗?
 
 . 请点击上面的 star 按钮!

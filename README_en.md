@@ -1,13 +1,14 @@
-# THIS REPO HAS 368 STARS ⭐️
+# THIS REPO HAS 369 STARS ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[hsuskjyd](https://github.com/hsuskjyd) helped me count the 368nd star, thank you!
+[NorthernNightGhost](https://github.com/NorthernNightGhost) helped me count the 369nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
+| [NorthernNightGhost](https://github.com/NorthernNightGhost) | <img src="https://avatars.githubusercontent.com/u/87891840?s=64&v=4" alt="drawing" width="64"/> | 2023-11-11T16:37:30Z |
 | [hsuskjyd](https://github.com/hsuskjyd) | <img src="https://avatars.githubusercontent.com/u/144470243?s=64&v=4" alt="drawing" width="64"/> | 2023-11-11T13:41:14Z |
 | [5677862](https://github.com/5677862) | <img src="https://avatars.githubusercontent.com/u/44516064?s=64&v=4" alt="drawing" width="64"/> | 2023-11-10T19:15:34Z |
 | [jingjing0419](https://github.com/jingjing0419) | <img src="https://avatars.githubusercontent.com/u/114206467?s=64&v=4" alt="drawing" width="64"/> | 2023-11-10T08:32:56Z |
@@ -378,7 +379,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## Contribs 
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_368_STARS&max=1000&columns=16" width="720"/></a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_369_STARS&max=1000&columns=16" width="720"/></a>
 ## Want to contribute?
 
 Clicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!
