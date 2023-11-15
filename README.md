@@ -1,18 +1,17 @@
-# 这个仓库有 369个 星标 ⭐️
+# 这个仓库有 367个 星标 ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [NorthernNightGhost](https://github.com/NorthernNightGhost) 帮我做了第 369 个星标!
+感谢 [KremeCN](https://github.com/KremeCN) 帮我做了第 367 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
-| [NorthernNightGhost](https://github.com/NorthernNightGhost) | <img src="https://avatars.githubusercontent.com/u/87891840?s=64&v=4" alt="drawing" width="64"/> | 2023-11-11T16:37:30Z |
+| [KremeCN](https://github.com/KremeCN) | <img src="https://avatars.githubusercontent.com/u/63275597?s=64&u=c44b739ff40e323317a43c623a28b1350820c71b&v=4" alt="drawing" width="64"/> | 2023-11-15T04:05:40Z |
 | [hsuskjyd](https://github.com/hsuskjyd) | <img src="https://avatars.githubusercontent.com/u/144470243?s=64&v=4" alt="drawing" width="64"/> | 2023-11-11T13:41:14Z |
 | [5677862](https://github.com/5677862) | <img src="https://avatars.githubusercontent.com/u/44516064?s=64&v=4" alt="drawing" width="64"/> | 2023-11-10T19:15:34Z |
 | [jingjing0419](https://github.com/jingjing0419) | <img src="https://avatars.githubusercontent.com/u/114206467?s=64&v=4" alt="drawing" width="64"/> | 2023-11-10T08:32:56Z |
-| [1744533022](https://github.com/1744533022) | <img src="https://avatars.githubusercontent.com/u/96106203?s=64&v=4" alt="drawing" width="64"/> | 2023-11-10T04:03:46Z |
 | [RamXue](https://github.com/RamXue) | <img src="https://avatars.githubusercontent.com/u/114679915?s=64&v=4" alt="drawing" width="64"/> | 2023-11-09T13:40:47Z |
 | [aLLLba](https://github.com/aLLLba) | <img src="https://avatars.githubusercontent.com/u/58905835?s=64&u=cfb0ceef7df9982031f87d1ad69299ae496181d3&v=4" alt="drawing" width="64"/> | 2023-11-09T10:47:51Z |
 | [yctTT123](https://github.com/yctTT123) | <img src="https://avatars.githubusercontent.com/u/147095277?s=64&v=4" alt="drawing" width="64"/> | 2023-11-09T06:54:32Z |
@@ -130,7 +129,6 @@
 | [wcfe666](https://github.com/wcfe666) | <img src="https://avatars.githubusercontent.com/u/61238734?s=64&v=4" alt="drawing" width="64"/> | 2023-08-25T01:47:06Z |
 | [natulopy](https://github.com/natulopy) | <img src="https://avatars.githubusercontent.com/u/96873207?s=64&v=4" alt="drawing" width="64"/> | 2023-08-24T16:13:17Z |
 | [baomou](https://github.com/baomou) | <img src="https://avatars.githubusercontent.com/u/122424041?s=64&v=4" alt="drawing" width="64"/> | 2023-08-24T14:25:09Z |
-| [GiGiBo1](https://github.com/GiGiBo1) | <img src="https://avatars.githubusercontent.com/u/113688036?s=64&u=9b66f9de9f11416d61847ab3728ea4e029a9b827&v=4" alt="drawing" width="64"/> | 2023-08-24T13:46:29Z |
 | [whoamizx](https://github.com/whoamizx) | <img src="https://avatars.githubusercontent.com/u/108825705?s=64&u=f0034462495af4942a85f2229819129345e91113&v=4" alt="drawing" width="64"/> | 2023-08-24T12:55:38Z |
 | [ssln5014](https://github.com/ssln5014) | <img src="https://avatars.githubusercontent.com/u/81206855?s=64&u=df7e1c5fa49770f8f695f4b27d5e7b5e1c5cc5cb&v=4" alt="drawing" width="64"/> | 2023-08-22T10:47:43Z |
 | [sfggehy](https://github.com/sfggehy) | <img src="https://avatars.githubusercontent.com/u/3021332?s=64&v=4" alt="drawing" width="64"/> | 2023-08-22T09:44:02Z |
@@ -268,7 +266,7 @@
 | [JF98](https://github.com/JF98) | <img src="https://avatars.githubusercontent.com/u/44130956?s=64&v=4" alt="drawing" width="64"/> | 2023-05-01T14:23:33Z |
 | [szhua](https://github.com/szhua) | <img src="https://avatars.githubusercontent.com/u/16861337?s=64&u=2f222ea794be19dd6d6a4c5bac63a62920b546e9&v=4" alt="drawing" width="64"/> | 2023-05-01T10:47:58Z |
 | [fange111](https://github.com/fange111) | <img src="https://avatars.githubusercontent.com/u/25118168?s=64&v=4" alt="drawing" width="64"/> | 2023-04-30T08:47:35Z |
-| [lorre0322](https://github.com/lorre0322) | <img src="https://avatars.githubusercontent.com/u/44430201?s=64&u=a0049b418d177110e07692daf6753ba373b108a2&v=4" alt="drawing" width="64"/> | 2023-04-30T02:58:33Z |
+| [lorre0322](https://github.com/lorre0322) | <img src="https://avatars.githubusercontent.com/u/44430201?s=64&u=079a3a28e77738093bd834ca0cc93f39924d35f2&v=4" alt="drawing" width="64"/> | 2023-04-30T02:58:33Z |
 | [zzh-6](https://github.com/zzh-6) | <img src="https://avatars.githubusercontent.com/u/131784409?s=64&v=4" alt="drawing" width="64"/> | 2023-04-28T15:06:11Z |
 | [xi1luo](https://github.com/xi1luo) | <img src="https://avatars.githubusercontent.com/u/132027063?s=64&v=4" alt="drawing" width="64"/> | 2023-04-28T03:28:18Z |
 | [Lawrence-sama](https://github.com/Lawrence-sama) | <img src="https://avatars.githubusercontent.com/u/62603421?s=64&u=850221a9bd55e2fe338b68a6da2b38b941924e5c&v=4" alt="drawing" width="64"/> | 2023-04-27T14:33:17Z |
@@ -379,7 +377,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## 贡献者
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_369_STARS&max=1000&columns=16" width="720"/> </a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_367_STARS&max=1000&columns=16" width="720"/> </a>
 ## 你想试试吗?
 
 . 请点击上面的 star 按钮!
