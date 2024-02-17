@@ -1,13 +1,14 @@
-# THIS REPO HAS 363 STARS ⭐️
+# THIS REPO HAS 365 STARS ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[lightworld689](https://github.com/lightworld689) helped me count the 363nd star, thank you!
+[bugYellowF](https://github.com/bugYellowF) helped me count the 365nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
+| [bugYellowF](https://github.com/bugYellowF) | <img src="https://avatars.githubusercontent.com/u/71938016?s=64&u=4376437cf8299080603d6ee9069285965fa28a73&v=4" alt="drawing" width="64"/> | 2024-02-17T03:48:52Z |
 | [lightworld689](https://github.com/lightworld689) | <img src="https://avatars.githubusercontent.com/u/107845122?s=64&v=4" alt="drawing" width="64"/> | 2024-02-13T04:36:44Z |
 | [flag2fish](https://github.com/flag2fish) | <img src="https://avatars.githubusercontent.com/u/158537768?s=64&v=4" alt="drawing" width="64"/> | 2024-02-02T03:03:58Z |
 | [helloyork](https://github.com/helloyork) | <img src="https://avatars.githubusercontent.com/u/111544765?s=64&u=5a292dd77471e7aea0874b2c3db72b466638e0fc&v=4" alt="drawing" width="64"/> | 2024-01-18T16:45:29Z |
@@ -77,6 +78,7 @@
 | [xianlele](https://github.com/xianlele) | <img src="https://avatars.githubusercontent.com/u/33710409?s=64&v=4" alt="drawing" width="64"/> | 2023-10-03T01:46:37Z |
 | [Erazx](https://github.com/Erazx) | <img src="https://avatars.githubusercontent.com/u/18753065?s=64&v=4" alt="drawing" width="64"/> | 2023-10-02T04:57:21Z |
 | [scharfes](https://github.com/scharfes) | <img src="https://avatars.githubusercontent.com/u/136790550?s=64&v=4" alt="drawing" width="64"/> | 2023-10-01T09:40:43Z |
+| [QwertyL0L](https://github.com/QwertyL0L) | <img src="https://avatars.githubusercontent.com/u/109008649?s=64&u=e0b2a83c4efd5eb29dc00c89d68515a6e12f8c21&v=4" alt="drawing" width="64"/> | 2023-10-01T07:08:44Z |
 | [dongtaolqq](https://github.com/dongtaolqq) | <img src="https://avatars.githubusercontent.com/u/7866936?s=64&v=4" alt="drawing" width="64"/> | 2023-10-01T05:24:42Z |
 | [1250028322](https://github.com/1250028322) | <img src="https://avatars.githubusercontent.com/u/88877271?s=64&v=4" alt="drawing" width="64"/> | 2023-10-01T02:39:23Z |
 | [Bonaly](https://github.com/Bonaly) | <img src="https://avatars.githubusercontent.com/u/97039059?s=64&v=4" alt="drawing" width="64"/> | 2023-09-30T04:31:20Z |
@@ -163,7 +165,7 @@
 | [sshirokarasu](https://github.com/sshirokarasu) | <img src="https://avatars.githubusercontent.com/u/110089155?s=64&u=3766f7a9fc61b1f39f8a4812e28e4025aede3ed4&v=4" alt="drawing" width="64"/> | 2023-08-09T09:29:07Z |
 | [ww36user](https://github.com/ww36user) | <img src="https://avatars.githubusercontent.com/u/59785608?s=64&u=42fe3b0e49ae91c06086db5403fb161bdfb188f4&v=4" alt="drawing" width="64"/> | 2023-08-07T08:56:36Z |
 | [hsuchiaping](https://github.com/hsuchiaping) | <img src="https://avatars.githubusercontent.com/u/57651445?s=64&u=2a123764f3af9a1a6b29e2a760076469af2df5eb&v=4" alt="drawing" width="64"/> | 2023-08-06T13:49:15Z |
-| [Yu-Zi-Yi](https://github.com/Yu-Zi-Yi) | <img src="https://avatars.githubusercontent.com/u/75923878?s=64&u=cacbaf358a964ee296ec0bd64ffb8f149436d6f8&v=4" alt="drawing" width="64"/> | 2023-08-04T14:18:12Z |
+| [Eazed-Yu](https://github.com/Eazed-Yu) | <img src="https://avatars.githubusercontent.com/u/75923878?s=64&u=cacbaf358a964ee296ec0bd64ffb8f149436d6f8&v=4" alt="drawing" width="64"/> | 2023-08-04T14:18:12Z |
 | [StarsRivers](https://github.com/StarsRivers) | <img src="https://avatars.githubusercontent.com/u/40968037?s=64&u=13c9912c750ffd634306a160d8bb029cb72a12a2&v=4" alt="drawing" width="64"/> | 2023-08-03T13:59:42Z |
 | [wnhhh](https://github.com/wnhhh) | <img src="https://avatars.githubusercontent.com/u/39821985?s=64&v=4" alt="drawing" width="64"/> | 2023-08-03T08:31:29Z |
 | [zhuyuanzhuo](https://github.com/zhuyuanzhuo) | <img src="https://avatars.githubusercontent.com/u/139091482?s=64&u=a25a014ac5b90ac4d2328a79afa2e13c533a420a&v=4" alt="drawing" width="64"/> | 2023-08-03T06:48:22Z |
@@ -215,7 +217,7 @@
 | [XIZIOY](https://github.com/XIZIOY) | <img src="https://avatars.githubusercontent.com/u/119640028?s=64&v=4" alt="drawing" width="64"/> | 2023-06-25T04:55:21Z |
 | [GG0923](https://github.com/GG0923) | <img src="https://avatars.githubusercontent.com/u/137623553?s=64&v=4" alt="drawing" width="64"/> | 2023-06-24T13:50:06Z |
 | [2123ABC](https://github.com/2123ABC) | <img src="https://avatars.githubusercontent.com/u/60285153?s=64&u=9d2979f4fcd219c6b505593b801af5f64420deed&v=4" alt="drawing" width="64"/> | 2023-06-24T04:57:11Z |
-| [Rushab11](https://github.com/Rushab11) | <img src="https://avatars.githubusercontent.com/u/28500753?s=64&u=9cebdcad002ec21e99135d6e78e6b0917ca77d69&v=4" alt="drawing" width="64"/> | 2023-06-23T14:29:41Z |
+| [Rushab11](https://github.com/Rushab11) | <img src="https://avatars.githubusercontent.com/u/28500753?s=64&v=4" alt="drawing" width="64"/> | 2023-06-23T14:29:41Z |
 | [llsanketll](https://github.com/llsanketll) | <img src="https://avatars.githubusercontent.com/u/55257633?s=64&u=9b69954e62399058c779a4bed774f99a29bea5c9&v=4" alt="drawing" width="64"/> | 2023-06-23T11:34:16Z |
 | [GeekerL](https://github.com/GeekerL) | <img src="https://avatars.githubusercontent.com/u/94663027?s=64&v=4" alt="drawing" width="64"/> | 2023-06-21T14:35:24Z |
 | [tahmid-23](https://github.com/tahmid-23) | <img src="https://avatars.githubusercontent.com/u/60953955?s=64&v=4" alt="drawing" width="64"/> | 2023-06-20T22:44:20Z |
@@ -373,7 +375,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## Contribs 
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_363_STARS&max=1000&columns=16" width="720"/></a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_365_STARS&max=1000&columns=16" width="720"/></a>
 ## Want to contribute?
 
 Clicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!
