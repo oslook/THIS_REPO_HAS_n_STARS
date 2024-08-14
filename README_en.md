@@ -2,12 +2,13 @@
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[tumytime](https://github.com/tumytime) helped me count the 359nd star, thank you!
+[BEZTNEON](https://github.com/BEZTNEON) helped me count the 359nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
+| [BEZTNEON](https://github.com/BEZTNEON) | <img src="https://avatars.githubusercontent.com/u/79310255?s=64&u=2674b0c4aadf4eb39f027d5bc9f99f57de2bde8e&v=4" alt="drawing" width="64"/> | 2024-08-14T12:24:38Z |
 | [tumytime](https://github.com/tumytime) | <img src="https://avatars.githubusercontent.com/u/158160507?s=64&u=44fc46ebe0a189ae92c37d1858bf02141895b0ae&v=4" alt="drawing" width="64"/> | 2024-08-09T13:28:58Z |
 | [cxzlw](https://github.com/cxzlw) | <img src="https://avatars.githubusercontent.com/u/55052188?s=64&u=c41845365c89f327600a7430f2ee19ec1b4a696b&v=4" alt="drawing" width="64"/> | 2024-03-12T03:32:14Z |
 | [lightworld689](https://github.com/lightworld689) | <img src="https://avatars.githubusercontent.com/u/107845122?s=64&v=4" alt="drawing" width="64"/> | 2024-02-13T04:36:44Z |
@@ -204,7 +205,6 @@
 | [Taylorcucumber](https://github.com/Taylorcucumber) | <img src="https://avatars.githubusercontent.com/u/138612662?s=64&v=4" alt="drawing" width="64"/> | 2023-07-04T17:04:03Z |
 | [interqhq](https://github.com/interqhq) | <img src="https://avatars.githubusercontent.com/u/3973926?s=64&v=4" alt="drawing" width="64"/> | 2023-07-04T09:07:04Z |
 | [Ricardo-M-Lu1](https://github.com/Ricardo-M-Lu1) | <img src="https://avatars.githubusercontent.com/u/95427309?s=64&v=4" alt="drawing" width="64"/> | 2023-07-03T16:35:48Z |
-| [BEZTNEON](https://github.com/BEZTNEON) | <img src="https://avatars.githubusercontent.com/u/79310255?s=64&u=2674b0c4aadf4eb39f027d5bc9f99f57de2bde8e&v=4" alt="drawing" width="64"/> | 2023-07-01T07:03:10Z |
 | [ZCCSE](https://github.com/ZCCSE) | <img src="https://avatars.githubusercontent.com/u/45424071?s=64&v=4" alt="drawing" width="64"/> | 2023-07-01T02:47:41Z |
 | [jyzhangbo](https://github.com/jyzhangbo) | <img src="https://avatars.githubusercontent.com/u/19546272?s=64&u=643d4c72d4ac86a55064ae094789c66fe62215a9&v=4" alt="drawing" width="64"/> | 2023-06-30T09:46:28Z |
 | [zhenglutong123](https://github.com/zhenglutong123) | <img src="https://avatars.githubusercontent.com/u/41580241?s=64&v=4" alt="drawing" width="64"/> | 2023-06-29T10:42:02Z |
