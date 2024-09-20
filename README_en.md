@@ -1,14 +1,14 @@
-# THIS REPO HAS 359 STARS ⭐️
+# THIS REPO HAS 358 STARS ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[eduardoc126](https://github.com/eduardoc126) helped me count the 359nd star, thank you!
+[emptybottIe](https://github.com/emptybottIe) helped me count the 358nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
-| [eduardoc126](https://github.com/eduardoc126) | <img src="https://avatars.githubusercontent.com/u/132624926?s=64&u=33b3ada49242a0bc3e49d524009b9b5b28078065&v=4" alt="drawing" width="64"/> | 2024-09-19T15:05:29Z |
+| [emptybottIe](https://github.com/emptybottIe) | <img src="https://avatars.githubusercontent.com/u/67040836?s=64&v=4" alt="drawing" width="64"/> | 2024-09-20T09:26:52Z |
 | [BEZTNEON](https://github.com/BEZTNEON) | <img src="https://avatars.githubusercontent.com/u/79310255?s=64&u=2674b0c4aadf4eb39f027d5bc9f99f57de2bde8e&v=4" alt="drawing" width="64"/> | 2024-08-14T12:24:38Z |
 | [tumytime](https://github.com/tumytime) | <img src="https://avatars.githubusercontent.com/u/158160507?s=64&u=44fc46ebe0a189ae92c37d1858bf02141895b0ae&v=4" alt="drawing" width="64"/> | 2024-08-09T13:28:58Z |
 | [cxzlw](https://github.com/cxzlw) | <img src="https://avatars.githubusercontent.com/u/55052188?s=64&u=c41845365c89f327600a7430f2ee19ec1b4a696b&v=4" alt="drawing" width="64"/> | 2024-03-12T03:32:14Z |
@@ -336,7 +336,6 @@
 | [LITTLESITE](https://github.com/LITTLESITE) | <img src="https://avatars.githubusercontent.com/u/108331059?s=64&v=4" alt="drawing" width="64"/> | 2022-08-24T05:31:24Z |
 | [jellywang6](https://github.com/jellywang6) | <img src="https://avatars.githubusercontent.com/u/43003479?s=64&v=4" alt="drawing" width="64"/> | 2022-08-22T15:33:30Z |
 | [LatticeLadder](https://github.com/LatticeLadder) | <img src="https://avatars.githubusercontent.com/u/41455159?s=64&u=14125b3feaa1e8059578bfbaf94d207e9ef860f5&v=4" alt="drawing" width="64"/> | 2022-08-22T03:38:38Z |
-| [emptybottIe](https://github.com/emptybottIe) | <img src="https://avatars.githubusercontent.com/u/67040836?s=64&v=4" alt="drawing" width="64"/> | 2022-08-21T07:35:32Z |
 | [meiruitesi](https://github.com/meiruitesi) | <img src="https://avatars.githubusercontent.com/u/84609642?s=64&u=1e88bee59dee0371cace6ebeded76b3d093ab5bf&v=4" alt="drawing" width="64"/> | 2022-08-21T01:45:20Z |
 | [cyy168](https://github.com/cyy168) | <img src="https://avatars.githubusercontent.com/u/80612561?s=64&v=4" alt="drawing" width="64"/> | 2022-08-20T14:52:29Z |
 | [cloudhzc](https://github.com/cloudhzc) | <img src="https://avatars.githubusercontent.com/u/71585442?s=64&u=3db7eed020e6eeb6595b920a4d08a30357360e5a&v=4" alt="drawing" width="64"/> | 2022-08-20T07:43:27Z |
@@ -369,7 +368,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## Contribs 
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_359_STARS&max=1000&columns=16" width="720"/></a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_358_STARS&max=1000&columns=16" width="720"/></a>
 ## Want to contribute?
 
 Clicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!
