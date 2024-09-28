@@ -1,13 +1,14 @@
-# 这个仓库有 358个 星标 ⭐️
+# 这个仓库有 359个 星标 ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [emptybottIe](https://github.com/emptybottIe) 帮我做了第 358 个星标!
+感谢 [missAnneThorpe](https://github.com/missAnneThorpe) 帮我做了第 359 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
+| [missAnneThorpe](https://github.com/missAnneThorpe) | <img src="https://avatars.githubusercontent.com/u/98163141?s=64&v=4" alt="drawing" width="64"/> | 2024-09-28T22:45:25Z |
 | [emptybottIe](https://github.com/emptybottIe) | <img src="https://avatars.githubusercontent.com/u/67040836?s=64&v=4" alt="drawing" width="64"/> | 2024-09-20T09:26:52Z |
 | [BEZTNEON](https://github.com/BEZTNEON) | <img src="https://avatars.githubusercontent.com/u/79310255?s=64&u=2674b0c4aadf4eb39f027d5bc9f99f57de2bde8e&v=4" alt="drawing" width="64"/> | 2024-08-14T12:24:38Z |
 | [tumytime](https://github.com/tumytime) | <img src="https://avatars.githubusercontent.com/u/158160507?s=64&u=44fc46ebe0a189ae92c37d1858bf02141895b0ae&v=4" alt="drawing" width="64"/> | 2024-08-09T13:28:58Z |
@@ -34,7 +35,7 @@
 | [Cometzyc](https://github.com/Cometzyc) | <img src="https://avatars.githubusercontent.com/u/113234824?s=64&u=9602af85fcb3fc73f6e8272a681c9ff83d5f9a6f&v=4" alt="drawing" width="64"/> | 2023-11-04T04:16:10Z |
 | [QAbot-zh](https://github.com/QAbot-zh) | <img src="https://avatars.githubusercontent.com/u/40236765?s=64&u=c967ee7355b2bb8a62c4cd291239c6506d34f5ad&v=4" alt="drawing" width="64"/> | 2023-11-03T12:58:45Z |
 | [Bduoluoluo](https://github.com/Bduoluoluo) | <img src="https://avatars.githubusercontent.com/u/31810717?s=64&v=4" alt="drawing" width="64"/> | 2023-11-03T06:22:13Z |
-| [flottant](https://github.com/flottant) | <img src="https://avatars.githubusercontent.com/u/53401195?s=64&u=6ae40d8e0c20ebc86f36c6631199faad03c33a9e&v=4" alt="drawing" width="64"/> | 2023-11-03T04:35:39Z |
+| [flottant](https://github.com/flottant) | <img src="https://avatars.githubusercontent.com/u/53401195?s=64&u=f4efd2fb4ace4df85d0a7d5eb84c09d41d787390&v=4" alt="drawing" width="64"/> | 2023-11-03T04:35:39Z |
 | [FJ-ME](https://github.com/FJ-ME) | <img src="https://avatars.githubusercontent.com/u/4696125?s=64&u=e5038a2a4e03ddce73ee69fdc7ab16fca1d9ef67&v=4" alt="drawing" width="64"/> | 2023-11-03T03:36:12Z |
 | [srachar](https://github.com/srachar) | <img src="https://avatars.githubusercontent.com/u/144320830?s=64&v=4" alt="drawing" width="64"/> | 2023-11-02T17:09:51Z |
 | [warmlight05](https://github.com/warmlight05) | <img src="https://avatars.githubusercontent.com/u/66932655?s=64&v=4" alt="drawing" width="64"/> | 2023-11-02T12:50:47Z |
@@ -368,7 +369,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## 贡献者
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_358_STARS&max=1000&columns=16" width="720"/> </a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_359_STARS&max=1000&columns=16" width="720"/> </a>
 ## 你想试试吗?
 
 . 请点击上面的 star 按钮!
