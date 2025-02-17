@@ -1,13 +1,14 @@
-# THIS REPO HAS 359 STARS ⭐️
+# THIS REPO HAS 360 STARS ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[ethotc](https://github.com/ethotc) helped me count the 359nd star, thank you!
+[Bridgetamana](https://github.com/Bridgetamana) helped me count the 360nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
+| [Bridgetamana](https://github.com/Bridgetamana) | <img src="https://avatars.githubusercontent.com/u/156615932?s=64&u=e21680060628ef8cfb2de704aa028119f647eb54&v=4" alt="drawing" width="64"/> | 2025-02-17T22:17:10Z |
 | [ethotc](https://github.com/ethotc) | <img src="https://avatars.githubusercontent.com/u/188041175?s=64&v=4" alt="drawing" width="64"/> | 2024-11-11T09:34:37Z |
 | [missAnneThorpe](https://github.com/missAnneThorpe) | <img src="https://avatars.githubusercontent.com/u/98163141?s=64&v=4" alt="drawing" width="64"/> | 2024-09-28T22:45:25Z |
 | [emptybottIe](https://github.com/emptybottIe) | <img src="https://avatars.githubusercontent.com/u/67040836?s=64&v=4" alt="drawing" width="64"/> | 2024-09-20T09:26:52Z |
@@ -369,7 +370,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## Contribs 
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_359_STARS&max=1000&columns=16" width="720"/></a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_360_STARS&max=1000&columns=16" width="720"/></a>
 ## Want to contribute?
 
 Clicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!
