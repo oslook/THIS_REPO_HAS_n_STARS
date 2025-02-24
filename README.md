@@ -2,12 +2,13 @@
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [Bridgetamana](https://github.com/Bridgetamana) 帮我做了第 360 个星标!
+感谢 [nickth3man](https://github.com/nickth3man) 帮我做了第 360 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
+| [nickth3man](https://github.com/nickth3man) | <img src="https://avatars.githubusercontent.com/u/179685354?s=64&v=4" alt="drawing" width="64"/> | 2025-02-24T20:55:34Z |
 | [Bridgetamana](https://github.com/Bridgetamana) | <img src="https://avatars.githubusercontent.com/u/156615932?s=64&u=e21680060628ef8cfb2de704aa028119f647eb54&v=4" alt="drawing" width="64"/> | 2025-02-17T22:17:10Z |
 | [ethotc](https://github.com/ethotc) | <img src="https://avatars.githubusercontent.com/u/188041175?s=64&v=4" alt="drawing" width="64"/> | 2024-11-11T09:34:37Z |
 | [missAnneThorpe](https://github.com/missAnneThorpe) | <img src="https://avatars.githubusercontent.com/u/98163141?s=64&v=4" alt="drawing" width="64"/> | 2024-09-28T22:45:25Z |
@@ -97,7 +98,6 @@
 | [62377873](https://github.com/62377873) | <img src="https://avatars.githubusercontent.com/u/56135472?s=64&v=4" alt="drawing" width="64"/> | 2023-09-22T08:02:23Z |
 | [zhaojinhan11](https://github.com/zhaojinhan11) | <img src="https://avatars.githubusercontent.com/u/121793538?s=64&v=4" alt="drawing" width="64"/> | 2023-09-21T13:03:24Z |
 | [admin2012-1](https://github.com/admin2012-1) | <img src="https://avatars.githubusercontent.com/u/104708856?s=64&v=4" alt="drawing" width="64"/> | 2023-09-21T10:07:46Z |
-| [capricornxl](https://github.com/capricornxl) | <img src="https://avatars.githubusercontent.com/u/40738379?s=64&u=8a358122d7ed87f7489b24d57c551da9d9b83a36&v=4" alt="drawing" width="64"/> | 2023-09-21T08:58:52Z |
 | [mentujia](https://github.com/mentujia) | <img src="https://avatars.githubusercontent.com/u/93965739?s=64&v=4" alt="drawing" width="64"/> | 2023-09-20T01:43:51Z |
 | [uZIDADADA](https://github.com/uZIDADADA) | <img src="https://avatars.githubusercontent.com/u/55170973?s=64&u=5b2fc9e62f4aae78d9600c8e764dea93ae919e71&v=4" alt="drawing" width="64"/> | 2023-09-19T09:49:59Z |
 | [zhxcxr](https://github.com/zhxcxr) | <img src="https://avatars.githubusercontent.com/u/132657524?s=64&v=4" alt="drawing" width="64"/> | 2023-09-19T04:20:32Z |
@@ -364,7 +364,7 @@
 | [zrhsgyx](https://github.com/zrhsgyx) | <img src="https://avatars.githubusercontent.com/u/104632178?s=64&v=4" alt="drawing" width="64"/> | 2022-07-29T02:55:00Z |
 | [oslook](https://github.com/oslook) | <img src="https://avatars.githubusercontent.com/u/6346865?s=64&u=0544b6b5b5f73562ce569b118893c52e00957ee4&v=4" alt="drawing" width="64"/> | 2022-07-24T14:53:52Z |
 | [weeklyd3](https://github.com/weeklyd3) | <img src="https://avatars.githubusercontent.com/u/79176077?s=64&v=4" alt="drawing" width="64"/> | 2022-05-05T03:52:24Z |
-| [reaitten](https://github.com/reaitten) | <img src="https://avatars.githubusercontent.com/u/52531973?s=64&u=445d54c7be2043f1fa0b621d416f81375e1ae07d&v=4" alt="drawing" width="64"/> | 2022-02-20T19:50:28Z |
+| [yuinachan](https://github.com/yuinachan) | <img src="https://avatars.githubusercontent.com/u/52531973?s=64&u=f626d8d7bee9ef334e5409c609fb935e3b651281&v=4" alt="drawing" width="64"/> | 2022-02-20T19:50:28Z |
 | [pen960223](https://github.com/pen960223) | <img src="https://avatars.githubusercontent.com/u/22234922?s=64&v=4" alt="drawing" width="64"/> | 2022-01-27T13:39:04Z |
 | [whoway](https://github.com/whoway) | <img src="https://avatars.githubusercontent.com/u/48819015?s=64&u=cb511bebe4c7334d607bb3a33597fccfbd445ce7&v=4" alt="drawing" width="64"/> | 2021-12-27T10:08:26Z |
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
