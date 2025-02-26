@@ -2,13 +2,13 @@
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[nickth3man](https://github.com/nickth3man) helped me count the 360nd star, thank you!
+[femboypig](https://github.com/femboypig) helped me count the 360nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
-| [nickth3man](https://github.com/nickth3man) | <img src="https://avatars.githubusercontent.com/u/179685354?s=64&v=4" alt="drawing" width="64"/> | 2025-02-24T20:55:34Z |
+| [femboypig](https://github.com/femboypig) | <img src="https://avatars.githubusercontent.com/u/185033821?s=64&u=a32ab5eab44b24beab36115bcbb449f2a53d6ac8&v=4" alt="drawing" width="64"/> | 2025-02-26T14:00:43Z |
 | [Bridgetamana](https://github.com/Bridgetamana) | <img src="https://avatars.githubusercontent.com/u/156615932?s=64&u=e21680060628ef8cfb2de704aa028119f647eb54&v=4" alt="drawing" width="64"/> | 2025-02-17T22:17:10Z |
 | [ethotc](https://github.com/ethotc) | <img src="https://avatars.githubusercontent.com/u/188041175?s=64&v=4" alt="drawing" width="64"/> | 2024-11-11T09:34:37Z |
 | [missAnneThorpe](https://github.com/missAnneThorpe) | <img src="https://avatars.githubusercontent.com/u/98163141?s=64&v=4" alt="drawing" width="64"/> | 2024-09-28T22:45:25Z |
