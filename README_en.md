@@ -1,13 +1,14 @@
-# THIS REPO HAS 363 STARS ⭐️
+# THIS REPO HAS 364 STARS ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[hermesthecat](https://github.com/hermesthecat) helped me count the 363nd star, thank you!
+[InkyQuill](https://github.com/InkyQuill) helped me count the 364nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
+| [InkyQuill](https://github.com/InkyQuill) | <img src="https://avatars.githubusercontent.com/u/16044715?s=64&u=71284a502543328823aa97ad93875b02fe299d9b&v=4" alt="drawing" width="64"/> | 2025-02-27T10:49:59Z |
 | [hermesthecat](https://github.com/hermesthecat) | <img src="https://avatars.githubusercontent.com/u/4947845?s=64&u=34eddd2ae09dacbe606132ca3a94bac1c23c1f1d&v=4" alt="drawing" width="64"/> | 2025-02-27T06:41:35Z |
 | [startup-dreamer](https://github.com/startup-dreamer) | <img src="https://avatars.githubusercontent.com/u/106421807?s=64&u=d3d7755dc48baee1b4a388059883814b9b25c8e0&v=4" alt="drawing" width="64"/> | 2025-02-26T15:58:25Z |
 | [SimonBaars](https://github.com/SimonBaars) | <img src="https://avatars.githubusercontent.com/u/8466614?s=64&u=dd947e1024b92070208c502c35605f2cfedad815&v=4" alt="drawing" width="64"/> | 2025-02-26T15:54:36Z |
@@ -373,7 +374,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## Contribs 
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_363_STARS&max=1000&columns=16" width="720"/></a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_364_STARS&max=1000&columns=16" width="720"/></a>
 ## Want to contribute?
 
 Clicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!
