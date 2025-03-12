@@ -2,12 +2,13 @@
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [s44002](https://github.com/s44002) 帮我做了第 366 个星标!
+感谢 [MauritsRuiterC](https://github.com/MauritsRuiterC) 帮我做了第 366 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
+| [MauritsRuiterC](https://github.com/MauritsRuiterC) | <img src="https://avatars.githubusercontent.com/u/185807258?s=64&u=8e600345b3df75be89b9ee6a3f0612c8a0db8b26&v=4" alt="drawing" width="64"/> | 2025-03-12T08:34:34Z |
 | [s44002](https://github.com/s44002) | <img src="https://avatars.githubusercontent.com/u/106645871?s=64&v=4" alt="drawing" width="64"/> | 2025-03-03T11:16:35Z |
 | [hussainaali](https://github.com/hussainaali) | <img src="https://avatars.githubusercontent.com/u/72890960?s=64&v=4" alt="drawing" width="64"/> | 2025-02-28T23:21:38Z |
 | [InkyQuill](https://github.com/InkyQuill) | <img src="https://avatars.githubusercontent.com/u/16044715?s=64&u=71284a502543328823aa97ad93875b02fe299d9b&v=4" alt="drawing" width="64"/> | 2025-02-27T10:49:59Z |
@@ -273,7 +274,7 @@
 | [zzh-6](https://github.com/zzh-6) | <img src="https://avatars.githubusercontent.com/u/131784409?s=64&v=4" alt="drawing" width="64"/> | 2023-04-28T15:06:11Z |
 | [xi1luo](https://github.com/xi1luo) | <img src="https://avatars.githubusercontent.com/u/132027063?s=64&v=4" alt="drawing" width="64"/> | 2023-04-28T03:28:18Z |
 | [Lawrence-sama](https://github.com/Lawrence-sama) | <img src="https://avatars.githubusercontent.com/u/62603421?s=64&u=850221a9bd55e2fe338b68a6da2b38b941924e5c&v=4" alt="drawing" width="64"/> | 2023-04-27T14:33:17Z |
-| [sharkchow](https://github.com/sharkchow) | <img src="https://avatars.githubusercontent.com/u/33885694?s=64&u=2ac9495a13a6303b45b06a327543d0e24d3509ed&v=4" alt="drawing" width="64"/> | 2023-04-27T02:04:02Z |
+| [sharkchow](https://github.com/sharkchow) | <img src="https://avatars.githubusercontent.com/u/33885694?s=64&u=e24bd9baff271b79b4d6b7371d57af8ebc071cd9&v=4" alt="drawing" width="64"/> | 2023-04-27T02:04:02Z |
 | [cancanlide](https://github.com/cancanlide) | <img src="https://avatars.githubusercontent.com/u/107478306?s=64&v=4" alt="drawing" width="64"/> | 2023-04-26T13:54:35Z |
 | [beiyu23](https://github.com/beiyu23) | <img src="https://avatars.githubusercontent.com/u/115560664?s=64&u=567927d1749e9bd51260a269e993df758836b5b0&v=4" alt="drawing" width="64"/> | 2023-04-24T16:06:16Z |
 | [wj-max](https://github.com/wj-max) | <img src="https://avatars.githubusercontent.com/u/68881140?s=64&v=4" alt="drawing" width="64"/> | 2023-04-24T11:06:32Z |
@@ -312,7 +313,6 @@
 | [SunsetMkt](https://github.com/SunsetMkt) | <img src="https://avatars.githubusercontent.com/u/26019675?s=64&u=d33524560b847239527ef69152688f02a504767a&v=4" alt="drawing" width="64"/> | 2022-11-11T02:56:43Z |
 | [Misaki9](https://github.com/Misaki9) | <img src="https://avatars.githubusercontent.com/u/70900086?s=64&v=4" alt="drawing" width="64"/> | 2022-11-06T14:14:01Z |
 | [worry1613](https://github.com/worry1613) | <img src="https://avatars.githubusercontent.com/u/5291834?s=64&v=4" alt="drawing" width="64"/> | 2022-10-25T13:06:15Z |
-| [K1p2y3](https://github.com/K1p2y3) | <img src="https://avatars.githubusercontent.com/u/40665473?s=64&u=fbf177525aa2266d63750918eed98d4fc531b333&v=4" alt="drawing" width="64"/> | 2022-10-11T01:44:27Z |
 | [Hongkongasd](https://github.com/Hongkongasd) | <img src="https://avatars.githubusercontent.com/u/102212386?s=64&v=4" alt="drawing" width="64"/> | 2022-10-06T07:01:59Z |
 | [budayangdedian](https://github.com/budayangdedian) | <img src="https://avatars.githubusercontent.com/u/30051292?s=64&v=4" alt="drawing" width="64"/> | 2022-09-26T15:14:20Z |
 | [huLter](https://github.com/huLter) | <img src="https://avatars.githubusercontent.com/u/12413215?s=64&v=4" alt="drawing" width="64"/> | 2022-09-26T09:01:00Z |
