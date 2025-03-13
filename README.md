@@ -1,13 +1,14 @@
-# 这个仓库有 368个 星标 ⭐️
+# 这个仓库有 369个 星标 ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [MauritsRuiterGLU](https://github.com/MauritsRuiterGLU) 帮我做了第 368 个星标!
+感谢 [renjinxi](https://github.com/renjinxi) 帮我做了第 369 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
+| [renjinxi](https://github.com/renjinxi) | <img src="https://avatars.githubusercontent.com/u/48796935?s=64&u=e38f5ffac299cf4e7c94f5d5bc68bf682b6006ff&v=4" alt="drawing" width="64"/> | 2025-03-13T03:55:17Z |
 | [MauritsRuiterGLU](https://github.com/MauritsRuiterGLU) | <img src="https://avatars.githubusercontent.com/u/113419797?s=64&u=738c41dd4d2548773df7884619a1bc1465ae556f&v=4" alt="drawing" width="64"/> | 2025-03-12T08:38:41Z |
 | [MauritsRuiter](https://github.com/MauritsRuiter) | <img src="https://avatars.githubusercontent.com/u/200927557?s=64&u=92fed0969076c1fe82a301f3c0acf20b96054ff9&v=4" alt="drawing" width="64"/> | 2025-03-12T08:38:25Z |
 | [MauritsRuiterC](https://github.com/MauritsRuiterC) | <img src="https://avatars.githubusercontent.com/u/185807258?s=64&u=8e600345b3df75be89b9ee6a3f0612c8a0db8b26&v=4" alt="drawing" width="64"/> | 2025-03-12T08:36:31Z |
@@ -378,7 +379,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## 贡献者
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_368_STARS&max=1000&columns=16" width="720"/> </a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_369_STARS&max=1000&columns=16" width="720"/> </a>
 ## 你想试试吗?
 
 . 请点击上面的 star 按钮!
