@@ -1,13 +1,14 @@
-# THIS REPO HAS 370 STARS ⭐️
+# THIS REPO HAS 371 STARS ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[exbit](https://github.com/exbit) helped me count the 370nd star, thank you!
+[maratbakirovinsight](https://github.com/maratbakirovinsight) helped me count the 371nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
+| [maratbakirovinsight](https://github.com/maratbakirovinsight) | <img src="https://avatars.githubusercontent.com/u/86707752?s=64&v=4" alt="drawing" width="64"/> | 2025-03-25T04:52:09Z |
 | [exbit](https://github.com/exbit) | <img src="https://avatars.githubusercontent.com/u/1260469?s=64&u=8ab63c8a5a8c0fc00651d0618b2a2cc3ecc8fbb7&v=4" alt="drawing" width="64"/> | 2025-03-24T16:55:47Z |
 | [renjinxi](https://github.com/renjinxi) | <img src="https://avatars.githubusercontent.com/u/48796935?s=64&u=e38f5ffac299cf4e7c94f5d5bc68bf682b6006ff&v=4" alt="drawing" width="64"/> | 2025-03-13T03:55:17Z |
 | [MauritsRuiterGLU](https://github.com/MauritsRuiterGLU) | <img src="https://avatars.githubusercontent.com/u/113419797?s=64&u=738c41dd4d2548773df7884619a1bc1465ae556f&v=4" alt="drawing" width="64"/> | 2025-03-12T08:38:41Z |
@@ -380,7 +381,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## Contribs 
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_370_STARS&max=1000&columns=16" width="720"/></a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_371_STARS&max=1000&columns=16" width="720"/></a>
 ## Want to contribute?
 
 Clicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!
