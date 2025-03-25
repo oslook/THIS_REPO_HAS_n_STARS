@@ -1,13 +1,14 @@
-# 这个仓库有 371个 星标 ⭐️
+# 这个仓库有 372个 星标 ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [maratbakirovinsight](https://github.com/maratbakirovinsight) 帮我做了第 371 个星标!
+感谢 [cjamcu](https://github.com/cjamcu) 帮我做了第 372 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
+| [cjamcu](https://github.com/cjamcu) | <img src="https://avatars.githubusercontent.com/u/42654354?s=64&u=447756c0978a76e2413fd559be9a94cc49462494&v=4" alt="drawing" width="64"/> | 2025-03-25T16:33:54Z |
 | [maratbakirovinsight](https://github.com/maratbakirovinsight) | <img src="https://avatars.githubusercontent.com/u/86707752?s=64&v=4" alt="drawing" width="64"/> | 2025-03-25T04:52:09Z |
 | [exbit](https://github.com/exbit) | <img src="https://avatars.githubusercontent.com/u/1260469?s=64&u=8ab63c8a5a8c0fc00651d0618b2a2cc3ecc8fbb7&v=4" alt="drawing" width="64"/> | 2025-03-24T16:55:47Z |
 | [renjinxi](https://github.com/renjinxi) | <img src="https://avatars.githubusercontent.com/u/48796935?s=64&u=e38f5ffac299cf4e7c94f5d5bc68bf682b6006ff&v=4" alt="drawing" width="64"/> | 2025-03-13T03:55:17Z |
@@ -381,7 +382,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## 贡献者
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_371_STARS&max=1000&columns=16" width="720"/> </a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_372_STARS&max=1000&columns=16" width="720"/> </a>
 ## 你想试试吗?
 
 . 请点击上面的 star 按钮!
