@@ -2,13 +2,13 @@
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[mightatnight](https://github.com/mightatnight) helped me count the 372nd star, thank you!
+[Faturrachman-dev](https://github.com/Faturrachman-dev) helped me count the 372nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
-| [mightatnight](https://github.com/mightatnight) | <img src="https://avatars.githubusercontent.com/u/161962819?s=64&u=7de9a025503fda4cb6f199780f58e18342170966&v=4" alt="drawing" width="64"/> | 2025-05-09T17:29:54Z |
+| [Faturrachman-dev](https://github.com/Faturrachman-dev) | <img src="https://avatars.githubusercontent.com/u/188361049?s=64&u=3ca1f56dca05a1da5dc32ab9e9cf75d579362515&v=4" alt="drawing" width="64"/> | 2025-05-13T16:46:02Z |
 | [cjamcu](https://github.com/cjamcu) | <img src="https://avatars.githubusercontent.com/u/42654354?s=64&u=447756c0978a76e2413fd559be9a94cc49462494&v=4" alt="drawing" width="64"/> | 2025-03-25T16:33:54Z |
 | [maratbakirovinsight](https://github.com/maratbakirovinsight) | <img src="https://avatars.githubusercontent.com/u/86707752?s=64&v=4" alt="drawing" width="64"/> | 2025-03-25T04:52:09Z |
 | [exbit](https://github.com/exbit) | <img src="https://avatars.githubusercontent.com/u/1260469?s=64&u=8ab63c8a5a8c0fc00651d0618b2a2cc3ecc8fbb7&v=4" alt="drawing" width="64"/> | 2025-03-24T16:55:47Z |
