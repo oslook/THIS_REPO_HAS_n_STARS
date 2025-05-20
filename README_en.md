@@ -1,13 +1,14 @@
-# THIS REPO HAS 373 STARS ⭐️
+# THIS REPO HAS 374 STARS ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[degencodebeast](https://github.com/degencodebeast) helped me count the 373nd star, thank you!
+[krawwwwy](https://github.com/krawwwwy) helped me count the 374nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
+| [krawwwwy](https://github.com/krawwwwy) | <img src="https://avatars.githubusercontent.com/u/116674575?s=64&u=bf2935148f05c37a41e6a452a5e667090e7570be&v=4" alt="drawing" width="64"/> | 2025-05-20T17:52:08Z |
 | [degencodebeast](https://github.com/degencodebeast) | <img src="https://avatars.githubusercontent.com/u/95281137?s=64&v=4" alt="drawing" width="64"/> | 2025-05-17T01:03:34Z |
 | [Faturrachman-dev](https://github.com/Faturrachman-dev) | <img src="https://avatars.githubusercontent.com/u/188361049?s=64&u=3ca1f56dca05a1da5dc32ab9e9cf75d579362515&v=4" alt="drawing" width="64"/> | 2025-05-13T16:46:02Z |
 | [cjamcu](https://github.com/cjamcu) | <img src="https://avatars.githubusercontent.com/u/42654354?s=64&u=447756c0978a76e2413fd559be9a94cc49462494&v=4" alt="drawing" width="64"/> | 2025-03-25T16:33:54Z |
@@ -383,7 +384,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## Contribs 
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_373_STARS&max=1000&columns=16" width="720"/></a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_374_STARS&max=1000&columns=16" width="720"/></a>
 ## Want to contribute?
 
 Clicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!
