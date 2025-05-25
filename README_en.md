@@ -2,13 +2,13 @@
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[krawwwwy](https://github.com/krawwwwy) helped me count the 374nd star, thank you!
+[MeetBhanushalire](https://github.com/MeetBhanushalire) helped me count the 374nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
-| [krawwwwy](https://github.com/krawwwwy) | <img src="https://avatars.githubusercontent.com/u/116674575?s=64&u=bf2935148f05c37a41e6a452a5e667090e7570be&v=4" alt="drawing" width="64"/> | 2025-05-20T17:52:08Z |
+| [MeetBhanushalire](https://github.com/MeetBhanushalire) | <img src="https://avatars.githubusercontent.com/u/212323290?s=64&v=4" alt="drawing" width="64"/> | 2025-05-25T14:39:21Z |
 | [degencodebeast](https://github.com/degencodebeast) | <img src="https://avatars.githubusercontent.com/u/95281137?s=64&v=4" alt="drawing" width="64"/> | 2025-05-17T01:03:34Z |
 | [Faturrachman-dev](https://github.com/Faturrachman-dev) | <img src="https://avatars.githubusercontent.com/u/188361049?s=64&u=3ca1f56dca05a1da5dc32ab9e9cf75d579362515&v=4" alt="drawing" width="64"/> | 2025-05-13T16:46:02Z |
 | [cjamcu](https://github.com/cjamcu) | <img src="https://avatars.githubusercontent.com/u/42654354?s=64&u=447756c0978a76e2413fd559be9a94cc49462494&v=4" alt="drawing" width="64"/> | 2025-03-25T16:33:54Z |
@@ -352,7 +352,7 @@
 | [zz5052376](https://github.com/zz5052376) | <img src="https://avatars.githubusercontent.com/u/37150927?s=64&v=4" alt="drawing" width="64"/> | 2022-08-24T15:07:53Z |
 | [LITTLESITE](https://github.com/LITTLESITE) | <img src="https://avatars.githubusercontent.com/u/108331059?s=64&v=4" alt="drawing" width="64"/> | 2022-08-24T05:31:24Z |
 | [jellywang6](https://github.com/jellywang6) | <img src="https://avatars.githubusercontent.com/u/43003479?s=64&v=4" alt="drawing" width="64"/> | 2022-08-22T15:33:30Z |
-| [SkymontVibe](https://github.com/SkymontVibe) | <img src="https://avatars.githubusercontent.com/u/41455159?s=64&u=14125b3feaa1e8059578bfbaf94d207e9ef860f5&v=4" alt="drawing" width="64"/> | 2022-08-22T03:38:38Z |
+| [SkymontVibe](https://github.com/SkymontVibe) | <img src="https://avatars.githubusercontent.com/u/41455159?s=64&u=c71b157ac7b32672435fdc76c19b84e9e78ca84b&v=4" alt="drawing" width="64"/> | 2022-08-22T03:38:38Z |
 | [meiruitesi](https://github.com/meiruitesi) | <img src="https://avatars.githubusercontent.com/u/84609642?s=64&u=1e88bee59dee0371cace6ebeded76b3d093ab5bf&v=4" alt="drawing" width="64"/> | 2022-08-21T01:45:20Z |
 | [cyy168](https://github.com/cyy168) | <img src="https://avatars.githubusercontent.com/u/80612561?s=64&v=4" alt="drawing" width="64"/> | 2022-08-20T14:52:29Z |
 | [cloudhzc](https://github.com/cloudhzc) | <img src="https://avatars.githubusercontent.com/u/71585442?s=64&u=3db7eed020e6eeb6595b920a4d08a30357360e5a&v=4" alt="drawing" width="64"/> | 2022-08-20T07:43:27Z |
