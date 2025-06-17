@@ -1,13 +1,14 @@
-# THIS REPO HAS 377 STARS ⭐️
+# THIS REPO HAS 378 STARS ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-[votsie](https://github.com/votsie) helped me count the 377nd star, thank you!
+[georgedeath](https://github.com/georgedeath) helped me count the 378nd star, thank you!
 
 ## Stars
 
 | Stars | Avatar | starredAt |
 | -----: |-----: | -----: |
+| [georgedeath](https://github.com/georgedeath) | <img src="https://avatars.githubusercontent.com/u/5173737?s=64&u=f3162f39d183f7e49166eaf40176dd6dbe5a986b&v=4" alt="drawing" width="64"/> | 2025-06-17T16:02:15Z |
 | [votsie](https://github.com/votsie) | <img src="https://avatars.githubusercontent.com/u/131788269?s=64&u=9742b9fcdb7a7fe1b1c6f7e3a31ad81158dedc86&v=4" alt="drawing" width="64"/> | 2025-06-17T11:23:49Z |
 | [kanniganfan](https://github.com/kanniganfan) | <img src="https://avatars.githubusercontent.com/u/187458407?s=64&v=4" alt="drawing" width="64"/> | 2025-06-16T16:19:10Z |
 | [rarebek](https://github.com/rarebek) | <img src="https://avatars.githubusercontent.com/u/129874807?s=64&u=5fc6674168fb6c95e4c5252960a06b1282737a9e&v=4" alt="drawing" width="64"/> | 2025-06-02T20:07:02Z |
@@ -387,7 +388,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## Contribs 
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_377_STARS&max=1000&columns=16" width="720"/></a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_378_STARS&max=1000&columns=16" width="720"/></a>
 ## Want to contribute?
 
 Clicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!
