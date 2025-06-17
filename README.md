@@ -1,13 +1,14 @@
-# 这个仓库有 376个 星标 ⭐️
+# 这个仓库有 377个 星标 ⭐️
 
 [【English】](./README_en.md) [【中文】](./README.md)
 
-感谢 [kanniganfan](https://github.com/kanniganfan) 帮我做了第 376 个星标!
+感谢 [votsie](https://github.com/votsie) 帮我做了第 377 个星标!
 
 ## Stars
 
 | 用户 | 头像 | 星标时间 |
 | -----: |-----: | -----: |
+| [votsie](https://github.com/votsie) | <img src="https://avatars.githubusercontent.com/u/131788269?s=64&u=9742b9fcdb7a7fe1b1c6f7e3a31ad81158dedc86&v=4" alt="drawing" width="64"/> | 2025-06-17T11:23:49Z |
 | [kanniganfan](https://github.com/kanniganfan) | <img src="https://avatars.githubusercontent.com/u/187458407?s=64&v=4" alt="drawing" width="64"/> | 2025-06-16T16:19:10Z |
 | [rarebek](https://github.com/rarebek) | <img src="https://avatars.githubusercontent.com/u/129874807?s=64&u=5fc6674168fb6c95e4c5252960a06b1282737a9e&v=4" alt="drawing" width="64"/> | 2025-06-02T20:07:02Z |
 | [TylerAustinW](https://github.com/TylerAustinW) | <img src="https://avatars.githubusercontent.com/u/63419902?s=64&u=7446a13f7e73227010e04a373050b629e3451c64&v=4" alt="drawing" width="64"/> | 2025-05-26T02:07:52Z |
@@ -386,7 +387,7 @@
 | [dearbot](https://github.com/dearbot) | <img src="https://avatars.githubusercontent.com/u/86886568?s=64&u=1e7cf586cb2295817005e7eddc3cffb1b479084f&v=4" alt="drawing" width="64"/> | 2021-09-08T16:45:16Z |
 
 ## 贡献者
-<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_376_STARS&max=1000&columns=16" width="720"/> </a>
+<a><img src="https://contrib.rocks/image?repo=oslook/THIS_REPO_HAS_377_STARS&max=1000&columns=16" width="720"/> </a>
 ## 你想试试吗?
 
 . 请点击上面的 star 按钮!
